@@ -1,0 +1,3638 @@
+[
+    {
+        "mcq_id": "apple_pie",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: apple pie)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: pad thai)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.27403141699738554,
+            "B": 1.0,
+            "C": 0.2874821430653003,
+            "D": 0.3366759318374937
+        }
+    },
+    {
+        "mcq_id": "apple_pie",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pizza)",
+            "B": "(Class: churros)",
+            "C": "(Class: samosa)",
+            "D": "(Class: apple pie)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6967717283378019,
+            "B": 0.6901213998129355,
+            "C": 0.6656810926677138,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "baby_back_ribs",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: baby back ribs)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.329588841179121,
+            "B": 0.34640999128530026,
+            "C": 1.0,
+            "D": 0.3597674391709598
+        }
+    },
+    {
+        "mcq_id": "baby_back_ribs",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: baby back ribs)",
+            "B": "(Class: steak)",
+            "C": "(Class: pork chop)",
+            "D": "(Class: filet mignon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7359414614290642,
+            "C": 0.7317935083882026,
+            "D": 0.7209713983522476
+        }
+    },
+    {
+        "mcq_id": "baklava",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: baklava)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.2797155601131592,
+            "B": 1.0,
+            "C": 0.2800164788431721,
+            "D": 0.32386474452117386
+        }
+    },
+    {
+        "mcq_id": "baklava",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beignets)",
+            "B": "(Class: cannoli)",
+            "C": "(Class: churros)",
+            "D": "(Class: baklava)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6574478582694595,
+            "B": 0.6470337667328083,
+            "C": 0.6255584493790148,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "beef_carpaccio",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miso soup)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: beef carpaccio)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.3123337310407129,
+            "B": 0.362389804366221,
+            "C": 0.4160689669719496,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "beef_carpaccio",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beef carpaccio)",
+            "B": "(Class: filet mignon)",
+            "C": "(Class: steak)",
+            "D": "(Class: beef tartare)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7984721254164336,
+            "C": 0.7736221858461677,
+            "D": 0.7399804429167521
+        }
+    },
+    {
+        "mcq_id": "beef_tartare",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beef tartare)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: frozen yogurt)",
+            "D": "(Class: miso soup)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.304505646986431,
+            "C": 0.3350171318667677,
+            "D": 0.36057990304158144
+        }
+    },
+    {
+        "mcq_id": "beef_tartare",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: filet mignon)",
+            "B": "(Class: beef tartare)",
+            "C": "(Class: omelette)",
+            "D": "(Class: bruschetta)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7623946706282644,
+            "B": 1.0,
+            "C": 0.7464985240662945,
+            "D": 0.7443318302044805
+        }
+    },
+    {
+        "mcq_id": "beet_salad",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: beet salad)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: miso soup)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3554239338559001,
+            "B": 1.0,
+            "C": 0.4245419411855394,
+            "D": 0.42835260728257074
+        }
+    },
+    {
+        "mcq_id": "beet_salad",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: beef carpaccio)",
+            "C": "(Class: cheese plate)",
+            "D": "(Class: beet salad)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7329793591075145,
+            "B": 0.7049758236663001,
+            "C": 0.677932273239096,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "beignets",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: beignets)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.26831092969900894,
+            "B": 0.27136783933296027,
+            "C": 0.27627457143865874,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "beignets",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french toast)",
+            "B": "(Class: churros)",
+            "C": "(Class: beignets)",
+            "D": "(Class: cannoli)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.733855018224056,
+            "B": 0.7003632941616851,
+            "C": 1.0,
+            "D": 0.6817225175424261
+        }
+    },
+    {
+        "mcq_id": "bibimbap",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tiramisu)",
+            "B": "(Class: ice cream)",
+            "C": "(Class: foie gras)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.19421218098837134,
+            "B": 0.1983004979400102,
+            "C": 0.20405684815690986,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "bibimbap",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: paella)",
+            "C": "(Class: fried rice)",
+            "D": "(Class: takoyaki)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6197998697182591,
+            "C": 0.6073781743425167,
+            "D": 0.5881002418072715
+        }
+    },
+    {
+        "mcq_id": "bread_pudding",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tuna tartare)",
+            "B": "(Class: bread pudding)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.2609472611062852,
+            "B": 1.0,
+            "C": 0.29459366688352207,
+            "D": 0.33604620992332446
+        }
+    },
+    {
+        "mcq_id": "bread_pudding",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french toast)",
+            "B": "(Class: cheesecake)",
+            "C": "(Class: ice cream)",
+            "D": "(Class: bread pudding)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6808403950505652,
+            "B": 0.6654186278889184,
+            "C": 0.66085348918562,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "breakfast_burrito",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: breakfast burrito)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.33679390608510196,
+            "B": 1.0,
+            "C": 0.35140619364748177,
+            "D": 0.3632643947434123
+        }
+    },
+    {
+        "mcq_id": "breakfast_burrito",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tacos)",
+            "B": "(Class: chicken quesadilla)",
+            "C": "(Class: omelette)",
+            "D": "(Class: breakfast burrito)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7858464443007876,
+            "B": 0.7763218867164126,
+            "C": 0.7527983416018909,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "bruschetta",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bruschetta)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: pad thai)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.39798835591305204,
+            "C": 0.4090908107259888,
+            "D": 0.41849173095260755
+        }
+    },
+    {
+        "mcq_id": "bruschetta",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: garlic bread)",
+            "B": "(Class: omelette)",
+            "C": "(Class: bruschetta)",
+            "D": "(Class: beef tartare)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7828551729954827,
+            "B": 0.7462547697877316,
+            "C": 1.0,
+            "D": 0.7443318302044805
+        }
+    },
+    {
+        "mcq_id": "caesar_salad",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: frozen yogurt)",
+            "B": "(Class: takoyaki)",
+            "C": "(Class: caesar salad)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2493771732174929,
+            "B": 0.25688790572353853,
+            "C": 1.0,
+            "D": 0.2654989266318262
+        }
+    },
+    {
+        "mcq_id": "caesar_salad",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: spaghetti carbonara)",
+            "B": "(Class: caesar salad)",
+            "C": "(Class: garlic bread)",
+            "D": "(Class: risotto)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6321878436537282,
+            "B": 1.0,
+            "C": 0.5519633942737413,
+            "D": 0.550127753228401
+        }
+    },
+    {
+        "mcq_id": "cannoli",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cannoli)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: miso soup)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.21308047900626637,
+            "C": 0.2541133897305609,
+            "D": 0.2791259131850113
+        }
+    },
+    {
+        "mcq_id": "cannoli",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cannoli)",
+            "B": "(Class: churros)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: beignets)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7003515234203466,
+            "C": 0.7000027971464884,
+            "D": 0.6817225175424261
+        }
+    },
+    {
+        "mcq_id": "caprese_salad",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: caprese salad)",
+            "B": "(Class: cup cakes)",
+            "C": "(Class: frozen yogurt)",
+            "D": "(Class: takoyaki)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3075706256116322,
+            "C": 0.30888310210238223,
+            "D": 0.3187822480202882
+        }
+    },
+    {
+        "mcq_id": "caprese_salad",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: bruschetta)",
+            "C": "(Class: panna cotta)",
+            "D": "(Class: caprese salad)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5842530749508054,
+            "B": 0.5811973695569029,
+            "C": 0.5734372326822889,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "carrot_cake",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: shrimp and grits)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: carrot cake)",
+            "D": "(Class: hot and sour soup)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3502997720642048,
+            "B": 0.350315504270303,
+            "C": 1.0,
+            "D": 0.3547519932794572
+        }
+    },
+    {
+        "mcq_id": "carrot_cake",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: carrot cake)",
+            "B": "(Class: red velvet cake)",
+            "C": "(Class: cup cakes)",
+            "D": "(Class: chocolate cake)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6992953751280091,
+            "C": 0.6365466200665936,
+            "D": 0.6360369511331612
+        }
+    },
+    {
+        "mcq_id": "ceviche",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beignets)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: cannoli)",
+            "D": "(Class: ceviche)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.2929112393914644,
+            "B": 0.29609061664011405,
+            "C": 0.31411011680563605,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "ceviche",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: guacamole)",
+            "B": "(Class: ceviche)",
+            "C": "(Class: sashimi)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6564527230782156,
+            "B": 1.0,
+            "C": 0.6308854267477257,
+            "D": 0.6064998252620254
+        }
+    },
+    {
+        "mcq_id": "cheese_plate",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pad thai)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: cheese plate)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.3649133237243819,
+            "B": 0.36632636200259255,
+            "C": 0.4028205606765829,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "cheese_plate",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: beet salad)",
+            "C": "(Class: bruschetta)",
+            "D": "(Class: cheese plate)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7049758236663001,
+            "B": 0.697975304418889,
+            "C": 0.6916775612815855,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "cheesecake",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cheesecake)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.29465548936850716,
+            "C": 0.34007450432006264,
+            "D": 0.36728049847536715
+        }
+    },
+    {
+        "mcq_id": "cheesecake",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chocolate mousse)",
+            "B": "(Class: cheesecake)",
+            "C": "(Class: panna cotta)",
+            "D": "(Class: ice cream)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7484367564348697,
+            "B": 1.0,
+            "C": 0.7176433402148863,
+            "D": 0.7159856061033768
+        }
+    },
+    {
+        "mcq_id": "chicken_curry",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: chicken curry)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.34889661999008,
+            "B": 0.36553085870443536,
+            "C": 1.0,
+            "D": 0.3805127620736678
+        }
+    },
+    {
+        "mcq_id": "chicken_curry",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: steak)",
+            "B": "(Class: chicken curry)",
+            "C": "(Class: risotto)",
+            "D": "(Class: filet mignon)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7952742753988734,
+            "B": 1.0,
+            "C": 0.768220720041922,
+            "D": 0.7568384552041986
+        }
+    },
+    {
+        "mcq_id": "chicken_quesadilla",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: chicken quesadilla)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3314230957385437,
+            "B": 1.0,
+            "C": 0.3899141189013959,
+            "D": 0.4018434974560571
+        }
+    },
+    {
+        "mcq_id": "chicken_quesadilla",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tacos)",
+            "B": "(Class: chicken quesadilla)",
+            "C": "(Class: breakfast burrito)",
+            "D": "(Class: omelette)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.790727929667782,
+            "B": 1.0,
+            "C": 0.7858464443007876,
+            "D": 0.7684917768427331
+        }
+    },
+    {
+        "mcq_id": "chicken_wings",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: chicken wings)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.2835454841379513,
+            "B": 1.0,
+            "C": 0.2971482277611949,
+            "D": 0.34316768598680253
+        }
+    },
+    {
+        "mcq_id": "chicken_wings",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chicken wings)",
+            "B": "(Class: churros)",
+            "C": "(Class: fried calamari)",
+            "D": "(Class: baby back ribs)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7443791736118782,
+            "C": 0.7069813962665783,
+            "D": 0.7031069129899964
+        }
+    },
+    {
+        "mcq_id": "chocolate_cake",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pad thai)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: chocolate cake)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.23555379755334888,
+            "B": 0.31537909701171274,
+            "C": 0.3440615935488969,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "chocolate_cake",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: red velvet cake)",
+            "B": "(Class: cup cakes)",
+            "C": "(Class: chocolate cake)",
+            "D": "(Class: churros)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7596848887627323,
+            "B": 0.7349272160355352,
+            "C": 1.0,
+            "D": 0.6935393009201255
+        }
+    },
+    {
+        "mcq_id": "chocolate_mousse",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: paella)",
+            "B": "(Class: bibimbap)",
+            "C": "(Class: chocolate mousse)",
+            "D": "(Class: hot and sour soup)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.33117214397664535,
+            "B": 0.33580558604476396,
+            "C": 1.0,
+            "D": 0.3364650775905298
+        }
+    },
+    {
+        "mcq_id": "chocolate_mousse",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: panna cotta)",
+            "B": "(Class: cheesecake)",
+            "C": "(Class: chocolate cake)",
+            "D": "(Class: chocolate mousse)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7484367564348697,
+            "B": 0.6887128628091107,
+            "C": 0.6884046217520331,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "churros",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: churros)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2823561331733125,
+            "B": 0.30337250537769955,
+            "C": 1.0,
+            "D": 0.34401280858076466
+        }
+    },
+    {
+        "mcq_id": "churros",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: samosa)",
+            "B": "(Class: churros)",
+            "C": "(Class: chicken wings)",
+            "D": "(Class: beignets)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7824758213170796,
+            "B": 1.0,
+            "C": 0.7443791736118782,
+            "D": 0.733855018224056
+        }
+    },
+    {
+        "mcq_id": "clam_chowder",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: clam chowder)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: strawberry shortcake)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3576176949265677,
+            "C": 0.3841299950135739,
+            "D": 0.3894084583422486
+        }
+    },
+    {
+        "mcq_id": "clam_chowder",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: lobster bisque)",
+            "B": "(Class: clam chowder)",
+            "C": "(Class: hummus)",
+            "D": "(Class: risotto)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7276423069597032,
+            "B": 1.0,
+            "C": 0.6634951346752805,
+            "D": 0.6571512546280432
+        }
+    },
+    {
+        "mcq_id": "club_sandwich",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: shrimp and grits)",
+            "B": "(Class: club sandwich)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: pad thai)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.30747780145304865,
+            "B": 1.0,
+            "C": 0.34039341541410767,
+            "D": 0.3508332938011908
+        }
+    },
+    {
+        "mcq_id": "club_sandwich",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: club sandwich)",
+            "B": "(Class: hamburger)",
+            "C": "(Class: pulled pork sandwich)",
+            "D": "(Class: croque madame)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7820086301608898,
+            "C": 0.7710999585159484,
+            "D": 0.7241111445984779
+        }
+    },
+    {
+        "mcq_id": "crab_cakes",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: crab cakes)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2418527893527342,
+            "B": 0.2830578028569885,
+            "C": 1.0,
+            "D": 0.29767108704010226
+        }
+    },
+    {
+        "mcq_id": "crab_cakes",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: crab cakes)",
+            "B": "(Class: chicken curry)",
+            "C": "(Class: fried calamari)",
+            "D": "(Class: chicken wings)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6911601202446606,
+            "C": 0.686758681742627,
+            "D": 0.6791645504401052
+        }
+    },
+    {
+        "mcq_id": "creme_brulee",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: seaweed salad)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: pad thai)",
+            "D": "(Class: creme brulee)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.28268302243310295,
+            "B": 0.32695924864911413,
+            "C": 0.32877790445660454,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "creme_brulee",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: panna cotta)",
+            "B": "(Class: cheesecake)",
+            "C": "(Class: chocolate mousse)",
+            "D": "(Class: creme brulee)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6716467087397542,
+            "B": 0.635063716307673,
+            "C": 0.6232429157211312,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "croque_madame",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: frozen yogurt)",
+            "C": "(Class: shrimp and grits)",
+            "D": "(Class: croque madame)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.337227162838698,
+            "B": 0.3694980271469732,
+            "C": 0.37698956465042666,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "croque_madame",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: croque madame)",
+            "B": "(Class: club sandwich)",
+            "C": "(Class: bruschetta)",
+            "D": "(Class: grilled cheese sandwich)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7241111445984779,
+            "C": 0.7074924916465424,
+            "D": 0.7054397639745043
+        }
+    },
+    {
+        "mcq_id": "cup_cakes",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: caprese salad)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: cup cakes)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.2957232463910597,
+            "B": 0.305654158768046,
+            "C": 0.3075706256116322,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "cup_cakes",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chocolate cake)",
+            "B": "(Class: cup cakes)",
+            "C": "(Class: red velvet cake)",
+            "D": "(Class: carrot cake)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7596848887627323,
+            "B": 1.0,
+            "C": 0.64847348583391,
+            "D": 0.6365466200665936
+        }
+    },
+    {
+        "mcq_id": "deviled_eggs",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: deviled eggs)",
+            "C": "(Class: frozen yogurt)",
+            "D": "(Class: miso soup)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3459635200695733,
+            "B": 1.0,
+            "C": 0.3561087666292427,
+            "D": 0.3601140454245101
+        }
+    },
+    {
+        "mcq_id": "deviled_eggs",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beef tartare)",
+            "B": "(Class: eggs benedict)",
+            "C": "(Class: omelette)",
+            "D": "(Class: deviled eggs)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6929823400202311,
+            "B": 0.6760332964724772,
+            "C": 0.6246529011056422,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "donuts",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: french onion soup)",
+            "D": "(Class: donuts)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.18571675715304548,
+            "B": 0.2442145064714405,
+            "C": 0.2814328270619719,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "donuts",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: churros)",
+            "B": "(Class: ice cream)",
+            "C": "(Class: waffles)",
+            "D": "(Class: donuts)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.736613122616939,
+            "B": 0.7344158194422654,
+            "C": 0.7083847784275158,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "dumplings",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french onion soup)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: dumplings)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.32247311505400905,
+            "B": 0.3620398163841999,
+            "C": 0.3872329941071996,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "dumplings",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: dumplings)",
+            "B": "(Class: gyoza)",
+            "C": "(Class: gnocchi)",
+            "D": "(Class: spring rolls)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8493701961732864,
+            "C": 0.8006179728190161,
+            "D": 0.7546283947537685
+        }
+    },
+    {
+        "mcq_id": "edamame",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: edamame)",
+            "B": "(Class: bibimbap)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.23862643110242415,
+            "C": 0.2397577000438732,
+            "D": 0.2613550855407188
+        }
+    },
+    {
+        "mcq_id": "edamame",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: filet mignon)",
+            "B": "(Class: edamame)",
+            "C": "(Class: chicken curry)",
+            "D": "(Class: gnocchi)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6105741688649998,
+            "B": 1.0,
+            "C": 0.608674904755883,
+            "D": 0.5971159910238002
+        }
+    },
+    {
+        "mcq_id": "eggs_benedict",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: eggs benedict)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.35466922408791385,
+            "B": 0.36099114332225773,
+            "C": 1.0,
+            "D": 0.37893108658195507
+        }
+    },
+    {
+        "mcq_id": "eggs_benedict",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: eggs benedict)",
+            "C": "(Class: deviled eggs)",
+            "D": "(Class: bruschetta)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7800242027166993,
+            "B": 1.0,
+            "C": 0.6929823400202311,
+            "D": 0.6840545555843638
+        }
+    },
+    {
+        "mcq_id": "escargots",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: escargots)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: strawberry shortcake)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.2976744967260805,
+            "C": 0.31116052835090946,
+            "D": 0.3179527814793076
+        }
+    },
+    {
+        "mcq_id": "escargots",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: mussels)",
+            "B": "(Class: escargots)",
+            "C": "(Class: french onion soup)",
+            "D": "(Class: samosa)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6749875498308975,
+            "B": 1.0,
+            "C": 0.6130597287762997,
+            "D": 0.5733613855144059
+        }
+    },
+    {
+        "mcq_id": "falafel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: falafel)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: caesar salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3160893736586777,
+            "B": 1.0,
+            "C": 0.31879192116495436,
+            "D": 0.3203768058191776
+        }
+    },
+    {
+        "mcq_id": "falafel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: falafel)",
+            "B": "(Class: gyoza)",
+            "C": "(Class: onion rings)",
+            "D": "(Class: hummus)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6938211970664975,
+            "C": 0.682079936301953,
+            "D": 0.653207803012677
+        }
+    },
+    {
+        "mcq_id": "filet_mignon",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: filet mignon)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2615923581779037,
+            "B": 0.33506420177262264,
+            "C": 1.0,
+            "D": 0.34069623290828266
+        }
+    },
+    {
+        "mcq_id": "filet_mignon",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: filet mignon)",
+            "B": "(Class: steak)",
+            "C": "(Class: beef carpaccio)",
+            "D": "(Class: garlic bread)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8310005783928254,
+            "C": 0.7984721254164336,
+            "D": 0.7637890056992228
+        }
+    },
+    {
+        "mcq_id": "fish_and_chips",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: edamame)",
+            "B": "(Class: fish and chips)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3315018769599384,
+            "B": 1.0,
+            "C": 0.3352927860461606,
+            "D": 0.3471373865933436
+        }
+    },
+    {
+        "mcq_id": "fish_and_chips",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: fish and chips)",
+            "B": "(Class: french fries)",
+            "C": "(Class: onion rings)",
+            "D": "(Class: grilled cheese sandwich)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6709558614908583,
+            "C": 0.6566519267927214,
+            "D": 0.6250875400777834
+        }
+    },
+    {
+        "mcq_id": "foie_gras",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: bibimbap)",
+            "C": "(Class: foie gras)",
+            "D": "(Class: takoyaki)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.1983004979400102,
+            "B": 0.25259289707597526,
+            "C": 1.0,
+            "D": 0.2641838334091571
+        }
+    },
+    {
+        "mcq_id": "foie_gras",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: ice cream)",
+            "B": "(Class: filet mignon)",
+            "C": "(Class: foie gras)",
+            "D": "(Class: peking duck)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7088615749374855,
+            "B": 0.7035342951165888,
+            "C": 1.0,
+            "D": 0.6938458527569726
+        }
+    },
+    {
+        "mcq_id": "french_fries",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french fries)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3007106387565984,
+            "C": 0.34945104647862174,
+            "D": 0.3574935070717555
+        }
+    },
+    {
+        "mcq_id": "french_fries",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french fries)",
+            "B": "(Class: poutine)",
+            "C": "(Class: grilled cheese sandwich)",
+            "D": "(Class: chicken wings)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7020602611021054,
+            "C": 0.695102981020509,
+            "D": 0.6891903300001234
+        }
+    },
+    {
+        "mcq_id": "french_onion_soup",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french onion soup)",
+            "B": "(Class: donuts)",
+            "C": "(Class: ice cream)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.2442145064714405,
+            "C": 0.2634891172860389,
+            "D": 0.2660702196460479
+        }
+    },
+    {
+        "mcq_id": "french_onion_soup",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: escargots)",
+            "C": "(Class: lobster bisque)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6130597287762997,
+            "B": 0.6121773528301886,
+            "C": 0.5925574868435893,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "french_toast",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: french toast)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: seaweed salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.30901946074619174,
+            "B": 1.0,
+            "C": 0.34045572554322867,
+            "D": 0.3407949879049816
+        }
+    },
+    {
+        "mcq_id": "french_toast",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pancakes)",
+            "B": "(Class: french toast)",
+            "C": "(Class: beignets)",
+            "D": "(Class: bread pudding)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7124921472233763,
+            "B": 1.0,
+            "C": 0.7003632941616851,
+            "D": 0.66085348918562
+        }
+    },
+    {
+        "mcq_id": "fried_calamari",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: bibimbap)",
+            "C": "(Class: fried calamari)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3099850586659779,
+            "B": 0.3273709988795282,
+            "C": 1.0,
+            "D": 0.3332397647560136
+        }
+    },
+    {
+        "mcq_id": "fried_calamari",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chicken wings)",
+            "B": "(Class: fried calamari)",
+            "C": "(Class: crab cakes)",
+            "D": "(Class: churros)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7069813962665783,
+            "B": 1.0,
+            "C": 0.686758681742627,
+            "D": 0.6699037609808596
+        }
+    },
+    {
+        "mcq_id": "fried_rice",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: french onion soup)",
+            "C": "(Class: frozen yogurt)",
+            "D": "(Class: fried rice)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.39117931306430165,
+            "B": 0.3919720956598531,
+            "C": 0.3924879940024833,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "fried_rice",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: risotto)",
+            "C": "(Class: fried rice)",
+            "D": "(Class: chicken curry)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7857059667088031,
+            "B": 0.7269854822484147,
+            "C": 1.0,
+            "D": 0.7222426425427042
+        }
+    },
+    {
+        "mcq_id": "frozen_yogurt",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: frozen yogurt)",
+            "B": "(Class: caesar salad)",
+            "C": "(Class: garlic bread)",
+            "D": "(Class: shrimp and grits)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.25688790572353853,
+            "C": 0.2728580488768249,
+            "D": 0.2832207523517599
+        }
+    },
+    {
+        "mcq_id": "frozen_yogurt",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: frozen yogurt)",
+            "B": "(Class: cup cakes)",
+            "C": "(Class: cheese plate)",
+            "D": "(Class: chocolate mousse)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6251398002839151,
+            "C": 0.5621993805552704,
+            "D": 0.5551953689531818
+        }
+    },
+    {
+        "mcq_id": "garlic_bread",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: frozen yogurt)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: garlic bread)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2574570267505866,
+            "B": 0.2728580488768249,
+            "C": 1.0,
+            "D": 0.2886913439830095
+        }
+    },
+    {
+        "mcq_id": "garlic_bread",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: filet mignon)",
+            "C": "(Class: garlic bread)",
+            "D": "(Class: bruschetta)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7637890056992228,
+            "B": 0.7498635315600024,
+            "C": 1.0,
+            "D": 0.7462547697877316
+        }
+    },
+    {
+        "mcq_id": "gnocchi",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: tuna tartare)",
+            "C": "(Class: gnocchi)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3186208797990511,
+            "B": 0.32394398962833815,
+            "C": 1.0,
+            "D": 0.33091240632378094
+        }
+    },
+    {
+        "mcq_id": "gnocchi",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: dumplings)",
+            "C": "(Class: garlic bread)",
+            "D": "(Class: gnocchi)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8006179728190161,
+            "B": 0.7306727669360247,
+            "C": 0.70873111439938,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "greek_salad",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: edamame)",
+            "C": "(Class: ravioli)",
+            "D": "(Class: beignets)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.2613550855407188,
+            "C": 0.2659304061420001,
+            "D": 0.26831092969900894
+        }
+    },
+    {
+        "mcq_id": "greek_salad",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: seaweed salad)",
+            "B": "(Class: caprese salad)",
+            "C": "(Class: beet salad)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5734372326822889,
+            "B": 0.5431446423773749,
+            "C": 0.49962455312038473,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "grilled_cheese_sandwich",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: grilled cheese sandwich)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3231740687013267,
+            "C": 0.3293487498015363,
+            "D": 0.3332953617763388
+        }
+    },
+    {
+        "mcq_id": "grilled_cheese_sandwich",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: club sandwich)",
+            "B": "(Class: garlic bread)",
+            "C": "(Class: grilled cheese sandwich)",
+            "D": "(Class: lasagna)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7117308064250638,
+            "B": 0.7097474079065298,
+            "C": 1.0,
+            "D": 0.7059529732071622
+        }
+    },
+    {
+        "mcq_id": "grilled_salmon",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: caesar salad)",
+            "D": "(Class: grilled salmon)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.36751215686563443,
+            "B": 0.3701357003045737,
+            "C": 0.37986970323880487,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "grilled_salmon",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: sashimi)",
+            "B": "(Class: grilled salmon)",
+            "C": "(Class: beet salad)",
+            "D": "(Class: steak)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.674992457867546,
+            "B": 1.0,
+            "C": 0.6595628917317182,
+            "D": 0.6571101983076822
+        }
+    },
+    {
+        "mcq_id": "guacamole",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: guacamole)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3663372351447234,
+            "C": 0.3711755959920343,
+            "D": 0.3752335384933743
+        }
+    },
+    {
+        "mcq_id": "guacamole",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: ceviche)",
+            "B": "(Class: chicken quesadilla)",
+            "C": "(Class: guacamole)",
+            "D": "(Class: hummus)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.663536086220048,
+            "B": 0.6564527230782156,
+            "C": 1.0,
+            "D": 0.6508372158893065
+        }
+    },
+    {
+        "mcq_id": "gyoza",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: caesar salad)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: gyoza)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3262572263466102,
+            "B": 0.37234123078665293,
+            "C": 1.0,
+            "D": 0.4010520648785649
+        }
+    },
+    {
+        "mcq_id": "gyoza",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: gnocchi)",
+            "B": "(Class: dumplings)",
+            "C": "(Class: spring rolls)",
+            "D": "(Class: gyoza)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8493701961732864,
+            "B": 0.7201218424796363,
+            "C": 0.7074253377061351,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "hamburger",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: hamburger)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.37261385564800814,
+            "B": 1.0,
+            "C": 0.3881918623691647,
+            "D": 0.3987886007688222
+        }
+    },
+    {
+        "mcq_id": "hamburger",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: club sandwich)",
+            "B": "(Class: hamburger)",
+            "C": "(Class: hot dog)",
+            "D": "(Class: pulled pork sandwich)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7820086301608898,
+            "B": 1.0,
+            "C": 0.7645477291417364,
+            "D": 0.751671709831505
+        }
+    },
+    {
+        "mcq_id": "hot_and_sour_soup",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: donuts)",
+            "D": "(Class: ice cream)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.17174874526902778,
+            "C": 0.18571675715304548,
+            "D": 0.20859154651478803
+        }
+    },
+    {
+        "mcq_id": "hot_and_sour_soup",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: miso soup)",
+            "C": "(Class: pho)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8247994412091675,
+            "C": 0.6192842133161875,
+            "D": 0.5925574868435893
+        }
+    },
+    {
+        "mcq_id": "hot_dog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot dog)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3392746676457502,
+            "C": 0.37289305408469753,
+            "D": 0.3922015832234416
+        }
+    },
+    {
+        "mcq_id": "hot_dog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: churros)",
+            "B": "(Class: hamburger)",
+            "C": "(Class: pulled pork sandwich)",
+            "D": "(Class: hot dog)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7645477291417364,
+            "B": 0.7095535504439023,
+            "C": 0.6899873594153245,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "huevos_rancheros",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: foie gras)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: huevos rancheros)",
+            "D": "(Class: caesar salad)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.31413137751143083,
+            "B": 0.3237939374686927,
+            "C": 1.0,
+            "D": 0.32857353935895584
+        }
+    },
+    {
+        "mcq_id": "huevos_rancheros",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: nachos)",
+            "B": "(Class: chicken quesadilla)",
+            "C": "(Class: breakfast burrito)",
+            "D": "(Class: huevos rancheros)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.682891551235646,
+            "B": 0.619240813774856,
+            "C": 0.6153712444707432,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "hummus",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: strawberry shortcake)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: hummus)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.38154584827671245,
+            "B": 0.4258713266864737,
+            "C": 1.0,
+            "D": 0.43483036768282113
+        }
+    },
+    {
+        "mcq_id": "hummus",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: clam chowder)",
+            "B": "(Class: lobster bisque)",
+            "C": "(Class: hummus)",
+            "D": "(Class: falafel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.721802233036595,
+            "B": 0.6634951346752805,
+            "C": 1.0,
+            "D": 0.653207803012677
+        }
+    },
+    {
+        "mcq_id": "ice_cream",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: bibimbap)",
+            "C": "(Class: ice cream)",
+            "D": "(Class: takoyaki)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.19421218098837134,
+            "B": 0.20859154651478803,
+            "C": 1.0,
+            "D": 0.23725817815266
+        }
+    },
+    {
+        "mcq_id": "ice_cream",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: filet mignon)",
+            "B": "(Class: ice cream)",
+            "C": "(Class: donuts)",
+            "D": "(Class: cheesecake)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7449455398397365,
+            "B": 1.0,
+            "C": 0.736613122616939,
+            "D": 0.7159856061033768
+        }
+    },
+    {
+        "mcq_id": "lasagna",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: lasagna)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.3083351963488394,
+            "B": 0.32564305700156415,
+            "C": 0.33988585707407676,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "lasagna",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: pizza)",
+            "C": "(Class: steak)",
+            "D": "(Class: lasagna)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7441797276261747,
+            "B": 0.7404750617862194,
+            "C": 0.7353336773271606,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "lobster_bisque",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tiramisu)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: lobster bisque)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.28146141834015476,
+            "B": 0.3886105954144749,
+            "C": 0.4133156148322195,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "lobster_bisque",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: clam chowder)",
+            "B": "(Class: lobster bisque)",
+            "C": "(Class: hummus)",
+            "D": "(Class: chicken curry)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7276423069597032,
+            "B": 1.0,
+            "C": 0.721802233036595,
+            "D": 0.6917516885342856
+        }
+    },
+    {
+        "mcq_id": "lobster_roll_sandwich",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: lobster roll sandwich)",
+            "C": "(Class: miso soup)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3217124446741092,
+            "B": 1.0,
+            "C": 0.33189421831059285,
+            "D": 0.35817267798692026
+        }
+    },
+    {
+        "mcq_id": "lobster_roll_sandwich",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hamburger)",
+            "B": "(Class: croque madame)",
+            "C": "(Class: lobster roll sandwich)",
+            "D": "(Class: club sandwich)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.651877423286585,
+            "B": 0.6457356440512482,
+            "C": 1.0,
+            "D": 0.6454707792032329
+        }
+    },
+    {
+        "mcq_id": "macaroni_and_cheese",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: macaroni and cheese)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: hot and sour soup)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3115530332213972,
+            "B": 1.0,
+            "C": 0.36015278329283074,
+            "D": 0.36196485537153267
+        }
+    },
+    {
+        "mcq_id": "macaroni_and_cheese",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: macaroni and cheese)",
+            "B": "(Class: ravioli)",
+            "C": "(Class: lasagna)",
+            "D": "(Class: apple pie)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6733991254983112,
+            "C": 0.6666393254677323,
+            "D": 0.6608836920874811
+        }
+    },
+    {
+        "mcq_id": "macarons",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: macarons)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: miso soup)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.29833200704926094,
+            "C": 0.3090881133136993,
+            "D": 0.3283866295298174
+        }
+    },
+    {
+        "mcq_id": "macarons",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: macarons)",
+            "B": "(Class: cup cakes)",
+            "C": "(Class: cheesecake)",
+            "D": "(Class: cannoli)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6340136839392618,
+            "C": 0.6114964963625226,
+            "D": 0.592375087416439
+        }
+    },
+    {
+        "mcq_id": "miso_soup",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cannoli)",
+            "B": "(Class: strawberry shortcake)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: miso soup)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.22863412207621223,
+            "B": 0.26528855176690547,
+            "C": 0.2791259131850113,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "miso_soup",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miso soup)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: lobster bisque)",
+            "D": "(Class: pho)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8247994412091675,
+            "C": 0.6172555551491044,
+            "D": 0.6000561805780399
+        }
+    },
+    {
+        "mcq_id": "mussels",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: strawberry shortcake)",
+            "B": "(Class: mussels)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3091371663950442,
+            "B": 1.0,
+            "C": 0.3394065733613062,
+            "D": 0.3428670549215916
+        }
+    },
+    {
+        "mcq_id": "mussels",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: clam chowder)",
+            "B": "(Class: oysters)",
+            "C": "(Class: escargots)",
+            "D": "(Class: mussels)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7462280071036853,
+            "B": 0.6749875498308975,
+            "C": 0.6421224804522891,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "nachos",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: shrimp and grits)",
+            "B": "(Class: foie gras)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: nachos)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.3257415038557115,
+            "B": 0.3278083276219575,
+            "C": 0.3329116582805402,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "nachos",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: nachos)",
+            "B": "(Class: cheese plate)",
+            "C": "(Class: hummus)",
+            "D": "(Class: huevos rancheros)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6210686557480601,
+            "C": 0.6156534489711951,
+            "D": 0.6153712444707432
+        }
+    },
+    {
+        "mcq_id": "omelette",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tuna tartare)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: omelette)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.37648043244704305,
+            "B": 0.3885542631731797,
+            "C": 1.0,
+            "D": 0.4004492712594399
+        }
+    },
+    {
+        "mcq_id": "omelette",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: eggs benedict)",
+            "B": "(Class: bruschetta)",
+            "C": "(Class: omelette)",
+            "D": "(Class: breakfast burrito)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7828551729954827,
+            "B": 0.7800242027166993,
+            "C": 1.0,
+            "D": 0.7763218867164126
+        }
+    },
+    {
+        "mcq_id": "onion_rings",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: strawberry shortcake)",
+            "B": "(Class: onion rings)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: caprese salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.276407284745399,
+            "B": 1.0,
+            "C": 0.28359581337849865,
+            "D": 0.332779725492097
+        }
+    },
+    {
+        "mcq_id": "onion_rings",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: onion rings)",
+            "B": "(Class: samosa)",
+            "C": "(Class: churros)",
+            "D": "(Class: gyoza)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7201669099205747,
+            "C": 0.7090741695778374,
+            "D": 0.6860790175728709
+        }
+    },
+    {
+        "mcq_id": "oysters",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: greek salad)",
+            "B": "(Class: oysters)",
+            "C": "(Class: pad thai)",
+            "D": "(Class: strawberry shortcake)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.28754590603878527,
+            "B": 1.0,
+            "C": 0.32742295940247373,
+            "D": 0.3369973380867637
+        }
+    },
+    {
+        "mcq_id": "oysters",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: sashimi)",
+            "B": "(Class: mussels)",
+            "C": "(Class: oysters)",
+            "D": "(Class: steak)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7462280071036853,
+            "B": 0.6257292707532185,
+            "C": 1.0,
+            "D": 0.6204103976367618
+        }
+    },
+    {
+        "mcq_id": "pad_thai",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: oysters)",
+            "B": "(Class: creme brulee)",
+            "C": "(Class: pad thai)",
+            "D": "(Class: escargots)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.32695924864911413,
+            "B": 0.32742295940247373,
+            "C": 1.0,
+            "D": 0.3309309364986352
+        }
+    },
+    {
+        "mcq_id": "pad_thai",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pad thai)",
+            "B": "(Class: pho)",
+            "C": "(Class: ramen)",
+            "D": "(Class: spaghetti bolognese)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7521567010421463,
+            "C": 0.6190420190539495,
+            "D": 0.5761022248243103
+        }
+    },
+    {
+        "mcq_id": "paella",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: ice cream)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: paella)",
+            "D": "(Class: foie gras)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.28428886926556046,
+            "B": 0.31303947482746186,
+            "C": 1.0,
+            "D": 0.3257704387939782
+        }
+    },
+    {
+        "mcq_id": "paella",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: fried rice)",
+            "C": "(Class: paella)",
+            "D": "(Class: risotto)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6398497648584367,
+            "B": 0.6197998697182591,
+            "C": 1.0,
+            "D": 0.6119329208066174
+        }
+    },
+    {
+        "mcq_id": "pancakes",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: pancakes)",
+            "D": "(Class: caesar salad)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.32172104224740483,
+            "B": 0.3239174257995568,
+            "C": 1.0,
+            "D": 0.35988907495567635
+        }
+    },
+    {
+        "mcq_id": "pancakes",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pancakes)",
+            "B": "(Class: french toast)",
+            "C": "(Class: churros)",
+            "D": "(Class: cheesecake)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7124921472233763,
+            "C": 0.6964122569547857,
+            "D": 0.6780459352545141
+        }
+    },
+    {
+        "mcq_id": "panna_cotta",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: panna cotta)",
+            "B": "(Class: bibimbap)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: takoyaki)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.2633202334691902,
+            "C": 0.30373305024175506,
+            "D": 0.3314079708455889
+        }
+    },
+    {
+        "mcq_id": "panna_cotta",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tiramisu)",
+            "B": "(Class: cheesecake)",
+            "C": "(Class: panna cotta)",
+            "D": "(Class: ice cream)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7176433402148863,
+            "B": 0.6988828021805502,
+            "C": 1.0,
+            "D": 0.6921734372756346
+        }
+    },
+    {
+        "mcq_id": "peking_duck",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: french onion soup)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: peking duck)",
+            "D": "(Class: ceviche)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.288212982549551,
+            "B": 0.3643975278750207,
+            "C": 1.0,
+            "D": 0.3740922661172652
+        }
+    },
+    {
+        "mcq_id": "peking_duck",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: foie gras)",
+            "B": "(Class: filet mignon)",
+            "C": "(Class: steak)",
+            "D": "(Class: peking duck)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7356057904160206,
+            "B": 0.6945786330561187,
+            "C": 0.6938458527569726,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "pho",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pho)",
+            "B": "(Class: tiramisu)",
+            "C": "(Class: strawberry shortcake)",
+            "D": "(Class: macarons)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3562658630487337,
+            "C": 0.37368723609372045,
+            "D": 0.4003186187429655
+        }
+    },
+    {
+        "mcq_id": "pho",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pad thai)",
+            "B": "(Class: pho)",
+            "C": "(Class: ramen)",
+            "D": "(Class: spring rolls)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7521567010421463,
+            "B": 1.0,
+            "C": 0.7360171051456884,
+            "D": 0.6573378811476035
+        }
+    },
+    {
+        "mcq_id": "pizza",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: pizza)",
+            "C": "(Class: miso soup)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.30204196257937715,
+            "B": 1.0,
+            "C": 0.3679448017199044,
+            "D": 0.3857354968616855
+        }
+    },
+    {
+        "mcq_id": "pizza",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: steak)",
+            "B": "(Class: lasagna)",
+            "C": "(Class: pizza)",
+            "D": "(Class: chicken curry)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7441797276261747,
+            "B": 0.731977717954045,
+            "C": 1.0,
+            "D": 0.7109272366361018
+        }
+    },
+    {
+        "mcq_id": "pork_chop",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: pork chop)",
+            "D": "(Class: caprese salad)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3058700748199447,
+            "B": 0.31259909817304915,
+            "C": 1.0,
+            "D": 0.3463980821119761
+        }
+    },
+    {
+        "mcq_id": "pork_chop",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: baby back ribs)",
+            "B": "(Class: steak)",
+            "C": "(Class: filet mignon)",
+            "D": "(Class: pork chop)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7732326013673025,
+            "B": 0.760262063393532,
+            "C": 0.7317935083882026,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "poutine",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: takoyaki)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: poutine)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.3376137425303108,
+            "B": 0.349639646854374,
+            "C": 0.38340097214801067,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "poutine",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: poutine)",
+            "B": "(Class: french fries)",
+            "C": "(Class: omelette)",
+            "D": "(Class: gnocchi)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7020602611021054,
+            "C": 0.6831680855000699,
+            "D": 0.6678997841645045
+        }
+    },
+    {
+        "mcq_id": "prime_rib",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: prime rib)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: pad thai)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.3259762532568838,
+            "B": 1.0,
+            "C": 0.3432160646609172,
+            "D": 0.39264782500872725
+        }
+    },
+    {
+        "mcq_id": "prime_rib",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pork chop)",
+            "B": "(Class: steak)",
+            "C": "(Class: filet mignon)",
+            "D": "(Class: prime rib)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7639673686764024,
+            "B": 0.7635230232858429,
+            "C": 0.714321005969339,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "pulled_pork_sandwich",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: shrimp and grits)",
+            "B": "(Class: pulled pork sandwich)",
+            "C": "(Class: caprese salad)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.33645541205357404,
+            "B": 1.0,
+            "C": 0.3483534921872317,
+            "D": 0.3505542160341978
+        }
+    },
+    {
+        "mcq_id": "pulled_pork_sandwich",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot dog)",
+            "B": "(Class: club sandwich)",
+            "C": "(Class: hamburger)",
+            "D": "(Class: pulled pork sandwich)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7710999585159484,
+            "B": 0.751671709831505,
+            "C": 0.7095535504439023,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "ramen",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tiramisu)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: ramen)",
+            "D": "(Class: lobster roll sandwich)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3712360062092685,
+            "B": 0.4101767532385941,
+            "C": 1.0,
+            "D": 0.41527096371575567
+        }
+    },
+    {
+        "mcq_id": "ramen",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: omelette)",
+            "B": "(Class: pho)",
+            "C": "(Class: fried rice)",
+            "D": "(Class: ramen)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7360171051456884,
+            "B": 0.6888854555375845,
+            "C": 0.6730517997548825,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "ravioli",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: strawberry shortcake)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: caesar salad)",
+            "D": "(Class: ravioli)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.2659304061420001,
+            "B": 0.32975577533999845,
+            "C": 0.34583206656522464,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "ravioli",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: ravioli)",
+            "B": "(Class: samosa)",
+            "C": "(Class: lasagna)",
+            "D": "(Class: macaroni and cheese)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6999992600602947,
+            "C": 0.685093233589519,
+            "D": 0.6733991254983112
+        }
+    },
+    {
+        "mcq_id": "red_velvet_cake",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miso soup)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: red velvet cake)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2864421323520271,
+            "B": 0.3302728490429774,
+            "C": 1.0,
+            "D": 0.34374003106982376
+        }
+    },
+    {
+        "mcq_id": "red_velvet_cake",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: carrot cake)",
+            "B": "(Class: chocolate cake)",
+            "C": "(Class: red velvet cake)",
+            "D": "(Class: cheesecake)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7349272160355352,
+            "B": 0.6992953751280091,
+            "C": 1.0,
+            "D": 0.6857552028855228
+        }
+    },
+    {
+        "mcq_id": "risotto",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: risotto)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: frozen yogurt)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.3950868808243832,
+            "C": 0.4017448394276365,
+            "D": 0.41272348027806227
+        }
+    },
+    {
+        "mcq_id": "risotto",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: fried rice)",
+            "B": "(Class: risotto)",
+            "C": "(Class: chicken curry)",
+            "D": "(Class: omelette)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7857059667088031,
+            "B": 1.0,
+            "C": 0.768220720041922,
+            "D": 0.7207125110620166
+        }
+    },
+    {
+        "mcq_id": "samosa",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: caesar salad)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: samosa)",
+            "D": "(Class: strawberry shortcake)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.2855421140763835,
+            "B": 0.33410203854469434,
+            "C": 1.0,
+            "D": 0.3599511629662054
+        }
+    },
+    {
+        "mcq_id": "samosa",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: onion rings)",
+            "B": "(Class: churros)",
+            "C": "(Class: samosa)",
+            "D": "(Class: ravioli)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7824758213170796,
+            "B": 0.7201669099205747,
+            "C": 1.0,
+            "D": 0.6999992600602947
+        }
+    },
+    {
+        "mcq_id": "sashimi",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: sashimi)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: strawberry shortcake)",
+            "D": "(Class: cannoli)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.37407059654079206,
+            "C": 0.4255091132805928,
+            "D": 0.43372857680489324
+        }
+    },
+    {
+        "mcq_id": "sashimi",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: sushi)",
+            "B": "(Class: sashimi)",
+            "C": "(Class: beef carpaccio)",
+            "D": "(Class: grilled salmon)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7627217596550245,
+            "B": 1.0,
+            "C": 0.6958855435578138,
+            "D": 0.674992457867546
+        }
+    },
+    {
+        "mcq_id": "scallops",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: scallops)",
+            "D": "(Class: bibimbap)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3379065455236865,
+            "B": 0.347172113725901,
+            "C": 1.0,
+            "D": 0.3484875558024242
+        }
+    },
+    {
+        "mcq_id": "scallops",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: scallops)",
+            "B": "(Class: gnocchi)",
+            "C": "(Class: crab cakes)",
+            "D": "(Class: risotto)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6818033273511213,
+            "C": 0.6681037522947665,
+            "D": 0.662796404790407
+        }
+    },
+    {
+        "mcq_id": "seaweed_salad",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: creme brulee)",
+            "B": "(Class: beignets)",
+            "C": "(Class: seaweed salad)",
+            "D": "(Class: cannoli)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.3259406861983837,
+            "B": 0.32877790445660454,
+            "C": 1.0,
+            "D": 0.3405699043507905
+        }
+    },
+    {
+        "mcq_id": "seaweed_salad",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: sushi)",
+            "B": "(Class: sashimi)",
+            "C": "(Class: beet salad)",
+            "D": "(Class: seaweed salad)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6390079123174978,
+            "B": 0.6339260437908583,
+            "C": 0.5820013800611835,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "shrimp_and_grits",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: hot and sour soup)",
+            "B": "(Class: shrimp and grits)",
+            "C": "(Class: tuna tartare)",
+            "D": "(Class: frozen yogurt)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.25369099151940544,
+            "B": 1.0,
+            "C": 0.27649944685060845,
+            "D": 0.2832207523517599
+        }
+    },
+    {
+        "mcq_id": "shrimp_and_grits",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: gnocchi)",
+            "B": "(Class: risotto)",
+            "C": "(Class: chicken curry)",
+            "D": "(Class: shrimp and grits)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6976519045481173,
+            "B": 0.6580362864089861,
+            "C": 0.6394081947280476,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "spaghetti_bolognese",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: frozen yogurt)",
+            "B": "(Class: spaghetti bolognese)",
+            "C": "(Class: hot and sour soup)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.35389292827461544,
+            "B": 1.0,
+            "C": 0.35769131737205945,
+            "D": 0.36013909416954243
+        }
+    },
+    {
+        "mcq_id": "spaghetti_bolognese",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: spaghetti bolognese)",
+            "B": "(Class: lasagna)",
+            "C": "(Class: spaghetti carbonara)",
+            "D": "(Class: beef carpaccio)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7237471209731335,
+            "C": 0.7060234141018161,
+            "D": 0.6817780227074295
+        }
+    },
+    {
+        "mcq_id": "spaghetti_carbonara",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: frozen yogurt)",
+            "C": "(Class: spaghetti carbonara)",
+            "D": "(Class: greek salad)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.29300443685540617,
+            "B": 0.3079061054915536,
+            "C": 1.0,
+            "D": 0.34565339228642483
+        }
+    },
+    {
+        "mcq_id": "spaghetti_carbonara",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: macaroni and cheese)",
+            "B": "(Class: spaghetti bolognese)",
+            "C": "(Class: spaghetti carbonara)",
+            "D": "(Class: risotto)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7060234141018161,
+            "B": 0.6457073696982858,
+            "C": 1.0,
+            "D": 0.6351285626845655
+        }
+    },
+    {
+        "mcq_id": "spring_rolls",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: spring rolls)",
+            "B": "(Class: strawberry shortcake)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.31070985603554757,
+            "C": 0.32328498721055404,
+            "D": 0.38391784828576986
+        }
+    },
+    {
+        "mcq_id": "spring_rolls",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: gyoza)",
+            "B": "(Class: dumplings)",
+            "C": "(Class: spring rolls)",
+            "D": "(Class: churros)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7546283947537685,
+            "B": 0.7201218424796363,
+            "C": 1.0,
+            "D": 0.6745979647986965
+        }
+    },
+    {
+        "mcq_id": "steak",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tuna tartare)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: greek salad)",
+            "D": "(Class: steak)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.3042889763456879,
+            "B": 0.33884952307611566,
+            "C": 0.3743669953270066,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "steak",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: steak)",
+            "B": "(Class: filet mignon)",
+            "C": "(Class: chicken curry)",
+            "D": "(Class: beef carpaccio)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8310005783928254,
+            "C": 0.7952742753988734,
+            "D": 0.7736221858461677
+        }
+    },
+    {
+        "mcq_id": "strawberry_shortcake",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bibimbap)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: miso soup)",
+            "D": "(Class: strawberry shortcake)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.22306580201837467,
+            "B": 0.22863412207621223,
+            "C": 0.2612535887233577,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "strawberry_shortcake",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cheesecake)",
+            "B": "(Class: strawberry shortcake)",
+            "C": "(Class: red velvet cake)",
+            "D": "(Class: bread pudding)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.686849013702222,
+            "B": 1.0,
+            "C": 0.642004530877152,
+            "D": 0.6293822028952913
+        }
+    },
+    {
+        "mcq_id": "sushi",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: strawberry shortcake)",
+            "B": "(Class: greek salad)",
+            "C": "(Class: sushi)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.38418437152505047,
+            "B": 0.38533909848859166,
+            "C": 1.0,
+            "D": 0.38972845058010797
+        }
+    },
+    {
+        "mcq_id": "sushi",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chicken curry)",
+            "B": "(Class: sashimi)",
+            "C": "(Class: spring rolls)",
+            "D": "(Class: sushi)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7627217596550245,
+            "B": 0.6554840526189365,
+            "C": 0.6553947189255697,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "tacos",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miso soup)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: tacos)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.26341737167411566,
+            "B": 0.33376945113537376,
+            "C": 1.0,
+            "D": 0.34743985487304774
+        }
+    },
+    {
+        "mcq_id": "tacos",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chicken quesadilla)",
+            "B": "(Class: tacos)",
+            "C": "(Class: breakfast burrito)",
+            "D": "(Class: filet mignon)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.790727929667782,
+            "B": 1.0,
+            "C": 0.7527983416018909,
+            "D": 0.7078262616373908
+        }
+    },
+    {
+        "mcq_id": "takoyaki",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: caesar salad)",
+            "B": "(Class: ice cream)",
+            "C": "(Class: takoyaki)",
+            "D": "(Class: foie gras)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.23725817815266,
+            "B": 0.2493771732174929,
+            "C": 1.0,
+            "D": 0.2641838334091571
+        }
+    },
+    {
+        "mcq_id": "takoyaki",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: onion rings)",
+            "B": "(Class: takoyaki)",
+            "C": "(Class: samosa)",
+            "D": "(Class: ravioli)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6294245543241428,
+            "B": 1.0,
+            "C": 0.6031907395123206,
+            "D": 0.5893701468715828
+        }
+    },
+    {
+        "mcq_id": "tiramisu",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tiramisu)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: tuna tartare)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.17174874526902778,
+            "C": 0.20405684815690986,
+            "D": 0.2636590747727057
+        }
+    },
+    {
+        "mcq_id": "tiramisu",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: panna cotta)",
+            "B": "(Class: cannoli)",
+            "C": "(Class: tiramisu)",
+            "D": "(Class: cheesecake)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7000027971464884,
+            "B": 0.6988828021805502,
+            "C": 1.0,
+            "D": 0.6977924757112429
+        }
+    },
+    {
+        "mcq_id": "tuna_tartare",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: tuna tartare)",
+            "B": "(Class: ice cream)",
+            "C": "(Class: bread pudding)",
+            "D": "(Class: tiramisu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.25418377663153846,
+            "C": 0.2609472611062852,
+            "D": 0.2636590747727057
+        }
+    },
+    {
+        "mcq_id": "tuna_tartare",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: ceviche)",
+            "B": "(Class: tuna tartare)",
+            "C": "(Class: sashimi)",
+            "D": "(Class: sushi)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6064998252620254,
+            "B": 1.0,
+            "C": 0.6037792776949855,
+            "D": 0.575417506802338
+        }
+    },
+    {
+        "mcq_id": "waffles",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: waffles)",
+            "B": "(Class: hot and sour soup)",
+            "C": "(Class: bibimbap)",
+            "D": "(Class: french onion soup)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.24055227023704168,
+            "C": 0.28893146187390456,
+            "D": 0.29055478029903453
+        }
+    },
+    {
+        "mcq_id": "waffles",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: churros)",
+            "B": "(Class: donuts)",
+            "C": "(Class: ice cream)",
+            "D": "(Class: waffles)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7344158194422654,
+            "B": 0.7085593587192185,
+            "C": 0.6854040549601094,
+            "D": 1.0
+        }
+    }
+]

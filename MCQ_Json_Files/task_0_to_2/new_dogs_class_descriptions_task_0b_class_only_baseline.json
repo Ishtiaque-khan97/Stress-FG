@@ -1,0 +1,4322 @@
+[
+    {
+        "mcq_id": "n02085620-Chihuahua",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: English setter)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Chihuahua)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4933972956333493,
+            "B": 0.5191379940440016,
+            "C": 0.5244179952870982,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02085620-Chihuahua",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: chow)",
+            "B": "(Class: Italian greyhound)",
+            "C": "(Class: basenji)",
+            "D": "(Class: Chihuahua)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8943543864594171,
+            "B": 0.8654981889563312,
+            "C": 0.8636112773800463,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02085782-Japanese_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Japanese spaniel)",
+            "C": "(Class: Ibizan hound)",
+            "D": "(Class: Norwich terrier)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5016076356821412,
+            "B": 1.0,
+            "C": 0.6070757095732521,
+            "D": 0.6306000248519297
+        }
+    },
+    {
+        "mcq_id": "n02085782-Japanese_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bluetick)",
+            "B": "(Class: Boston bull)",
+            "C": "(Class: Japanese spaniel)",
+            "D": "(Class: Old English sheepdog)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8865700337077476,
+            "B": 0.8778387815804639,
+            "C": 1.0,
+            "D": 0.8663787347013292
+        }
+    },
+    {
+        "mcq_id": "n02085936-Maltese_dog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Airedale)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: Maltese dog)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.49904103661946736,
+            "B": 0.6334194042617162,
+            "C": 0.6346391544272955,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02085936-Maltese_dog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Great Pyrenees)",
+            "B": "(Class: Sealyham terrier)",
+            "C": "(Class: Old English sheepdog)",
+            "D": "(Class: Maltese dog)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9159805298986412,
+            "B": 0.9056256089459159,
+            "C": 0.9011450127891114,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02086079-Pekinese",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Ibizan hound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Pekinese)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5261778622137683,
+            "B": 0.5796474806400677,
+            "C": 0.6211115330552949,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02086079-Pekinese",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Pekinese)",
+            "B": "(Class: Italian greyhound)",
+            "C": "(Class: toy poodle)",
+            "D": "(Class: Afghan hound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9007062612289733,
+            "C": 0.8827135905606425,
+            "D": 0.8807156544400897
+        }
+    },
+    {
+        "mcq_id": "n02086240-Shih-Tzu",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Shih-Tzu)",
+            "B": "(Class: Ibizan hound)",
+            "C": "(Class: English setter)",
+            "D": "(Class: kelpie)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5273518152361467,
+            "C": 0.5338357376576209,
+            "D": 0.541867727943588
+        }
+    },
+    {
+        "mcq_id": "n02086240-Shih-Tzu",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: soft-coated wheaten terrier)",
+            "B": "(Class: Lhasa)",
+            "C": "(Class: Norfolk terrier)",
+            "D": "(Class: Shih-Tzu)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8054774216338377,
+            "B": 0.8014539992897582,
+            "C": 0.7837945553455181,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02086646-Blenheim_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Blenheim spaniel)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5356600337314055,
+            "B": 0.5985299578399006,
+            "C": 1.0,
+            "D": 0.609150500239375
+        }
+    },
+    {
+        "mcq_id": "n02086646-Blenheim_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Saint Bernard)",
+            "B": "(Class: Welsh springer spaniel)",
+            "C": "(Class: Blenheim spaniel)",
+            "D": "(Class: redbone)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9474010225343804,
+            "B": 0.9057643194577151,
+            "C": 1.0,
+            "D": 0.9035511626948173
+        }
+    },
+    {
+        "mcq_id": "n02086910-papillon",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Airedale)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: papillon)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4629339427734215,
+            "B": 0.580224114089013,
+            "C": 0.5806847732477747,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02086910-papillon",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: basenji)",
+            "B": "(Class: English foxhound)",
+            "C": "(Class: Siberian husky)",
+            "D": "(Class: papillon)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8616560028145571,
+            "B": 0.8575444919123825,
+            "C": 0.8474904649630526,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02087046-toy_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: toy terrier)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5453874624756264,
+            "B": 0.5481638660925329,
+            "C": 1.0,
+            "D": 0.5498281573375038
+        }
+    },
+    {
+        "mcq_id": "n02087046-toy_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: toy terrier)",
+            "B": "(Class: Border collie)",
+            "C": "(Class: Pembroke)",
+            "D": "(Class: English foxhound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.853730539462507,
+            "C": 0.8509964162660323,
+            "D": 0.8370375445657341
+        }
+    },
+    {
+        "mcq_id": "n02087394-Rhodesian_ridgeback",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Rhodesian ridgeback)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5075097854162655,
+            "C": 0.52649122454739,
+            "D": 0.5483822378319746
+        }
+    },
+    {
+        "mcq_id": "n02087394-Rhodesian_ridgeback",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan mastiff)",
+            "B": "(Class: Border terrier)",
+            "C": "(Class: Norfolk terrier)",
+            "D": "(Class: Rhodesian ridgeback)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9423874062739657,
+            "B": 0.9234109149996989,
+            "C": 0.9137227567403862,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02088094-Afghan_hound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Afghan hound)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.48024612949390844,
+            "B": 0.6047569591817494,
+            "C": 1.0,
+            "D": 0.6343953900645236
+        }
+    },
+    {
+        "mcq_id": "n02088094-Afghan_hound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Afghan hound)",
+            "B": "(Class: whippet)",
+            "C": "(Class: borzoi)",
+            "D": "(Class: English springer)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9232074908539314,
+            "C": 0.907009792617655,
+            "D": 0.9035664153537227
+        }
+    },
+    {
+        "mcq_id": "n02088238-basset",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: basset)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5298074998397152,
+            "B": 0.6015987238181261,
+            "C": 0.6346350525150618,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02088238-basset",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Boston bull)",
+            "B": "(Class: basset)",
+            "C": "(Class: Saint Bernard)",
+            "D": "(Class: bluetick)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8993784099285995,
+            "B": 1.0,
+            "C": 0.8907695548208763,
+            "D": 0.890499945482249
+        }
+    },
+    {
+        "mcq_id": "n02088364-beagle",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: beagle)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5730720574239178,
+            "B": 0.6060428707716146,
+            "C": 0.6393014465747155,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02088364-beagle",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: French bulldog)",
+            "B": "(Class: beagle)",
+            "C": "(Class: Siberian husky)",
+            "D": "(Class: Greater Swiss Mountain dog)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9232624668642124,
+            "B": 1.0,
+            "C": 0.9135042584342947,
+            "D": 0.9071508913863836
+        }
+    },
+    {
+        "mcq_id": "n02088466-bloodhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: bloodhound)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5550592293250279,
+            "B": 0.559458856245982,
+            "C": 0.6052161941622317,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02088466-bloodhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bull mastiff)",
+            "B": "(Class: basset)",
+            "C": "(Class: bloodhound)",
+            "D": "(Class: Doberman)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.874972520036994,
+            "B": 0.8625115582188678,
+            "C": 1.0,
+            "D": 0.862326925064
+        }
+    },
+    {
+        "mcq_id": "n02088632-bluetick",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: bluetick)",
+            "D": "(Class: Mexican hairless)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5142141251113316,
+            "B": 0.5885950558124082,
+            "C": 1.0,
+            "D": 0.655355249427512
+        }
+    },
+    {
+        "mcq_id": "n02088632-bluetick",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English foxhound)",
+            "B": "(Class: African hunting dog)",
+            "C": "(Class: bluetick)",
+            "D": "(Class: basset)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9117288414966807,
+            "B": 0.9063574843349618,
+            "C": 1.0,
+            "D": 0.890499945482249
+        }
+    },
+    {
+        "mcq_id": "n02089078-black-and-tan_coonhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: black-and-tan coonhound)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5734486699698623,
+            "B": 0.5945328052472526,
+            "C": 1.0,
+            "D": 0.5994427822159253
+        }
+    },
+    {
+        "mcq_id": "n02089078-black-and-tan_coonhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: German shepherd)",
+            "B": "(Class: black-and-tan coonhound)",
+            "C": "(Class: Rottweiler)",
+            "D": "(Class: German short-haired pointer)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8545846692025154,
+            "B": 1.0,
+            "C": 0.8525463545971971,
+            "D": 0.8506937513168733
+        }
+    },
+    {
+        "mcq_id": "n02089867-Walker_hound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: giant schnauzer)",
+            "B": "(Class: Leonberg)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Walker hound)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6021646967942245,
+            "B": 0.6039298810485044,
+            "C": 0.6140615225562069,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02089867-Walker_hound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: wire-haired fox terrier)",
+            "B": "(Class: EntleBucher)",
+            "C": "(Class: Walker hound)",
+            "D": "(Class: Appenzeller)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9211374723219525,
+            "B": 0.8922891340970708,
+            "C": 1.0,
+            "D": 0.8849266598388388
+        }
+    },
+    {
+        "mcq_id": "n02089973-English_foxhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English foxhound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5190630189293981,
+            "C": 0.6012678493064917,
+            "D": 0.6157727808360519
+        }
+    },
+    {
+        "mcq_id": "n02089973-English_foxhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English foxhound)",
+            "B": "(Class: German shepherd)",
+            "C": "(Class: Saint Bernard)",
+            "D": "(Class: African hunting dog)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.920941168884289,
+            "C": 0.9180331950081334,
+            "D": 0.9165374141439574
+        }
+    },
+    {
+        "mcq_id": "n02090379-redbone",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: redbone)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5406239171099382,
+            "C": 0.5866776456172962,
+            "D": 0.6102663379830295
+        }
+    },
+    {
+        "mcq_id": "n02090379-redbone",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: silky terrier)",
+            "B": "(Class: Welsh springer spaniel)",
+            "C": "(Class: Blenheim spaniel)",
+            "D": "(Class: redbone)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9289148613631321,
+            "B": 0.9035511626948173,
+            "C": 0.8800036092399565,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02090622-borzoi",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: borzoi)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Ibizan hound)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.41336852746883906,
+            "C": 0.6110691010689614,
+            "D": 0.6502385567796041
+        }
+    },
+    {
+        "mcq_id": "n02090622-borzoi",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: borzoi)",
+            "B": "(Class: Afghan hound)",
+            "C": "(Class: groenendael)",
+            "D": "(Class: English springer)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.907009792617655,
+            "C": 0.8813434100969874,
+            "D": 0.87478464941651
+        }
+    },
+    {
+        "mcq_id": "n02090721-Irish_wolfhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Irish wolfhound)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5674461356753305,
+            "B": 1.0,
+            "C": 0.5786399690177326,
+            "D": 0.6383005054273719
+        }
+    },
+    {
+        "mcq_id": "n02090721-Irish_wolfhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: toy poodle)",
+            "B": "(Class: otterhound)",
+            "C": "(Class: Lhasa)",
+            "D": "(Class: Irish wolfhound)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8841800870111219,
+            "B": 0.8712489212572093,
+            "C": 0.868602410849431,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02091032-Italian_greyhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Italian greyhound)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5191356970739059,
+            "B": 0.5566157166967702,
+            "C": 0.5842274143617655,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02091032-Italian_greyhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Italian greyhound)",
+            "B": "(Class: whippet)",
+            "C": "(Class: Great Dane)",
+            "D": "(Class: Pembroke)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9198894475070696,
+            "C": 0.91567170955331,
+            "D": 0.9154770179719933
+        }
+    },
+    {
+        "mcq_id": "n02091134-whippet",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: whippet)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4634075748917492,
+            "B": 0.5710331015819455,
+            "C": 0.5879388534492924,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02091134-whippet",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Afghan hound)",
+            "B": "(Class: whippet)",
+            "C": "(Class: Italian greyhound)",
+            "D": "(Class: Great Dane)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9232074908539314,
+            "B": 1.0,
+            "C": 0.9198894475070696,
+            "D": 0.9187288579102985
+        }
+    },
+    {
+        "mcq_id": "n02091244-Ibizan_hound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Ibizan hound)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4507420972786431,
+            "B": 1.0,
+            "C": 0.5065191612216162,
+            "D": 0.5192380106350492
+        }
+    },
+    {
+        "mcq_id": "n02091244-Ibizan_hound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Blenheim spaniel)",
+            "B": "(Class: basenji)",
+            "C": "(Class: Ibizan hound)",
+            "D": "(Class: French bulldog)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.748865369874494,
+            "B": 0.7470435672743779,
+            "C": 1.0,
+            "D": 0.7444070158798445
+        }
+    },
+    {
+        "mcq_id": "n02091467-Norwegian_elkhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Norwegian elkhound)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5191191856651218,
+            "B": 1.0,
+            "C": 0.5656974464597496,
+            "D": 0.6387953842623397
+        }
+    },
+    {
+        "mcq_id": "n02091467-Norwegian_elkhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: flat-coated retriever)",
+            "B": "(Class: Doberman)",
+            "C": "(Class: Norwegian elkhound)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9211505254080664,
+            "B": 0.9194602883749492,
+            "C": 1.0,
+            "D": 0.9129168383191881
+        }
+    },
+    {
+        "mcq_id": "n02091635-otterhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: otterhound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5180886787069409,
+            "C": 0.6242768020571566,
+            "D": 0.631385429583461
+        }
+    },
+    {
+        "mcq_id": "n02091635-otterhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: whippet)",
+            "B": "(Class: English springer)",
+            "C": "(Class: otterhound)",
+            "D": "(Class: keeshond)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9137142797671336,
+            "B": 0.9130446496356796,
+            "C": 1.0,
+            "D": 0.9097274392461547
+        }
+    },
+    {
+        "mcq_id": "n02091831-Saluki",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: giant schnauzer)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Saluki)",
+            "D": "(Class: Shih-Tzu)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.49169288389257626,
+            "B": 0.5596676203717051,
+            "C": 1.0,
+            "D": 0.5622537709542795
+        }
+    },
+    {
+        "mcq_id": "n02091831-Saluki",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Saluki)",
+            "B": "(Class: Afghan hound)",
+            "C": "(Class: whippet)",
+            "D": "(Class: beagle)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.795176098973484,
+            "C": 0.7651246650107263,
+            "D": 0.760763408971352
+        }
+    },
+    {
+        "mcq_id": "n02092002-Scottish_deerhound",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Scottish deerhound)",
+            "D": "(Class: kelpie)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5618419851863913,
+            "B": 0.5914389387122566,
+            "C": 1.0,
+            "D": 0.6147787299173668
+        }
+    },
+    {
+        "mcq_id": "n02092002-Scottish_deerhound",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Bouvier des Flandres)",
+            "B": "(Class: Scottish deerhound)",
+            "C": "(Class: Lhasa)",
+            "D": "(Class: briard)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9261868698566937,
+            "B": 1.0,
+            "C": 0.8984457460345179,
+            "D": 0.8894938269164571
+        }
+    },
+    {
+        "mcq_id": "n02092339-Weimaraner",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Weimaraner)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4777697435738396,
+            "C": 0.5632852058194999,
+            "D": 0.5857093864873192
+        }
+    },
+    {
+        "mcq_id": "n02092339-Weimaraner",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: basenji)",
+            "B": "(Class: malamute)",
+            "C": "(Class: French bulldog)",
+            "D": "(Class: Weimaraner)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8581135160966837,
+            "B": 0.8524074706157199,
+            "C": 0.8470537907883579,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02093256-Staffordshire_bullterrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Staffordshire bullterrier)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5185784212964601,
+            "B": 0.5609970252815906,
+            "C": 1.0,
+            "D": 0.5699786533714357
+        }
+    },
+    {
+        "mcq_id": "n02093256-Staffordshire_bullterrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Great Dane)",
+            "B": "(Class: Staffordshire bullterrier)",
+            "C": "(Class: boxer)",
+            "D": "(Class: French bulldog)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9447003916818677,
+            "B": 1.0,
+            "C": 0.9438060210186971,
+            "D": 0.9288932033605553
+        }
+    },
+    {
+        "mcq_id": "n02093428-American_Staffordshire_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: American Staffordshire terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.48418697599202987,
+            "B": 0.4943815527226513,
+            "C": 0.49818373195573823,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02093428-American_Staffordshire_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: American Staffordshire terrier)",
+            "B": "(Class: Great Dane)",
+            "C": "(Class: Pembroke)",
+            "D": "(Class: Italian greyhound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8891115366960217,
+            "C": 0.8836638180450664,
+            "D": 0.8817687675396908
+        }
+    },
+    {
+        "mcq_id": "n02093647-Bedlington_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Bedlington terrier)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4302553394206153,
+            "C": 0.5452984284560228,
+            "D": 0.5477667380033733
+        }
+    },
+    {
+        "mcq_id": "n02093647-Bedlington_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Bedlington terrier)",
+            "B": "(Class: Dandie Dinmont)",
+            "C": "(Class: toy poodle)",
+            "D": "(Class: Old English sheepdog)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9154315096620894,
+            "C": 0.8575224929365264,
+            "D": 0.8570673051248949
+        }
+    },
+    {
+        "mcq_id": "n02093754-Border_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Border terrier)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5170491684849162,
+            "B": 1.0,
+            "C": 0.5544791750128767,
+            "D": 0.5742174800678622
+        }
+    },
+    {
+        "mcq_id": "n02093754-Border_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cairn)",
+            "B": "(Class: Norfolk terrier)",
+            "C": "(Class: Rhodesian ridgeback)",
+            "D": "(Class: Border terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9432024988891878,
+            "B": 0.9423874062739657,
+            "C": 0.9096680053403093,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02093859-Kerry_blue_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Kerry blue terrier)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Ibizan hound)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.49102045538528644,
+            "C": 0.5635630089944481,
+            "D": 0.5776312149779587
+        }
+    },
+    {
+        "mcq_id": "n02093859-Kerry_blue_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: briard)",
+            "B": "(Class: Kerry blue terrier)",
+            "C": "(Class: Bouvier des Flandres)",
+            "D": "(Class: Lhasa)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9104072536155507,
+            "B": 1.0,
+            "C": 0.908462967036984,
+            "D": 0.8820856635953698
+        }
+    },
+    {
+        "mcq_id": "n02093991-Irish_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Irish terrier)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Samoyed)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4763173902894825,
+            "B": 1.0,
+            "C": 0.5692022532173984,
+            "D": 0.5982036509726458
+        }
+    },
+    {
+        "mcq_id": "n02093991-Irish_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miniature schnauzer)",
+            "B": "(Class: Bouvier des Flandres)",
+            "C": "(Class: Lhasa)",
+            "D": "(Class: Irish terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.893945631739301,
+            "B": 0.8838204991559134,
+            "C": 0.8820067728107268,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02094114-Norfolk_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Norfolk terrier)",
+            "B": "(Class: English setter)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5450520852955585,
+            "C": 0.5728182192587223,
+            "D": 0.5947772536960076
+        }
+    },
+    {
+        "mcq_id": "n02094114-Norfolk_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Norfolk terrier)",
+            "B": "(Class: Border terrier)",
+            "C": "(Class: Rhodesian ridgeback)",
+            "D": "(Class: cairn)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9432024988891878,
+            "C": 0.9234109149996989,
+            "D": 0.9192471695635275
+        }
+    },
+    {
+        "mcq_id": "n02094258-Norwich_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Norwich terrier)",
+            "D": "(Class: Irish water spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.49543627448375377,
+            "B": 0.5220583627718878,
+            "C": 1.0,
+            "D": 0.5510171554996061
+        }
+    },
+    {
+        "mcq_id": "n02094258-Norwich_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Norwich terrier)",
+            "B": "(Class: Norfolk terrier)",
+            "C": "(Class: Border terrier)",
+            "D": "(Class: Rhodesian ridgeback)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.878817992526446,
+            "C": 0.8698431599936304,
+            "D": 0.848716245759814
+        }
+    },
+    {
+        "mcq_id": "n02094433-Yorkshire_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Yorkshire terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5265830662724077,
+            "B": 0.5548665560607154,
+            "C": 0.5918899958768556,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02094433-Yorkshire_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: silky terrier)",
+            "B": "(Class: Yorkshire terrier)",
+            "C": "(Class: Italian greyhound)",
+            "D": "(Class: Doberman)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.895991023901901,
+            "B": 1.0,
+            "C": 0.8899947961825764,
+            "D": 0.8882023511793431
+        }
+    },
+    {
+        "mcq_id": "n02095314-wire-haired_fox_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: wire-haired fox terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6100626097778984,
+            "B": 0.6217197185952218,
+            "C": 0.638550858329999,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02095314-wire-haired_fox_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: wire-haired fox terrier)",
+            "B": "(Class: Lakeland terrier)",
+            "C": "(Class: EntleBucher)",
+            "D": "(Class: Appenzeller)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9054369410791376,
+            "C": 0.9028583476472769,
+            "D": 0.9011330090829296
+        }
+    },
+    {
+        "mcq_id": "n02095570-Lakeland_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Lakeland terrier)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5404349345430132,
+            "B": 1.0,
+            "C": 0.6116766864320752,
+            "D": 0.6447458420136628
+        }
+    },
+    {
+        "mcq_id": "n02095570-Lakeland_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Pomeranian)",
+            "B": "(Class: Greater Swiss Mountain dog)",
+            "C": "(Class: flat-coated retriever)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9256542751564735,
+            "B": 0.9211421753518415,
+            "C": 0.9205322188638915,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02095889-Sealyham_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Sealyham terrier)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5186024289529353,
+            "C": 0.5808352917410654,
+            "D": 0.6399750956710579
+        }
+    },
+    {
+        "mcq_id": "n02095889-Sealyham_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Sealyham terrier)",
+            "B": "(Class: kuvasz)",
+            "C": "(Class: Maltese dog)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9163423959820287,
+            "C": 0.9159805298986412,
+            "D": 0.9134798875670249
+        }
+    },
+    {
+        "mcq_id": "n02096051-Airedale",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Airedale)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Samoyed)",
+            "D": "(Class: Irish water spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5164130002713908,
+            "C": 0.532453096340105,
+            "D": 0.555773186474515
+        }
+    },
+    {
+        "mcq_id": "n02096051-Airedale",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: giant schnauzer)",
+            "B": "(Class: Norfolk terrier)",
+            "C": "(Class: Airedale)",
+            "D": "(Class: Bouvier des Flandres)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8127453428010498,
+            "B": 0.7999354051598513,
+            "C": 1.0,
+            "D": 0.7919214377275473
+        }
+    },
+    {
+        "mcq_id": "n02096177-cairn",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: English setter)",
+            "C": "(Class: cairn)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5202334384434246,
+            "B": 0.5486185553953453,
+            "C": 1.0,
+            "D": 0.5778747983668007
+        }
+    },
+    {
+        "mcq_id": "n02096177-cairn",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Norfolk terrier)",
+            "B": "(Class: standard schnauzer)",
+            "C": "(Class: cairn)",
+            "D": "(Class: Border terrier)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9348623897880498,
+            "B": 0.9192471695635275,
+            "C": 1.0,
+            "D": 0.9096680053403093
+        }
+    },
+    {
+        "mcq_id": "n02096294-Australian_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Australian terrier)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Mexican hairless)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6262862009986867,
+            "B": 1.0,
+            "C": 0.6347696218990706,
+            "D": 0.6558891694834114
+        }
+    },
+    {
+        "mcq_id": "n02096294-Australian_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: standard poodle)",
+            "B": "(Class: toy poodle)",
+            "C": "(Class: wire-haired fox terrier)",
+            "D": "(Class: Australian terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8543886678016623,
+            "B": 0.8502519167851682,
+            "C": 0.8500306675982414,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02096437-Dandie_Dinmont",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Dandie Dinmont)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4401992947124969,
+            "B": 1.0,
+            "C": 0.5268035902302668,
+            "D": 0.5340521799686865
+        }
+    },
+    {
+        "mcq_id": "n02096437-Dandie_Dinmont",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Bedlington terrier)",
+            "B": "(Class: Dandie Dinmont)",
+            "C": "(Class: keeshond)",
+            "D": "(Class: chow)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9154315096620894,
+            "B": 1.0,
+            "C": 0.8979889625513402,
+            "D": 0.8947219042227988
+        }
+    },
+    {
+        "mcq_id": "n02096585-Boston_bull",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Boston bull)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5422680783058932,
+            "C": 0.5778053791446084,
+            "D": 0.5994398168153164
+        }
+    },
+    {
+        "mcq_id": "n02096585-Boston_bull",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Boston bull)",
+            "B": "(Class: basset)",
+            "C": "(Class: Greater Swiss Mountain dog)",
+            "D": "(Class: bluetick)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8993784099285995,
+            "C": 0.8907035270154423,
+            "D": 0.8885554255125265
+        }
+    },
+    {
+        "mcq_id": "n02097047-miniature_schnauzer",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: miniature schnauzer)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.514832722632352,
+            "B": 1.0,
+            "C": 0.5794584254304831,
+            "D": 0.5824307224698149
+        }
+    },
+    {
+        "mcq_id": "n02097047-miniature_schnauzer",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Lhasa)",
+            "B": "(Class: standard schnauzer)",
+            "C": "(Class: West Highland white terrier)",
+            "D": "(Class: miniature schnauzer)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9229496295452694,
+            "B": 0.9211256506318096,
+            "C": 0.9109388234499465,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02097130-giant_schnauzer",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: English setter)",
+            "C": "(Class: giant schnauzer)",
+            "D": "(Class: Brittany spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.4965086382266659,
+            "B": 0.524473212878539,
+            "C": 1.0,
+            "D": 0.5562992117875208
+        }
+    },
+    {
+        "mcq_id": "n02097130-giant_schnauzer",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Kerry blue terrier)",
+            "B": "(Class: giant schnauzer)",
+            "C": "(Class: Bouvier des Flandres)",
+            "D": "(Class: briard)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8535713133792043,
+            "B": 1.0,
+            "C": 0.823018353212861,
+            "D": 0.8158865239158606
+        }
+    },
+    {
+        "mcq_id": "n02097209-standard_schnauzer",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: standard schnauzer)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5259101578175078,
+            "B": 1.0,
+            "C": 0.5349111811395915,
+            "D": 0.5678944082086084
+        }
+    },
+    {
+        "mcq_id": "n02097209-standard_schnauzer",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Lhasa)",
+            "B": "(Class: cairn)",
+            "C": "(Class: miniature schnauzer)",
+            "D": "(Class: standard schnauzer)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9348623897880498,
+            "B": 0.9229496295452694,
+            "C": 0.9184389110624049,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02097298-Scotch_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: Scotch terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5238442856177119,
+            "B": 0.5662874856782063,
+            "C": 0.5886684111269859,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02097298-Scotch_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: West Highland white terrier)",
+            "B": "(Class: Scotch terrier)",
+            "C": "(Class: miniature schnauzer)",
+            "D": "(Class: Lhasa)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8956290692898814,
+            "B": 1.0,
+            "C": 0.8900422748800231,
+            "D": 0.8620821301188458
+        }
+    },
+    {
+        "mcq_id": "n02097474-Tibetan_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan terrier)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.516597625716983,
+            "C": 0.6055087092625118,
+            "D": 0.6293547171386888
+        }
+    },
+    {
+        "mcq_id": "n02097474-Tibetan_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan terrier)",
+            "B": "(Class: Lhasa)",
+            "C": "(Class: Old English sheepdog)",
+            "D": "(Class: soft-coated wheaten terrier)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9304403637411612,
+            "C": 0.9077496820573072,
+            "D": 0.903685491377282
+        }
+    },
+    {
+        "mcq_id": "n02097658-silky_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: silky terrier)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5477400580813989,
+            "B": 1.0,
+            "C": 0.558858650169396,
+            "D": 0.661794658368405
+        }
+    },
+    {
+        "mcq_id": "n02097658-silky_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: silky terrier)",
+            "B": "(Class: Doberman)",
+            "C": "(Class: toy poodle)",
+            "D": "(Class: Yorkshire terrier)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8970856472268062,
+            "C": 0.8961940904825987,
+            "D": 0.895991023901901
+        }
+    },
+    {
+        "mcq_id": "n02098105-soft-coated_wheaten_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Ibizan hound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: soft-coated wheaten terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.569487681971647,
+            "B": 0.5850787503317042,
+            "C": 0.6327118238471985,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02098105-soft-coated_wheaten_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan terrier)",
+            "B": "(Class: Lhasa)",
+            "C": "(Class: soft-coated wheaten terrier)",
+            "D": "(Class: cairn)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9066375938037261,
+            "B": 0.903685491377282,
+            "C": 1.0,
+            "D": 0.8906807854982566
+        }
+    },
+    {
+        "mcq_id": "n02098286-West_Highland_white_terrier",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: West Highland white terrier)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5251671801305017,
+            "B": 0.5510296324848163,
+            "C": 0.5575514376063275,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02098286-West_Highland_white_terrier",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: standard schnauzer)",
+            "B": "(Class: miniature schnauzer)",
+            "C": "(Class: West Highland white terrier)",
+            "D": "(Class: Lhasa)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9211256506318096,
+            "B": 0.9169044022261198,
+            "C": 1.0,
+            "D": 0.9103822864780197
+        }
+    },
+    {
+        "mcq_id": "n02098413-Lhasa",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Lhasa)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5640084073080024,
+            "B": 1.0,
+            "C": 0.5722193337767317,
+            "D": 0.6497644493859049
+        }
+    },
+    {
+        "mcq_id": "n02098413-Lhasa",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan terrier)",
+            "B": "(Class: Lhasa)",
+            "C": "(Class: briard)",
+            "D": "(Class: standard schnauzer)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9304403637411612,
+            "B": 1.0,
+            "C": 0.9192305659096617,
+            "D": 0.9184389110624049
+        }
+    },
+    {
+        "mcq_id": "n02099267-flat-coated_retriever",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: flat-coated retriever)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5373565080346331,
+            "B": 0.5553767312799253,
+            "C": 1.0,
+            "D": 0.6300504904970563
+        }
+    },
+    {
+        "mcq_id": "n02099267-flat-coated_retriever",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: flat-coated retriever)",
+            "B": "(Class: Doberman)",
+            "C": "(Class: Lakeland terrier)",
+            "D": "(Class: Norwegian elkhound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9299419932485762,
+            "C": 0.9211421753518415,
+            "D": 0.9194602883749492
+        }
+    },
+    {
+        "mcq_id": "n02099429-curly-coated_retriever",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: curly-coated retriever)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4806074289499144,
+            "B": 1.0,
+            "C": 0.5396809447053785,
+            "D": 0.5896635975013338
+        }
+    },
+    {
+        "mcq_id": "n02099429-curly-coated_retriever",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: toy poodle)",
+            "B": "(Class: Tibetan mastiff)",
+            "C": "(Class: curly-coated retriever)",
+            "D": "(Class: Chesapeake Bay retriever)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.913499000653899,
+            "B": 0.9109503027761516,
+            "C": 1.0,
+            "D": 0.9094965465865151
+        }
+    },
+    {
+        "mcq_id": "n02099601-golden_retriever",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: golden retriever)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Irish water spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.558602574962756,
+            "C": 0.5808833818187394,
+            "D": 0.6498762034591022
+        }
+    },
+    {
+        "mcq_id": "n02099601-golden_retriever",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beagle)",
+            "B": "(Class: Chesapeake Bay retriever)",
+            "C": "(Class: golden retriever)",
+            "D": "(Class: vizsla)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8895385622633135,
+            "B": 0.8836608807638836,
+            "C": 1.0,
+            "D": 0.8758230778783681
+        }
+    },
+    {
+        "mcq_id": "n02099712-Labrador_retriever",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Labrador retriever)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4351353692359211,
+            "B": 1.0,
+            "C": 0.46868379306124536,
+            "D": 0.5268747664486432
+        }
+    },
+    {
+        "mcq_id": "n02099712-Labrador_retriever",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Border collie)",
+            "B": "(Class: Labrador retriever)",
+            "C": "(Class: Pembroke)",
+            "D": "(Class: Tibetan mastiff)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8931664481559676,
+            "B": 1.0,
+            "C": 0.8857488301678236,
+            "D": 0.8846265983244058
+        }
+    },
+    {
+        "mcq_id": "n02099849-Chesapeake_Bay_retriever",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Chesapeake Bay retriever)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5252533741879086,
+            "B": 0.5793143653648524,
+            "C": 0.6198259625262974,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02099849-Chesapeake_Bay_retriever",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: curly-coated retriever)",
+            "B": "(Class: Pembroke)",
+            "C": "(Class: Chesapeake Bay retriever)",
+            "D": "(Class: Great Dane)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9128001400266323,
+            "B": 0.9094965465865151,
+            "C": 1.0,
+            "D": 0.9064348069446494
+        }
+    },
+    {
+        "mcq_id": "n02100236-German_short-haired_pointer",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: German short-haired pointer)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5369854799298052,
+            "C": 0.5791981095746641,
+            "D": 0.6223001946859711
+        }
+    },
+    {
+        "mcq_id": "n02100236-German_short-haired_pointer",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Blenheim spaniel)",
+            "B": "(Class: German short-haired pointer)",
+            "C": "(Class: beagle)",
+            "D": "(Class: Saint Bernard)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8762535825862287,
+            "B": 1.0,
+            "C": 0.8720242635431941,
+            "D": 0.8649976554989907
+        }
+    },
+    {
+        "mcq_id": "n02100583-vizsla",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: vizsla)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.459467182959953,
+            "B": 0.5225408792567356,
+            "C": 0.5440285938873146,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02100583-vizsla",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: dingo)",
+            "B": "(Class: golden retriever)",
+            "C": "(Class: Chesapeake Bay retriever)",
+            "D": "(Class: vizsla)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8758230778783681,
+            "B": 0.8348561806532698,
+            "C": 0.8328644484198653,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02100735-English_setter",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Mexican hairless)",
+            "C": "(Class: Newfoundland)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4472893151455783,
+            "C": 0.4512633385658967,
+            "D": 0.4582140691205376
+        }
+    },
+    {
+        "mcq_id": "n02100735-English_setter",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Saluki)",
+            "B": "(Class: English setter)",
+            "C": "(Class: bluetick)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7173056987113366,
+            "B": 1.0,
+            "C": 0.6999734218046302,
+            "D": 0.6957500460723054
+        }
+    },
+    {
+        "mcq_id": "n02100877-Irish_setter",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Shih-Tzu)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Irish water spaniel)",
+            "D": "(Class: Irish setter)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5483538034256378,
+            "B": 0.5961775462440992,
+            "C": 0.637029428479609,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02100877-Irish_setter",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Irish setter)",
+            "B": "(Class: borzoi)",
+            "C": "(Class: Rhodesian ridgeback)",
+            "D": "(Class: chow)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8305310251896694,
+            "C": 0.8247356269235347,
+            "D": 0.8128434570159685
+        }
+    },
+    {
+        "mcq_id": "n02101006-Gordon_setter",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Gordon setter)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Samoyed)",
+            "D": "(Class: Mexican hairless)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5708145073833563,
+            "C": 0.6057290324924701,
+            "D": 0.6164497926445458
+        }
+    },
+    {
+        "mcq_id": "n02101006-Gordon_setter",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Rottweiler)",
+            "B": "(Class: miniature pinscher)",
+            "C": "(Class: Gordon setter)",
+            "D": "(Class: German shepherd)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8712660345984955,
+            "B": 0.8591818328173201,
+            "C": 1.0,
+            "D": 0.8442453566376537
+        }
+    },
+    {
+        "mcq_id": "n02101388-Brittany_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: giant schnauzer)",
+            "B": "(Class: Leonberg)",
+            "C": "(Class: Brittany spaniel)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5405502898349687,
+            "B": 0.5562992117875208,
+            "C": 1.0,
+            "D": 0.5613968610790826
+        }
+    },
+    {
+        "mcq_id": "n02101388-Brittany_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beagle)",
+            "B": "(Class: Brittany spaniel)",
+            "C": "(Class: Walker hound)",
+            "D": "(Class: EntleBucher)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8687833336459764,
+            "B": 1.0,
+            "C": 0.8524774410098251,
+            "D": 0.8365516087067656
+        }
+    },
+    {
+        "mcq_id": "n02101556-clumber",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: clumber)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4606135511343957,
+            "B": 0.5532166508398,
+            "C": 0.5678956695479976,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02101556-clumber",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Border collie)",
+            "B": "(Class: kuvasz)",
+            "C": "(Class: Great Pyrenees)",
+            "D": "(Class: clumber)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.937690779953001,
+            "B": 0.9099408975410854,
+            "C": 0.9043411415350392,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02102040-English_springer",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English springer)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5125634637591903,
+            "B": 0.6294000612116203,
+            "C": 1.0,
+            "D": 0.663611166623142
+        }
+    },
+    {
+        "mcq_id": "n02102040-English_springer",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: keeshond)",
+            "B": "(Class: English springer)",
+            "C": "(Class: otterhound)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9292339171677223,
+            "B": 1.0,
+            "C": 0.9137142797671336,
+            "D": 0.913241767325931
+        }
+    },
+    {
+        "mcq_id": "n02102177-Welsh_springer_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: Welsh springer spaniel)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5790770987984061,
+            "B": 0.612216167999803,
+            "C": 0.6147830817003352,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02102177-Welsh_springer_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Welsh springer spaniel)",
+            "B": "(Class: Blenheim spaniel)",
+            "C": "(Class: redbone)",
+            "D": "(Class: English foxhound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9474010225343804,
+            "C": 0.9289148613631321,
+            "D": 0.9014985496879802
+        }
+    },
+    {
+        "mcq_id": "n02102318-cocker_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Ibizan hound)",
+            "C": "(Class: Mexican hairless)",
+            "D": "(Class: American Staffordshire terrier)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4507420972786431,
+            "C": 0.4558924332503811,
+            "D": 0.49818373195573823
+        }
+    },
+    {
+        "mcq_id": "n02102318-cocker_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Sussex spaniel)",
+            "C": "(Class: miniature poodle)",
+            "D": "(Class: Shih-Tzu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7748098773005619,
+            "C": 0.7596581586200378,
+            "D": 0.7189281910762879
+        }
+    },
+    {
+        "mcq_id": "n02102480-Sussex_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Sussex spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Mexican hairless)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5700260762976221,
+            "C": 0.5741961236976532,
+            "D": 0.589530571969115
+        }
+    },
+    {
+        "mcq_id": "n02102480-Sussex_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Irish setter)",
+            "B": "(Class: Chesapeake Bay retriever)",
+            "C": "(Class: Sussex spaniel)",
+            "D": "(Class: golden retriever)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8050898326996777,
+            "B": 0.7936096524513674,
+            "C": 1.0,
+            "D": 0.7914659161162546
+        }
+    },
+    {
+        "mcq_id": "n02102973-Irish_water_spaniel",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Irish water spaniel)",
+            "C": "(Class: Ibizan hound)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.505229389720051,
+            "B": 1.0,
+            "C": 0.5295538107019327,
+            "D": 0.5319748821227551
+        }
+    },
+    {
+        "mcq_id": "n02102973-Irish_water_spaniel",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Irish water spaniel)",
+            "B": "(Class: toy poodle)",
+            "C": "(Class: Australian terrier)",
+            "D": "(Class: standard poodle)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.761677993035118,
+            "C": 0.7536230805214374,
+            "D": 0.7486748869307865
+        }
+    },
+    {
+        "mcq_id": "n02104029-kuvasz",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: kuvasz)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.47604149337392515,
+            "C": 0.6052946048681461,
+            "D": 0.6209855091359964
+        }
+    },
+    {
+        "mcq_id": "n02104029-kuvasz",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Sealyham terrier)",
+            "B": "(Class: clumber)",
+            "C": "(Class: Great Pyrenees)",
+            "D": "(Class: kuvasz)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.937690779953001,
+            "B": 0.9297688316545587,
+            "C": 0.9163423959820287,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02104365-schipperke",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: schipperke)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.46639406538729733,
+            "B": 0.5118553012176754,
+            "C": 1.0,
+            "D": 0.5583012248150062
+        }
+    },
+    {
+        "mcq_id": "n02104365-schipperke",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: keeshond)",
+            "B": "(Class: Pomeranian)",
+            "C": "(Class: Norwegian elkhound)",
+            "D": "(Class: schipperke)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9134699709791786,
+            "B": 0.912828619421409,
+            "C": 0.9043370507197447,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02105056-groenendael",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Ibizan hound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: groenendael)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.42753271778291163,
+            "B": 0.5687784455776768,
+            "C": 0.5811451723114998,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02105056-groenendael",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Afghan hound)",
+            "B": "(Class: keeshond)",
+            "C": "(Class: Norwegian elkhound)",
+            "D": "(Class: groenendael)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8940563151339662,
+            "B": 0.8884309967600894,
+            "C": 0.883001572435217,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02105162-malinois",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: malinois)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4762969777891385,
+            "C": 0.49748148549640164,
+            "D": 0.5595359448102404
+        }
+    },
+    {
+        "mcq_id": "n02105162-malinois",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Doberman)",
+            "B": "(Class: malinois)",
+            "C": "(Class: flat-coated retriever)",
+            "D": "(Class: Rottweiler)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8937608505792282,
+            "B": 1.0,
+            "C": 0.8742235870604946,
+            "D": 0.8741027023899985
+        }
+    },
+    {
+        "mcq_id": "n02105251-briard",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Ibizan hound)",
+            "B": "(Class: English setter)",
+            "C": "(Class: briard)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5624047715106015,
+            "B": 0.6067294381463005,
+            "C": 1.0,
+            "D": 0.6115647290537766
+        }
+    },
+    {
+        "mcq_id": "n02105251-briard",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: briard)",
+            "B": "(Class: Lhasa)",
+            "C": "(Class: Kerry blue terrier)",
+            "D": "(Class: Bouvier des Flandres)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9192305659096617,
+            "C": 0.9104072536155507,
+            "D": 0.9047586883316602
+        }
+    },
+    {
+        "mcq_id": "n02105412-kelpie",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: kelpie)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.4810921054918811,
+            "B": 0.5014936774707588,
+            "C": 1.0,
+            "D": 0.5256744352491973
+        }
+    },
+    {
+        "mcq_id": "n02105412-kelpie",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: kelpie)",
+            "B": "(Class: German shepherd)",
+            "C": "(Class: miniature pinscher)",
+            "D": "(Class: Rottweiler)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8104491021699072,
+            "C": 0.8041841553088604,
+            "D": 0.803970131778301
+        }
+    },
+    {
+        "mcq_id": "n02105505-komondor",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: komondor)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5348772864191158,
+            "B": 1.0,
+            "C": 0.6203758217213522,
+            "D": 0.6204967733437021
+        }
+    },
+    {
+        "mcq_id": "n02105505-komondor",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Sealyham terrier)",
+            "B": "(Class: komondor)",
+            "C": "(Class: standard poodle)",
+            "D": "(Class: Old English sheepdog)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8828328016046345,
+            "B": 1.0,
+            "C": 0.8766858786884948,
+            "D": 0.8720595393033767
+        }
+    },
+    {
+        "mcq_id": "n02105641-Old_English_sheepdog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Ibizan hound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Old English sheepdog)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.4751230143164071,
+            "B": 0.6413060176525437,
+            "C": 1.0,
+            "D": 0.658531876609466
+        }
+    },
+    {
+        "mcq_id": "n02105641-Old_English_sheepdog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: standard poodle)",
+            "B": "(Class: Great Pyrenees)",
+            "C": "(Class: Lhasa)",
+            "D": "(Class: Old English sheepdog)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9216923444564982,
+            "B": 0.909653152566892,
+            "C": 0.909281197718703,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02105855-Shetland_sheepdog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Shetland sheepdog)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.45436442194786236,
+            "C": 0.5709658759347175,
+            "D": 0.5800064333511249
+        }
+    },
+    {
+        "mcq_id": "n02105855-Shetland_sheepdog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Pomeranian)",
+            "B": "(Class: keeshond)",
+            "C": "(Class: Shetland sheepdog)",
+            "D": "(Class: otterhound)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9160911539868877,
+            "B": 0.9048937956926193,
+            "C": 1.0,
+            "D": 0.9023004050828171
+        }
+    },
+    {
+        "mcq_id": "n02106030-collie",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: collie)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4590142917434364,
+            "B": 0.5008834504383916,
+            "C": 0.5420693343439744,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02106030-collie",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: kuvasz)",
+            "B": "(Class: collie)",
+            "C": "(Class: Border collie)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8770206012934197,
+            "B": 1.0,
+            "C": 0.8734449527612417,
+            "D": 0.8696501191638258
+        }
+    },
+    {
+        "mcq_id": "n02106166-Border_collie",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Border collie)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4262697616800571,
+            "C": 0.5444732272255816,
+            "D": 0.5865394837428235
+        }
+    },
+    {
+        "mcq_id": "n02106166-Border_collie",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan mastiff)",
+            "B": "(Class: Border collie)",
+            "C": "(Class: Pembroke)",
+            "D": "(Class: Great Pyrenees)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9247615113323558,
+            "B": 1.0,
+            "C": 0.9235356330667687,
+            "D": 0.9115229700211288
+        }
+    },
+    {
+        "mcq_id": "n02106382-Bouvier_des_Flandres",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Bouvier des Flandres)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5160565346815746,
+            "C": 0.5716811569151173,
+            "D": 0.5974953212748283
+        }
+    },
+    {
+        "mcq_id": "n02106382-Bouvier_des_Flandres",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Lhasa)",
+            "B": "(Class: Scottish deerhound)",
+            "C": "(Class: Kerry blue terrier)",
+            "D": "(Class: Bouvier des Flandres)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9261868698566937,
+            "B": 0.908462967036984,
+            "C": 0.9066847095967574,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02106550-Rottweiler",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Rottweiler)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5643102432560364,
+            "C": 0.5945522020862707,
+            "D": 0.618687051288031
+        }
+    },
+    {
+        "mcq_id": "n02106550-Rottweiler",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English foxhound)",
+            "B": "(Class: Doberman)",
+            "C": "(Class: African hunting dog)",
+            "D": "(Class: Rottweiler)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9148689551459872,
+            "B": 0.9071644679142904,
+            "C": 0.9070199647739349,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02106662-German_shepherd",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: German shepherd)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5435136635355828,
+            "C": 0.613498723405187,
+            "D": 0.6261373302890686
+        }
+    },
+    {
+        "mcq_id": "n02106662-German_shepherd",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Rottweiler)",
+            "B": "(Class: English foxhound)",
+            "C": "(Class: German shepherd)",
+            "D": "(Class: boxer)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.920941168884289,
+            "B": 0.9022253670542283,
+            "C": 1.0,
+            "D": 0.896922172614446
+        }
+    },
+    {
+        "mcq_id": "n02107142-Doberman",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Doberman)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.557162818940803,
+            "B": 1.0,
+            "C": 0.559762197519411,
+            "D": 0.6312826135891118
+        }
+    },
+    {
+        "mcq_id": "n02107142-Doberman",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Doberman)",
+            "B": "(Class: flat-coated retriever)",
+            "C": "(Class: Greater Swiss Mountain dog)",
+            "D": "(Class: Norwegian elkhound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9299419932485762,
+            "C": 0.9255291755525077,
+            "D": 0.9211505254080664
+        }
+    },
+    {
+        "mcq_id": "n02107312-miniature_pinscher",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miniature pinscher)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5170127688686299,
+            "C": 0.57556191977568,
+            "D": 0.5773328024032125
+        }
+    },
+    {
+        "mcq_id": "n02107312-miniature_pinscher",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Rottweiler)",
+            "B": "(Class: miniature pinscher)",
+            "C": "(Class: German shepherd)",
+            "D": "(Class: Gordon setter)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8762795347562007,
+            "B": 1.0,
+            "C": 0.8739484988662738,
+            "D": 0.8712660345984955
+        }
+    },
+    {
+        "mcq_id": "n02107574-Greater_Swiss_Mountain_dog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Greater Swiss Mountain dog)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5365208817534751,
+            "C": 0.5994540221369471,
+            "D": 0.6075770851479154
+        }
+    },
+    {
+        "mcq_id": "n02107574-Greater_Swiss_Mountain_dog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Bernese mountain dog)",
+            "B": "(Class: Greater Swiss Mountain dog)",
+            "C": "(Class: Appenzeller)",
+            "D": "(Class: Tibetan mastiff)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9533045993277293,
+            "B": 1.0,
+            "C": 0.9449666236506475,
+            "D": 0.9262701884938837
+        }
+    },
+    {
+        "mcq_id": "n02107683-Bernese_mountain_dog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Bernese mountain dog)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.47972004462979945,
+            "B": 0.572913225265383,
+            "C": 0.5903293109099271,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02107683-Bernese_mountain_dog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Appenzeller)",
+            "B": "(Class: Greater Swiss Mountain dog)",
+            "C": "(Class: Bernese mountain dog)",
+            "D": "(Class: Saint Bernard)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9533045993277293,
+            "B": 0.921626984635812,
+            "C": 1.0,
+            "D": 0.9132450123628245
+        }
+    },
+    {
+        "mcq_id": "n02107908-Appenzeller",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Appenzeller)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.547396721875831,
+            "B": 0.5978154203367592,
+            "C": 1.0,
+            "D": 0.6268276946491994
+        }
+    },
+    {
+        "mcq_id": "n02107908-Appenzeller",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Greater Swiss Mountain dog)",
+            "B": "(Class: Appenzeller)",
+            "C": "(Class: EntleBucher)",
+            "D": "(Class: Bernese mountain dog)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9449666236506475,
+            "B": 1.0,
+            "C": 0.9244459894802326,
+            "D": 0.921626984635812
+        }
+    },
+    {
+        "mcq_id": "n02108000-EntleBucher",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: EntleBucher)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5751706689116385,
+            "B": 0.5892329383804941,
+            "C": 1.0,
+            "D": 0.6271244658822556
+        }
+    },
+    {
+        "mcq_id": "n02108000-EntleBucher",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Appenzeller)",
+            "B": "(Class: EntleBucher)",
+            "C": "(Class: Walker hound)",
+            "D": "(Class: Greater Swiss Mountain dog)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9244459894802326,
+            "B": 1.0,
+            "C": 0.9211374723219525,
+            "D": 0.9103281830769795
+        }
+    },
+    {
+        "mcq_id": "n02108089-boxer",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: boxer)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5677835058167067,
+            "B": 0.5966416566168756,
+            "C": 1.0,
+            "D": 0.6209691561046222
+        }
+    },
+    {
+        "mcq_id": "n02108089-boxer",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: boxer)",
+            "B": "(Class: French bulldog)",
+            "C": "(Class: Staffordshire bullterrier)",
+            "D": "(Class: Great Dane)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9513685163435851,
+            "C": 0.9438060210186971,
+            "D": 0.9381734300811853
+        }
+    },
+    {
+        "mcq_id": "n02108422-bull_mastiff",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: bull mastiff)",
+            "B": "(Class: English setter)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5273613267721715,
+            "C": 0.5926154660317922,
+            "D": 0.5984873316165105
+        }
+    },
+    {
+        "mcq_id": "n02108422-bull_mastiff",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: French bulldog)",
+            "B": "(Class: boxer)",
+            "C": "(Class: bull mastiff)",
+            "D": "(Class: redbone)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8885608097598237,
+            "B": 0.8827620064466346,
+            "C": 1.0,
+            "D": 0.8793378483865534
+        }
+    },
+    {
+        "mcq_id": "n02108551-Tibetan_mastiff",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Tibetan mastiff)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4958374175445581,
+            "B": 0.554281156053249,
+            "C": 0.5620228068931942,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02108551-Tibetan_mastiff",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Great Dane)",
+            "B": "(Class: Pembroke)",
+            "C": "(Class: Tibetan mastiff)",
+            "D": "(Class: Greater Swiss Mountain dog)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9475543544424532,
+            "B": 0.9281691728602727,
+            "C": 1.0,
+            "D": 0.9262701884938837
+        }
+    },
+    {
+        "mcq_id": "n02108915-French_bulldog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: French bulldog)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5925660045608749,
+            "C": 0.5971062570518589,
+            "D": 0.6201113152188429
+        }
+    },
+    {
+        "mcq_id": "n02108915-French_bulldog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Great Dane)",
+            "B": "(Class: boxer)",
+            "C": "(Class: French bulldog)",
+            "D": "(Class: Staffordshire bullterrier)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9513685163435851,
+            "B": 0.9309625119077738,
+            "C": 1.0,
+            "D": 0.9288932033605553
+        }
+    },
+    {
+        "mcq_id": "n02109047-Great_Dane",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Great Dane)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5114470323829485,
+            "C": 0.5450243293004562,
+            "D": 0.5606094359315795
+        }
+    },
+    {
+        "mcq_id": "n02109047-Great_Dane",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: French bulldog)",
+            "B": "(Class: Staffordshire bullterrier)",
+            "C": "(Class: boxer)",
+            "D": "(Class: Great Dane)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9447003916818677,
+            "B": 0.9381734300811853,
+            "C": 0.9309625119077738,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02109525-Saint_Bernard",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Saint Bernard)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5356923554255562,
+            "B": 0.6059383932242746,
+            "C": 0.616645218107735,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02109525-Saint_Bernard",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Greater Swiss Mountain dog)",
+            "B": "(Class: African hunting dog)",
+            "C": "(Class: Saint Bernard)",
+            "D": "(Class: English foxhound)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9298595876774735,
+            "B": 0.921440881365574,
+            "C": 1.0,
+            "D": 0.9180331950081334
+        }
+    },
+    {
+        "mcq_id": "n02109961-Eskimo_dog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Eskimo dog)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.46417342993282634,
+            "C": 0.5476269897768357,
+            "D": 0.5655535722070048
+        }
+    },
+    {
+        "mcq_id": "n02109961-Eskimo_dog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: keeshond)",
+            "B": "(Class: Siberian husky)",
+            "C": "(Class: basenji)",
+            "D": "(Class: Eskimo dog)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.939112333711408,
+            "B": 0.892917008812611,
+            "C": 0.8674255648017543,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02110063-malamute",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: malamute)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4946397276973968,
+            "B": 1.0,
+            "C": 0.5950771169923229,
+            "D": 0.5967851848129684
+        }
+    },
+    {
+        "mcq_id": "n02110063-malamute",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: African hunting dog)",
+            "B": "(Class: Lakeland terrier)",
+            "C": "(Class: malamute)",
+            "D": "(Class: English foxhound)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.872174104595139,
+            "B": 0.8674407842643177,
+            "C": 1.0,
+            "D": 0.8632981467418984
+        }
+    },
+    {
+        "mcq_id": "n02110185-Siberian_husky",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Siberian husky)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5084486077897629,
+            "B": 1.0,
+            "C": 0.6022879357678357,
+            "D": 0.608388059004417
+        }
+    },
+    {
+        "mcq_id": "n02110185-Siberian_husky",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: beagle)",
+            "B": "(Class: Eskimo dog)",
+            "C": "(Class: Siberian husky)",
+            "D": "(Class: Greater Swiss Mountain dog)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.939112333711408,
+            "B": 0.9135042584342947,
+            "C": 1.0,
+            "D": 0.913378541308063
+        }
+    },
+    {
+        "mcq_id": "n02110627-affenpinscher",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: affenpinscher)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5598064307653281,
+            "C": 0.5719694865577732,
+            "D": 0.6401434203974076
+        }
+    },
+    {
+        "mcq_id": "n02110627-affenpinscher",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: affenpinscher)",
+            "B": "(Class: Lakeland terrier)",
+            "C": "(Class: toy poodle)",
+            "D": "(Class: cairn)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9060016909198341,
+            "C": 0.8947575905845833,
+            "D": 0.894653294355452
+        }
+    },
+    {
+        "mcq_id": "n02110806-basenji",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: basenji)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Leonberg)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.48850990273614164,
+            "B": 1.0,
+            "C": 0.5941215561270851,
+            "D": 0.5942345192120932
+        }
+    },
+    {
+        "mcq_id": "n02110806-basenji",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: basenji)",
+            "B": "(Class: Lakeland terrier)",
+            "C": "(Class: Pomeranian)",
+            "D": "(Class: keeshond)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9135638072505973,
+            "C": 0.9133029366940286,
+            "D": 0.9125476919320155
+        }
+    },
+    {
+        "mcq_id": "n02110958-pug",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pug)",
+            "B": "(Class: Leonberg)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5482409854721961,
+            "C": 0.5594427788737536,
+            "D": 0.6224185727565563
+        }
+    },
+    {
+        "mcq_id": "n02110958-pug",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: pug)",
+            "B": "(Class: Italian greyhound)",
+            "C": "(Class: beagle)",
+            "D": "(Class: French bulldog)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8912274957201894,
+            "C": 0.8881629534365,
+            "D": 0.886058551881899
+        }
+    },
+    {
+        "mcq_id": "n02111129-Leonberg",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Mexican hairless)",
+            "B": "(Class: Leonberg)",
+            "C": "(Class: Ibizan hound)",
+            "D": "(Class: Chihuahua)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.4855405631040217,
+            "B": 1.0,
+            "C": 0.5065191612216162,
+            "D": 0.5244179952870982
+        }
+    },
+    {
+        "mcq_id": "n02111129-Leonberg",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: borzoi)",
+            "C": "(Class: Sussex spaniel)",
+            "D": "(Class: soft-coated wheaten terrier)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7575234083248553,
+            "C": 0.7327176239824027,
+            "D": 0.7222540668899693
+        }
+    },
+    {
+        "mcq_id": "n02111277-Newfoundland",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Newfoundland)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.44996142793617894,
+            "B": 0.4512633385658967,
+            "C": 0.5059468438317694,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02111277-Newfoundland",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Tibetan mastiff)",
+            "B": "(Class: cairn)",
+            "C": "(Class: Newfoundland)",
+            "D": "(Class: Pembroke)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8675260528988162,
+            "B": 0.8658439108994271,
+            "C": 1.0,
+            "D": 0.864478882332428
+        }
+    },
+    {
+        "mcq_id": "n02111500-Great_Pyrenees",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Great Pyrenees)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4499873618355071,
+            "B": 0.6027344359167134,
+            "C": 0.6250448205684731,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02111500-Great_Pyrenees",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: kuvasz)",
+            "B": "(Class: Great Pyrenees)",
+            "C": "(Class: Old English sheepdog)",
+            "D": "(Class: chow)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9297688316545587,
+            "B": 1.0,
+            "C": 0.9216923444564982,
+            "D": 0.917337056860598
+        }
+    },
+    {
+        "mcq_id": "n02111889-Samoyed",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Samoyed)",
+            "C": "(Class: Airedale)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.41011713703208424,
+            "B": 1.0,
+            "C": 0.532453096340105,
+            "D": 0.591997403879515
+        }
+    },
+    {
+        "mcq_id": "n02111889-Samoyed",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Samoyed)",
+            "B": "(Class: Maltese dog)",
+            "C": "(Class: Great Pyrenees)",
+            "D": "(Class: Old English sheepdog)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8447948013290989,
+            "C": 0.8154740712227336,
+            "D": 0.8122012746487982
+        }
+    },
+    {
+        "mcq_id": "n02112018-Pomeranian",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Pomeranian)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5070337644542019,
+            "B": 0.6047346350191897,
+            "C": 0.6180631782087804,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02112018-Pomeranian",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: keeshond)",
+            "B": "(Class: Pomeranian)",
+            "C": "(Class: chow)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9577881509380803,
+            "B": 1.0,
+            "C": 0.9266146294731596,
+            "D": 0.9205322188638915
+        }
+    },
+    {
+        "mcq_id": "n02112137-chow",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: chow)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5262611435468405,
+            "B": 0.5523368463186809,
+            "C": 1.0,
+            "D": 0.6056882439219751
+        }
+    },
+    {
+        "mcq_id": "n02112137-chow",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Pomeranian)",
+            "B": "(Class: chow)",
+            "C": "(Class: Tibetan mastiff)",
+            "D": "(Class: keeshond)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9266146294731596,
+            "B": 1.0,
+            "C": 0.920758572558184,
+            "D": 0.9193402296010651
+        }
+    },
+    {
+        "mcq_id": "n02112350-keeshond",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: keeshond)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.4690467858180515,
+            "B": 0.5910525925492417,
+            "C": 0.6094066632902961,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02112350-keeshond",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English springer)",
+            "B": "(Class: Pomeranian)",
+            "C": "(Class: keeshond)",
+            "D": "(Class: chow)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9577881509380803,
+            "B": 0.9292339171677223,
+            "C": 1.0,
+            "D": 0.9193402296010651
+        }
+    },
+    {
+        "mcq_id": "n02112706-Brabancon_griffon",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: borzoi)",
+            "B": "(Class: Samoyed)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: Border collie)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.41011713703208424,
+            "B": 0.41336852746883906,
+            "C": 1.0,
+            "D": 0.4262697616800571
+        }
+    },
+    {
+        "mcq_id": "n02112706-Brabancon_griffon",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: Gordon setter)",
+            "C": "(Class: Australian terrier)",
+            "D": "(Class: Shih-Tzu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6272194169264118,
+            "C": 0.6262862009986867,
+            "D": 0.6255800728493144
+        }
+    },
+    {
+        "mcq_id": "n02113023-Pembroke",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: English setter)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: Pembroke)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.557055751629813,
+            "B": 0.5718904017098881,
+            "C": 1.0,
+            "D": 0.5903637838690223
+        }
+    },
+    {
+        "mcq_id": "n02113023-Pembroke",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Pembroke)",
+            "B": "(Class: Tibetan mastiff)",
+            "C": "(Class: Great Dane)",
+            "D": "(Class: Border collie)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9475543544424532,
+            "C": 0.9272536287973919,
+            "D": 0.9235356330667687
+        }
+    },
+    {
+        "mcq_id": "n02113186-Cardigan",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Cardigan)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: Shih-Tzu)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4777757904176127,
+            "C": 0.5510635856433497,
+            "D": 0.62639741324618
+        }
+    },
+    {
+        "mcq_id": "n02113186-Cardigan",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: boxer)",
+            "B": "(Class: Cardigan)",
+            "C": "(Class: Great Dane)",
+            "D": "(Class: Staffordshire bullterrier)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.8968448570107568,
+            "B": 1.0,
+            "C": 0.8821216451671114,
+            "D": 0.8734112397091479
+        }
+    },
+    {
+        "mcq_id": "n02113624-toy_poodle",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: toy poodle)",
+            "C": "(Class: English setter)",
+            "D": "(Class: Ibizan hound)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.561012270419957,
+            "B": 1.0,
+            "C": 0.5996035817659766,
+            "D": 0.6748463449915254
+        }
+    },
+    {
+        "mcq_id": "n02113624-toy_poodle",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: toy poodle)",
+            "B": "(Class: standard poodle)",
+            "C": "(Class: miniature poodle)",
+            "D": "(Class: curly-coated retriever)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9177182831095226,
+            "C": 0.9127052952006317,
+            "D": 0.9109503027761516
+        }
+    },
+    {
+        "mcq_id": "n02113712-miniature_poodle",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Ibizan hound)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: miniature poodle)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5547774236387858,
+            "B": 0.6159801546746156,
+            "C": 0.6219704526734351,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02113712-miniature_poodle",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: miniature poodle)",
+            "B": "(Class: toy poodle)",
+            "C": "(Class: standard poodle)",
+            "D": "(Class: otterhound)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9127052952006317,
+            "C": 0.857269139791839,
+            "D": 0.8523885868032072
+        }
+    },
+    {
+        "mcq_id": "n02113799-standard_poodle",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Leonberg)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: English setter)",
+            "D": "(Class: standard poodle)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.5303575674080814,
+            "B": 0.6414361239831721,
+            "C": 0.6544654144970083,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02113799-standard_poodle",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Old English sheepdog)",
+            "B": "(Class: toy poodle)",
+            "C": "(Class: standard poodle)",
+            "D": "(Class: Lakeland terrier)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9177182831095226,
+            "B": 0.909281197718703,
+            "C": 1.0,
+            "D": 0.9050434948646625
+        }
+    },
+    {
+        "mcq_id": "n02113978-Mexican_hairless",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: cocker spaniel)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Mexican hairless)",
+            "D": "(Class: Brabancon griffon)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.4472893151455783,
+            "B": 0.4558924332503811,
+            "C": 1.0,
+            "D": 0.47416881755823814
+        }
+    },
+    {
+        "mcq_id": "n02113978-Mexican_hairless",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Italian greyhound)",
+            "B": "(Class: Great Dane)",
+            "C": "(Class: Mexican hairless)",
+            "D": "(Class: Yorkshire terrier)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.7834335348065148,
+            "B": 0.7797616285549864,
+            "C": 1.0,
+            "D": 0.7735745788756586
+        }
+    },
+    {
+        "mcq_id": "n02115641-dingo",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: dingo)",
+            "B": "(Class: Brabancon griffon)",
+            "C": "(Class: cocker spaniel)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.4758624259158419,
+            "C": 0.5225066621083903,
+            "D": 0.5354958310445034
+        }
+    },
+    {
+        "mcq_id": "n02115641-dingo",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: dhole)",
+            "B": "(Class: golden retriever)",
+            "C": "(Class: basenji)",
+            "D": "(Class: dingo)"
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8526750393281239,
+            "B": 0.8447547609026764,
+            "C": 0.8397031473574373,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "n02115913-dhole",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: dhole)",
+            "B": "(Class: English setter)",
+            "C": "(Class: Brabancon griffon)",
+            "D": "(Class: cocker spaniel)"
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5116121284348402,
+            "C": 0.5153640227839786,
+            "D": 0.5198501964221017
+        }
+    },
+    {
+        "mcq_id": "n02115913-dhole",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Border collie)",
+            "B": "(Class: Pembroke)",
+            "C": "(Class: dhole)",
+            "D": "(Class: Welsh springer spaniel)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8948439388804791,
+            "B": 0.8830812650012436,
+            "C": 1.0,
+            "D": 0.8816754667935149
+        }
+    },
+    {
+        "mcq_id": "n02116738-African_hunting_dog",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Brabancon griffon)",
+            "B": "(Class: African hunting dog)",
+            "C": "(Class: Leonberg)",
+            "D": "(Class: English setter)"
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5551121280813748,
+            "B": 1.0,
+            "C": 0.6246642914877526,
+            "D": 0.6350289741323046
+        }
+    },
+    {
+        "mcq_id": "n02116738-African_hunting_dog",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: French bulldog)",
+            "B": "(Class: Saint Bernard)",
+            "C": "(Class: African hunting dog)",
+            "D": "(Class: English foxhound)"
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9298595876774735,
+            "B": 0.9217885665287906,
+            "C": 1.0,
+            "D": 0.9165374141439574
+        }
+    }
+]

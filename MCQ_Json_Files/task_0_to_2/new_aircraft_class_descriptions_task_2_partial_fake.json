@@ -1,0 +1,2522 @@
+[
+    {
+        "mcq_id": "A300",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low wing configuration with 35\u00b0 sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6858836669715475,
+            "B": 1.0,
+            "C": 0.6945081590672078,
+            "D": 0.7044247006171089
+        }
+    },
+    {
+        "mcq_id": "A300",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8764936560893452,
+            "B": 0.8738288176540417,
+            "C": 0.8698822290320041,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "A310",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6648900895077356,
+            "C": 0.6883741086670894,
+            "D": 0.748869267163301
+        }
+    },
+    {
+        "mcq_id": "A310",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9697629681907247,
+            "B": 1.0,
+            "C": 0.9685524086442637,
+            "D": 0.9644315626485683
+        }
+    },
+    {
+        "mcq_id": "A320",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6276169274158773,
+            "C": 0.673755636234768,
+            "D": 0.7302085073231303
+        }
+    },
+    {
+        "mcq_id": "A320",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9716253758600509,
+            "B": 1.0,
+            "C": 0.9698575826244465,
+            "D": 0.9664931889582369
+        }
+    },
+    {
+        "mcq_id": "A330",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6273603070380969,
+            "B": 1.0,
+            "C": 0.6808409770625202,
+            "D": 0.7497243561776934
+        }
+    },
+    {
+        "mcq_id": "A330",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9705088665471175,
+            "B": 1.0,
+            "C": 0.9627446178760316,
+            "D": 0.9612721540635222
+        }
+    },
+    {
+        "mcq_id": "A340",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6311691590576746,
+            "C": 0.6584056722327517,
+            "D": 0.678039354034332
+        }
+    },
+    {
+        "mcq_id": "A340",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9034570860140303,
+            "B": 1.0,
+            "C": 0.87721341512124,
+            "D": 0.874224178738315
+        }
+    },
+    {
+        "mcq_id": "A380",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6168893672228205,
+            "C": 0.6171477537744559,
+            "D": 0.6786985291698275
+        }
+    },
+    {
+        "mcq_id": "A380",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9034570860140303,
+            "B": 1.0,
+            "C": 0.8767038099200273,
+            "D": 0.8761079507362467
+        }
+    },
+    {
+        "mcq_id": "ATR-42",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6766412041091259,
+            "B": 0.7220013036843076,
+            "C": 1.0,
+            "D": 0.775025826001761
+        }
+    },
+    {
+        "mcq_id": "ATR-42",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9730534632578046,
+            "B": 1.0,
+            "C": 0.9720393158494475,
+            "D": 0.9652472804593096
+        }
+    },
+    {
+        "mcq_id": "ATR-72",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has twin turboprop engines mounted under high wings, a T-tail configuration, retractable tricycle landing gear, and six cockpit windows, distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6877893287029732,
+            "B": 0.6972587128314343,
+            "C": 0.6976254025460178,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "ATR-72",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has twin turboprop engines mounted under high wings, a T-tail configuration, retractable tricycle landing gear, and six cockpit windows, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9281546139028852,
+            "C": 0.9219241033807815,
+            "D": 0.9218949124013552
+        }
+    },
+    {
+        "mcq_id": "An-12",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has four turboprop engines, high-mounted wings, a distinctive T-tail, a glass nose for visibility, and a rear loading ramp for cargo, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6573043927440906,
+            "B": 0.696737488644188,
+            "C": 1.0,
+            "D": 0.7393449896580717
+        }
+    },
+    {
+        "mcq_id": "An-12",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has four turboprop engines, high-mounted wings, a distinctive T-tail, a glass nose for visibility, and a rear loading ramp for cargo, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a high wing, four-engine turboprop design, T-tail, rounded nose, rear cargo ramp, and distinctive military markings, distinguishing it from similar models."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9679518340596083,
+            "C": 0.9625593135025664,
+            "D": 0.9549729108257542
+        }
+    },
+    {
+        "mcq_id": "BAE 146",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.705688199122728,
+            "B": 1.0,
+            "C": 0.7330832927550696,
+            "D": 0.7881099332101121
+        }
+    },
+    {
+        "mcq_id": "BAE 146",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9688764892529991,
+            "B": 0.9683999373548831,
+            "C": 0.967855789906485,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "BAE-125",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6531613160581512,
+            "B": 0.6959154782967446,
+            "C": 0.7702552838111157,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "BAE-125",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9680883960898935,
+            "B": 0.9669241366452451,
+            "C": 0.9645815877049038,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Beechcraft 1900",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6641483401302691,
+            "B": 1.0,
+            "C": 0.6974711431559071,
+            "D": 0.7603603040963162
+        }
+    },
+    {
+        "mcq_id": "Beechcraft 1900",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9710394822821057,
+            "B": 1.0,
+            "C": 0.9687488787501752,
+            "D": 0.9632942116482817
+        }
+    },
+    {
+        "mcq_id": "Boeing 707",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6608293269093334,
+            "B": 0.6928085484820912,
+            "C": 0.7394180963800953,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Boeing 707",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9743488582581631,
+            "B": 1.0,
+            "C": 0.9716253758600509,
+            "D": 0.9692338032491001
+        }
+    },
+    {
+        "mcq_id": "Boeing 717",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines including one central engine and two side engines integrated into the tail, featuring S-shaped ducts and a rear underbelly airstair for passenger access.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6641072391491917,
+            "B": 1.0,
+            "C": 0.7161310041155797,
+            "D": 0.7641559851608726
+        }
+    },
+    {
+        "mcq_id": "Boeing 717",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines including one central engine and two side engines integrated into the tail, featuring S-shaped ducts and a rear underbelly airstair for passenger access.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9577738209413686,
+            "B": 0.9564569590176037,
+            "C": 1.0,
+            "D": 0.9506152502019468
+        }
+    },
+    {
+        "mcq_id": "Boeing 727",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6555162430240694,
+            "B": 1.0,
+            "C": 0.7003901597309914,
+            "D": 0.7457871595097633
+        }
+    },
+    {
+        "mcq_id": "Boeing 727",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9698575826244465,
+            "B": 0.9673639706840825,
+            "C": 1.0,
+            "D": 0.9629362819972997
+        }
+    },
+    {
+        "mcq_id": "Boeing 737",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has short, stubby engine nacelles, a pointed tail cone, no winglets, and measures approximately 120 feet in length, distinguishing it from similar models with unique design features."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7297630876964545,
+            "B": 0.734144487291009,
+            "C": 0.7390866066912632,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Boeing 737",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has short, stubby engine nacelles, a pointed tail cone, no winglets, and measures approximately 120 feet in length, distinguishing it from similar models with unique design features.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has three engines, including a distinctive tail engine mounted in a T-tail structure, a low-wing configuration, a wide-body fuselage, and a unique rear-mounted engine design distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9254839583982925,
+            "C": 0.920638351271759,
+            "D": 0.9090039437454708
+        }
+    },
+    {
+        "mcq_id": "Boeing 747",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has four engines, a distinctive hump on the upper deck, large landing gear, and a long fuselage, measuring approximately 230 feet in length, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6414522700389602,
+            "B": 1.0,
+            "C": 0.685900935898336,
+            "D": 0.7246937834882837
+        }
+    },
+    {
+        "mcq_id": "Boeing 747",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has four engines, a distinctive hump on the upper deck, large landing gear, and a long fuselage, measuring approximately 230 feet in length, distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9567850180433284,
+            "B": 0.9535025595266166,
+            "C": 0.9477636449014922,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Boeing 757",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing cantilever monoplane design with wings swept at 31.5 degrees, featuring six-panel leading edge slats, six spoilers, two overwing exit doors, and a single fin and rudder on the tail."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6583009759460506,
+            "B": 0.7150877776607361,
+            "C": 0.7638473115386093,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Boeing 757",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing cantilever monoplane design with a single fin and rudder, featuring a distinctive T-tail, two engines mounted under the wings, and a wide-body fuselage for passenger or cargo transport.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low-wing cantilever monoplane design with wings swept at 31.5 degrees, featuring six-panel leading edge slats, six spoilers, two overwing exit doors, and a single fin and rudder on the tail.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9583621448498202,
+            "B": 1.0,
+            "C": 0.9443465043617918,
+            "D": 0.9269869199667394
+        }
+    },
+    {
+        "mcq_id": "Boeing 767",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing cantilever monoplane design with a single fin and rudder, featuring a distinctive T-tail, two engines mounted under the wings, and a wide-body fuselage for passenger or cargo transport.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6345919315253475,
+            "C": 0.6714258198958106,
+            "D": 0.7547409345035502
+        }
+    },
+    {
+        "mcq_id": "Boeing 767",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing cantilever monoplane design with a single fin and rudder, featuring a distinctive T-tail, two engines mounted under the wings, and a wide-body fuselage for passenger or cargo transport.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low-wing cantilever monoplane design with wings swept at 31.5 degrees, featuring six-panel leading edge slats, six spoilers, two overwing exit doors, and a single fin and rudder on the tail.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9583694634158225,
+            "C": 0.9583621448498202,
+            "D": 0.9437123629709598
+        }
+    },
+    {
+        "mcq_id": "Boeing 777",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a long fuselage, twin engines in circular nacelles, a large body, six-wheel main landing gear, and distinctive raked wingtips, distinguishing it as a Boeing 777 series plane.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6193351444293299,
+            "B": 1.0,
+            "C": 0.6549185747466061,
+            "D": 0.6845704470192989
+        }
+    },
+    {
+        "mcq_id": "Boeing 777",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a long fuselage, twin engines in circular nacelles, a large body, six-wheel main landing gear, and distinctive raked wingtips, distinguishing it as a Boeing 777 series plane."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8844286418311952,
+            "B": 0.8791667073672655,
+            "C": 0.8733682925687724,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "C-130",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a high wing, four-engine turboprop design, T-tail, rounded nose, rear cargo ramp, and distinctive military markings, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6476587662326418,
+            "B": 1.0,
+            "C": 0.7023328804938922,
+            "D": 0.7308182610550438
+        }
+    },
+    {
+        "mcq_id": "C-130",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a high wing, four-engine turboprop design, T-tail, rounded nose, rear cargo ramp, and distinctive military markings, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has four turboprop engines, high-mounted wings, a distinctive T-tail, a glass nose for visibility, and a rear loading ramp for cargo, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9549729108257542,
+            "C": 0.9531618240613464,
+            "D": 0.9510637276773307
+        }
+    },
+    {
+        "mcq_id": "C-47",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine, low-wing monoplane design with a distinctive rounded fuselage, large cargo door, and a T-tail configuration, commonly used for both military transport and civilian aviation purposes.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6054738803822345,
+            "B": 1.0,
+            "C": 0.6372199894062611,
+            "D": 0.7182772376139174
+        }
+    },
+    {
+        "mcq_id": "C-47",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a twin-engine, low-wing monoplane design with a distinctive rounded fuselage, large cargo door, and a T-tail configuration, commonly used for both military transport and civilian aviation purposes."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9566297929444609,
+            "B": 0.9546800866339484,
+            "C": 0.9519890882193519,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "CRJ-200",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7496396482113491,
+            "C": 0.7551815014012918,
+            "D": 0.7608918512257177
+        }
+    },
+    {
+        "mcq_id": "CRJ-200",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.971750823452734,
+            "C": 0.9550999233080346,
+            "D": 0.9503285096565087
+        }
+    },
+    {
+        "mcq_id": "CRJ-700",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7479034914344883,
+            "C": 0.7510548846517515,
+            "D": 0.7673158572754739
+        }
+    },
+    {
+        "mcq_id": "CRJ-700",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a slender fuselage, T-tail configuration, rear-mounted engines, and a distinctive cockpit window shape, distinguishing it from similar models with its compact design and efficient regional jet features.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9369646885449138,
+            "B": 0.9331950786925977,
+            "C": 0.9317637461785342,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Cessna 172",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7004380438537455,
+            "B": 1.0,
+            "C": 0.7217494656257576,
+            "D": 0.7223161986940018
+        }
+    },
+    {
+        "mcq_id": "Cessna 172",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9617472601102258,
+            "C": 0.9499886272218803,
+            "D": 0.9419379805304336
+        }
+    },
+    {
+        "mcq_id": "Cessna 208",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a high-wing braced cabin monoplane design, powered by a single engine, featuring fixed tricycle landing gear, multiple doors for passenger access, and often includes a distinctive cargo pod for enhanced utility."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6160081161257905,
+            "B": 0.6632669544339971,
+            "C": 0.7152000724999849,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Cessna 208",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low-wing monoplane design with a straight wing, powered by a single engine driving a two-blade propeller, featuring tandem seating under a bubble canopy, and equipped with a tricycle undercarriage.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a high-wing braced cabin monoplane design, powered by a single engine, featuring fixed tricycle landing gear, multiple doors for passenger access, and often includes a distinctive cargo pod for enhanced utility."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9449453013947079,
+            "B": 0.9412557285100474,
+            "C": 0.9398216880785187,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Cessna Citation",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.729029597232809,
+            "B": 0.729470965636149,
+            "C": 1.0,
+            "D": 0.7330035363368888
+        }
+    },
+    {
+        "mcq_id": "Cessna Citation",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9617472601102258,
+            "C": 0.9503285096565087,
+            "D": 0.9385573174904217
+        }
+    },
+    {
+        "mcq_id": "Challenger 600",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has twin turboprop engines mounted under high wings, a T-tail configuration, retractable tricycle landing gear, and six cockpit windows, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a twin-engine jet configuration with a T-tail, rear-mounted engines, and a low-wing design, featuring a sleek fuselage and distinctive winglets for enhanced aerodynamics and performance."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.608741452711166,
+            "B": 0.6260152586691147,
+            "C": 0.7027728972036154,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Challenger 600",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine jet configuration with a T-tail, rear-mounted engines, and a low-wing design, featuring a sleek fuselage and distinctive winglets for enhanced aerodynamics and performance.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9740454761060523,
+            "B": 1.0,
+            "C": 0.9600199798856006,
+            "D": 0.9567917101771516
+        }
+    },
+    {
+        "mcq_id": "DC-10",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has three engines, including a distinctive tail engine mounted in a T-tail structure, a low-wing configuration, a wide-body fuselage, and a unique rear-mounted engine design distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.7425177929154135,
+            "B": 0.7773919657997719,
+            "C": 0.7963233884732946,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "DC-10",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has three engines, including a distinctive tail engine mounted in a T-tail structure, a low-wing configuration, a wide-body fuselage, and a unique rear-mounted engine design distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9664566139353099,
+            "B": 0.9512954259201929,
+            "C": 0.9419908882201857,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "DC-3",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a twin-engine, propeller-driven design with a distinctive rounded fuselage, low-wing configuration, and tricycle landing gear, featuring a classic tail section and prominent engine cowlings.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6306351707869943,
+            "B": 0.6880849528804701,
+            "C": 1.0,
+            "D": 0.749055763922896
+        }
+    },
+    {
+        "mcq_id": "DC-3",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a twin-engine, propeller-driven design with a distinctive rounded fuselage, low-wing configuration, and tricycle landing gear, featuring a classic tail section and prominent engine cowlings.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9650679808570025,
+            "C": 0.9580898118502259,
+            "D": 0.9572461714112619
+        }
+    },
+    {
+        "mcq_id": "DC-6",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has four piston engines with circular cowlings, a single vertical stabilizer, low-wing design, rounded nose, oval windows, and distinctive tail markings, distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6506206856636025,
+            "B": 0.7072433031436525,
+            "C": 0.7676397957161307,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "DC-6",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has four piston engines with circular cowlings, a single vertical stabilizer, low-wing design, rounded nose, oval windows, and distinctive tail markings, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a distinctive T-tail, rear-mounted engines, and a sleek fuselage with circular windows, distinguishing it from similar models despite lacking a glass nose cone.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9553971593299281,
+            "B": 1.0,
+            "C": 0.9510391094579842,
+            "D": 0.9509316009816321
+        }
+    },
+    {
+        "mcq_id": "DC-8",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has four rear-mounted jet engines, a narrow-body fuselage with a \"double bubble\" cross-section, swept-back wings, a distinctive nose cone, and a T-tail configuration.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6884937040946505,
+            "B": 0.7242718303299861,
+            "C": 1.0,
+            "D": 0.786820719888084
+        }
+    },
+    {
+        "mcq_id": "DC-8",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has four rear-mounted jet engines, a narrow-body fuselage with a \"double bubble\" cross-section, swept-back wings, a distinctive nose cone, and a T-tail configuration."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9588692704798514,
+            "B": 0.9516106666498915,
+            "C": 0.943565734606073,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "DC-9",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6686494130914881,
+            "B": 1.0,
+            "C": 0.70191642558453,
+            "D": 0.766319557102276
+        }
+    },
+    {
+        "mcq_id": "DC-9",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9795922961256985,
+            "C": 0.9782315114190477,
+            "D": 0.9743488582581631
+        }
+    },
+    {
+        "mcq_id": "DH-82",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a biplane configuration with two main wings, a taildragger landing gear, an open tandem cockpit, a de Havilland Gipsy III engine, and distinctive roundels and markings for identification.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low wing configuration with 35\u00b0 sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6749523652898286,
+            "B": 0.6939535611118586,
+            "C": 1.0,
+            "D": 0.7002249665655482
+        }
+    },
+    {
+        "mcq_id": "DH-82",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a biplane configuration with two main wings, a taildragger landing gear, an open tandem cockpit, a de Havilland Gipsy III engine, and distinctive roundels and markings for identification."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.8988211481902406,
+            "B": 0.8907134476062919,
+            "C": 0.8806232721436045,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "DHC-1",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6515077179449975,
+            "B": 0.678039354034332,
+            "C": 1.0,
+            "D": 0.683780268684736
+        }
+    },
+    {
+        "mcq_id": "DHC-1",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9029855147661805,
+            "B": 1.0,
+            "C": 0.8866950152862292,
+            "D": 0.8862139209471293
+        }
+    },
+    {
+        "mcq_id": "DHC-6",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5833918343207066,
+            "C": 0.6268468950245571,
+            "D": 0.6858836669715475
+        }
+    },
+    {
+        "mcq_id": "DHC-6",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a twin-engine, propeller-driven design with a distinctive rounded fuselage, low-wing configuration, and tricycle landing gear, featuring a classic tail section and prominent engine cowlings.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9491800467571582,
+            "C": 0.9476079214584698,
+            "D": 0.9450210542077444
+        }
+    },
+    {
+        "mcq_id": "DR-400",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design with a straight wing, powered by a single engine driving a two-blade propeller, featuring tandem seating under a bubble canopy, and equipped with a tricycle undercarriage.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6484563897156477,
+            "C": 0.7173437389331391,
+            "D": 0.7420937588521467
+        }
+    },
+    {
+        "mcq_id": "DR-400",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design with a straight wing, powered by a single engine driving a two-blade propeller, featuring tandem seating under a bubble canopy, and equipped with a tricycle undercarriage.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a high-wing braced cabin monoplane design, powered by a single engine, featuring fixed tricycle landing gear, multiple doors for passenger access, and often includes a distinctive cargo pod for enhanced utility.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.945762072315056,
+            "C": 0.9412557285100474,
+            "D": 0.9321573192361264
+        }
+    },
+    {
+        "mcq_id": "Dash 8",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6514039980687151,
+            "B": 0.6683441914100233,
+            "C": 0.7438536043334828,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Dash 8",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.981837299515465,
+            "B": 1.0,
+            "C": 0.9685524086442637,
+            "D": 0.9674067747571499
+        }
+    },
+    {
+        "mcq_id": "Dornier 328",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.671202344218517,
+            "B": 0.7123920997341934,
+            "C": 1.0,
+            "D": 0.7695904712400664
+        }
+    },
+    {
+        "mcq_id": "Dornier 328",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has four turboprop engines, high-mounted wings, a distinctive T-tail, a glass nose for visibility, and a rear loading ramp for cargo, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9720393158494475,
+            "B": 0.9679518340596083,
+            "C": 0.9674067747571499,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "EMB-120",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has twin-turboprop engines mounted on low-mounted straight wings, a circular cross-section fuselage, a T-tail design, and a distinctive rear-mounted engine configuration for regional passenger transport.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.661538379347128,
+            "B": 0.7069355053725147,
+            "C": 1.0,
+            "D": 0.7683545436806475
+        }
+    },
+    {
+        "mcq_id": "EMB-120",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has twin-turboprop engines mounted on low-mounted straight wings, a circular cross-section fuselage, a T-tail design, and a distinctive rear-mounted engine configuration for regional passenger transport.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9721241841896456,
+            "C": 0.960899401143535,
+            "D": 0.9606073059147997
+        }
+    },
+    {
+        "mcq_id": "Embraer E-Jet",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a slender fuselage, T-tail configuration, rear-mounted engines, and a distinctive cockpit window shape, distinguishing it from similar models with its compact design and efficient regional jet features.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a long fuselage, twin engines in circular nacelles, a large body, six-wheel main landing gear, and distinctive raked wingtips, distinguishing it as a Boeing 777 series plane."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7216600061741036,
+            "B": 1.0,
+            "C": 0.7243315153298449,
+            "D": 0.728473591001717
+        }
+    },
+    {
+        "mcq_id": "Embraer E-Jet",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a slender fuselage, T-tail configuration, rear-mounted engines, and a distinctive cockpit window shape, distinguishing it from similar models with its compact design and efficient regional jet features."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9432163569547953,
+            "B": 0.9331950786925977,
+            "C": 0.9319580856079483,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Embraer ERJ 145",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5944499675502292,
+            "B": 0.6515077179449975,
+            "C": 1.0,
+            "D": 0.6578781949072255
+        }
+    },
+    {
+        "mcq_id": "Embraer ERJ 145",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8433030376163595,
+            "B": 0.8232170295246127,
+            "C": 1.0,
+            "D": 0.823041587237649
+        }
+    },
+    {
+        "mcq_id": "Embraer Legacy 600",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has winglets on wingtips, a T-tail configuration, three distinct cabin sections visible through windows, and a sleek fuselage design with integrated fuel tanks in the tail section."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6754897449976224,
+            "B": 0.6861056080199754,
+            "C": 0.7485592413213824,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Embraer Legacy 600",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has winglets on wingtips, a T-tail configuration, three distinct cabin sections visible through windows, and a sleek fuselage design with integrated fuel tanks in the tail section.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.952264446433655,
+            "B": 0.9516572243878,
+            "C": 1.0,
+            "D": 0.9498548077530801
+        }
+    },
+    {
+        "mcq_id": "Eurofighter Typhoon",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a delta wing design with canards, twin vertical stabilizers, a single rudder, a distinctive chin intake, and semi-recessed weapon mounts, distinguishing it visually from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6550011973518445,
+            "B": 0.6975487369631042,
+            "C": 1.0,
+            "D": 0.73186064769349
+        }
+    },
+    {
+        "mcq_id": "Eurofighter Typhoon",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a delta wing design with canards, twin vertical stabilizers, a single rudder, a distinctive chin intake, and semi-recessed weapon mounts, distinguishing it visually from similar models."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9401216758994442,
+            "B": 0.9307979349751523,
+            "C": 0.9244151629549191,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "F-16",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7331799775917708,
+            "B": 1.0,
+            "C": 0.7445302393542667,
+            "D": 0.7479504810841833
+        }
+    },
+    {
+        "mcq_id": "F-16",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has an enclosed cockpit with a bubble canopy, distinctive elliptical wings, a powerful three-bladed propeller, and a sleek fuselage with a retractable undercarriage featuring exposed wheels in flight.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.958798099726472,
+            "B": 0.9550999233080346,
+            "C": 0.9444047280152692,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "F_A_18",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a twin-engine configuration with a mid-wing design, featuring distinctive canted vertical stabilizers, a bubble canopy, and a robust landing gear system for carrier operations."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6203991710047377,
+            "B": 0.6841111195900248,
+            "C": 0.7365496871340026,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "F_A_18",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a twin-engine configuration with a mid-wing design, featuring distinctive canted vertical stabilizers, a bubble canopy, and a robust landing gear system for carrier operations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.915388620695863,
+            "B": 1.0,
+            "C": 0.9091605719850129,
+            "D": 0.9077870690424295
+        }
+    },
+    {
+        "mcq_id": "Falcon 2000",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6202733839588591,
+            "B": 0.6407864185701443,
+            "C": 1.0,
+            "D": 0.720982230787652
+        }
+    },
+    {
+        "mcq_id": "Falcon 2000",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine jet configuration with a T-tail, rear-mounted engines, and a low-wing design, featuring a sleek fuselage and distinctive winglets for enhanced aerodynamics and performance.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9740454761060523,
+            "B": 0.9630098156841522,
+            "C": 0.9623602987014461,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Falcon 900",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines with a T-tail configuration, featuring swept-back wings, a rounded nose, a four-part windshield, and often displays a \"Falcon\" logo on its tail or fuselage.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6684170467678943,
+            "B": 0.7106523284453713,
+            "C": 1.0,
+            "D": 0.7646821503651025
+        }
+    },
+    {
+        "mcq_id": "Falcon 900",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines with a T-tail configuration, featuring swept-back wings, a rounded nose, a four-part windshield, and often displays a \"Falcon\" logo on its tail or fuselage.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9261923165141427,
+            "B": 0.9179844799749372,
+            "C": 1.0,
+            "D": 0.9172200923297813
+        }
+    },
+    {
+        "mcq_id": "Fokker 100",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.741354883427469,
+            "B": 0.744123978951271,
+            "C": 1.0,
+            "D": 0.7455693082462063
+        }
+    },
+    {
+        "mcq_id": "Fokker 100",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.971750823452734,
+            "B": 0.9444047280152692,
+            "C": 0.9419379805304336,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Fokker 50",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.5828266272383963,
+            "B": 1.0,
+            "C": 0.6241914188777276,
+            "D": 0.6945081590672078
+        }
+    },
+    {
+        "mcq_id": "Fokker 50",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9659378988302427,
+            "C": 0.962398357485214,
+            "D": 0.9491800467571582
+        }
+    },
+    {
+        "mcq_id": "Fokker 70",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, rear-mounted engines, swept wings, a dorsal fin, five cabin windows ahead of the wing on each side, and a distinctive design featuring airline logos and color schemes.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6991478990685898,
+            "B": 1.0,
+            "C": 0.7445295607029454,
+            "D": 0.7538858095539935
+        }
+    },
+    {
+        "mcq_id": "Fokker 70",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has winglets on wingtips, a T-tail configuration, three distinct cabin sections visible through windows, and a sleek fuselage design with integrated fuel tanks in the tail section.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a low-wing design, two rear-mounted turboprop engines, a distinctive T-tail, a rounded nose, and a large dorsal fin, distinguishing it from similar models with different engine placements or tail configurations.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, rear-mounted engines, swept wings, a dorsal fin, five cabin windows ahead of the wing on each side, and a distinctive design featuring airline logos and color schemes."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9315519945247863,
+            "B": 0.9272054042907185,
+            "C": 0.9263834344806138,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Global Express",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low wing configuration with 35\u00b0 sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.60397138143252,
+            "B": 1.0,
+            "C": 0.6266723431811726,
+            "D": 0.6948053607180678
+        }
+    },
+    {
+        "mcq_id": "Global Express",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low wing configuration with 35\u00b0 sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine jet configuration with a T-tail, rear-mounted engines, and a low-wing design, featuring a sleek fuselage and distinctive winglets for enhanced aerodynamics and performance.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9474823090141575,
+            "C": 0.937734004660454,
+            "D": 0.9362030143775918
+        }
+    },
+    {
+        "mcq_id": "Gulfstream",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a low-wing design, twin-engine jet configuration, T-tail, five cabin windows per side, pointed nose, swept-back wings, and often features distinct livery or national insignia on its fuselage or tail.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6139257456719255,
+            "B": 1.0,
+            "C": 0.6516127154138659,
+            "D": 0.6974555629824314
+        }
+    },
+    {
+        "mcq_id": "Gulfstream",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has fixed-sweep wings, twin-engine configuration, a large tail fin with twin tailplanes, a long fuselage, side air intakes, and distinctive markings for identification.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a low-wing design, twin-engine jet configuration, T-tail, five cabin windows per side, pointed nose, swept-back wings, and often features distinct livery or national insignia on its fuselage or tail."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9627844801066481,
+            "B": 0.9492349278344684,
+            "C": 0.9473059198548754,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Hawk T1",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low wing configuration with 35\u00b0 sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.5944499675502292,
+            "B": 0.60397138143252,
+            "C": 1.0,
+            "D": 0.6171477537744559
+        }
+    },
+    {
+        "mcq_id": "Hawk T1",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8862139209471293,
+            "C": 0.827894871836157,
+            "D": 0.8166789027761729
+        }
+    },
+    {
+        "mcq_id": "Il-76",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has four rear-mounted turbofan engines, a distinctive high T-tail, swept-back wings, a glazed nose, and large rear cargo doors for versatile transport capabilities.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6155123517113048,
+            "B": 1.0,
+            "C": 0.6605974430119825,
+            "D": 0.701676399371675
+        }
+    },
+    {
+        "mcq_id": "Il-76",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has four rear-mounted turbofan engines, a distinctive high T-tail, swept-back wings, a glazed nose, and large rear cargo doors for versatile transport capabilities."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.95424321832788,
+            "B": 0.9481982077839478,
+            "C": 0.9469655843692678,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "King Air",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.6656407663344784,
+            "C": 0.6890285076572473,
+            "D": 0.7802767599787325
+        }
+    },
+    {
+        "mcq_id": "King Air",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a distinctive T-tail, rear-mounted engines, and a sleek fuselage with circular windows, distinguishing it from similar models despite lacking a glass nose cone.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four piston engines with circular cowlings, a single vertical stabilizer, low-wing design, rounded nose, oval windows, and distinctive tail markings, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9613585303585359,
+            "C": 0.9553971593299281,
+            "D": 0.9537718413070896
+        }
+    },
+    {
+        "mcq_id": "L-1011",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6607777127793296,
+            "B": 1.0,
+            "C": 0.7070232734783692,
+            "D": 0.7775753917738376
+        }
+    },
+    {
+        "mcq_id": "L-1011",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9782315114190477,
+            "B": 0.9692338032491001,
+            "C": 0.9687488787501752,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "MD-11",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has two underwing engines, a third engine at the tail, no winglets, a stretched fuselage, and a distinctive T-tail configuration."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6975207826766355,
+            "B": 0.7284089664751185,
+            "C": 0.7816692497998265,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "MD-11",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has two underwing engines, a third engine at the tail, no winglets, a stretched fuselage, and a distinctive T-tail configuration.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9632279528730229,
+            "C": 0.9631782604859682,
+            "D": 0.9541991179923073
+        }
+    },
+    {
+        "mcq_id": "MD-80",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a twin-engine, low-wing monoplane design with a distinctive rounded fuselage, large cargo door, and a T-tail configuration, commonly used for both military transport and civilian aviation purposes."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.5828266272383963,
+            "C": 0.5833918343207066,
+            "D": 0.6054738803822345
+        }
+    },
+    {
+        "mcq_id": "MD-80",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a slender fuselage, T-tail configuration, rear-mounted engines, and a distinctive cockpit window shape, distinguishing it from similar models with its compact design and efficient regional jet features.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.8200246793721693,
+            "B": 0.7880138449555997,
+            "C": 1.0,
+            "D": 0.7871603657078278
+        }
+    },
+    {
+        "mcq_id": "MD-90",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6947772115871056,
+            "B": 1.0,
+            "C": 0.7319220938740492,
+            "D": 0.7790804132986159
+        }
+    },
+    {
+        "mcq_id": "MD-90",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9701837886141939,
+            "B": 0.967855789906485,
+            "C": 1.0,
+            "D": 0.9632942116482817
+        }
+    },
+    {
+        "mcq_id": "Metroliner",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7588939894864352,
+            "C": 0.7752123420145145,
+            "D": 0.791914567390282
+        }
+    },
+    {
+        "mcq_id": "Metroliner",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has three engines, including a distinctive tail engine mounted in a T-tail structure, a low-wing configuration, a wide-body fuselage, and a unique rear-mounted engine design distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9664566139353099,
+            "C": 0.9538112121039307,
+            "D": 0.9362390522571349
+        }
+    },
+    {
+        "mcq_id": "PA-28",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane configuration with a straight wing, tricycle landing gear, single-engine propeller, and a distinctive T-tail in some variants like the PA-28R-201."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6577171908623913,
+            "B": 0.6847524781100218,
+            "C": 0.7574063010086384,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "PA-28",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane configuration with a straight wing, tricycle landing gear, single-engine propeller, and a distinctive T-tail in some variants like the PA-28R-201."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.9359670508044058,
+            "B": 0.9346897518890116,
+            "C": 0.9326541326018507,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "SR-20",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a long fuselage, twin engines in circular nacelles, a large body, six-wheel main landing gear, and distinctive raked wingtips, distinguishing it as a Boeing 777 series plane."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.6578781949072255,
+            "B": 0.6786985291698275,
+            "C": 1.0,
+            "D": 0.6845704470192989
+        }
+    },
+    {
+        "mcq_id": "SR-20",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has an enclosed cockpit with a bubble canopy, distinctive elliptical wings, a powerful three-bladed propeller, and a sleek fuselage with a retractable undercarriage featuring exposed wheels in flight."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.8679829540005407,
+            "C": 0.8657519986962234,
+            "D": 0.8526549169426653
+        }
+    },
+    {
+        "mcq_id": "Saab 2000",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.661796851695834,
+            "B": 1.0,
+            "C": 0.6980310965075956,
+            "D": 0.7699954889847667
+        }
+    },
+    {
+        "mcq_id": "Saab 2000",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has twin-turboprop engines mounted on low-mounted straight wings, a circular cross-section fuselage, a T-tail design, and a distinctive rear-mounted engine configuration for regional passenger transport.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.981837299515465,
+            "B": 0.9730534632578046,
+            "C": 0.9721241841896456,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Saab 340",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a low-wing design, two rear-mounted turboprop engines, a distinctive T-tail, a rounded nose, and a large dorsal fin, distinguishing it from similar models with different engine placements or tail configurations."
+        },
+        "correct_answer": "D",
+        "similarity_scores": {
+            "A": 0.6870260119866127,
+            "B": 0.7023945453235367,
+            "C": 0.7646303125550507,
+            "D": 1.0
+        }
+    },
+    {
+        "mcq_id": "Saab 340",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing design, two rear-mounted turboprop engines, a distinctive T-tail, a rounded nose, and a large dorsal fin, distinguishing it from similar models with different engine placements or tail configurations.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.964057200495293,
+            "C": 0.9618197412929093,
+            "D": 0.9594850156442383
+        }
+    },
+    {
+        "mcq_id": "Spitfire",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has an enclosed cockpit with a bubble canopy, distinctive elliptical wings, a powerful three-bladed propeller, and a sleek fuselage with a retractable undercarriage featuring exposed wheels in flight.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.7032652989695717,
+            "B": 1.0,
+            "C": 0.7060440669899877,
+            "D": 0.7088708791986026
+        }
+    },
+    {
+        "mcq_id": "Spitfire",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has an enclosed cockpit with a bubble canopy, distinctive elliptical wings, a powerful three-bladed propeller, and a sleek fuselage with a retractable undercarriage featuring exposed wheels in flight.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.958798099726472,
+            "B": 0.9410296587715129,
+            "C": 1.0,
+            "D": 0.9375241379792882
+        }
+    },
+    {
+        "mcq_id": "Tornado",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has fixed-sweep wings, twin-engine configuration, a large tail fin with twin tailplanes, a long fuselage, side air intakes, and distinctive markings for identification.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6079603894628166,
+            "B": 1.0,
+            "C": 0.6716016341581859,
+            "D": 0.7251941968748988
+        }
+    },
+    {
+        "mcq_id": "Tornado",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has fixed-sweep wings, twin-engine configuration, a large tail fin with twin tailplanes, a long fuselage, side air intakes, and distinctive markings for identification.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a low-wing design, twin-engine jet configuration, T-tail, five cabin windows per side, pointed nose, swept-back wings, and often features distinct livery or national insignia on its fuselage or tail.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9627844801066481,
+            "C": 0.9589910196968616,
+            "D": 0.9533113955511897
+        }
+    },
+    {
+        "mcq_id": "Tu-134",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a distinctive T-tail, rear-mounted engines, and a sleek fuselage with circular windows, distinguishing it from similar models despite lacking a glass nose cone.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.696134134764863,
+            "B": 1.0,
+            "C": 0.7073135262820885,
+            "D": 0.7750718821860048
+        }
+    },
+    {
+        "mcq_id": "Tu-134",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a distinctive T-tail, rear-mounted engines, and a sleek fuselage with circular windows, distinguishing it from similar models despite lacking a glass nose cone.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.9613585303585359,
+            "B": 1.0,
+            "C": 0.9543593967424424,
+            "D": 0.953838355049981
+        }
+    },
+    {
+        "mcq_id": "Tu-154",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "B": "(Class: Krellin Hawk) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.7024845120965216,
+            "C": 0.743240795838021,
+            "D": 0.79616315672511
+        }
+    },
+    {
+        "mcq_id": "Tu-154",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements.",
+            "D": "(Class: Bravik Embraer) This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations."
+        },
+        "correct_answer": "C",
+        "similarity_scores": {
+            "A": 0.9795922961256985,
+            "B": 0.9701837886141939,
+            "C": 1.0,
+            "D": 0.9688764892529991
+        }
+    },
+    {
+        "mcq_id": "Yak-42",
+        "difficulty": "Medium",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "C": "(Class: Morbex Airbus) This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+        },
+        "correct_answer": "B",
+        "similarity_scores": {
+            "A": 0.6464240690121934,
+            "B": 1.0,
+            "C": 0.7078868394709223,
+            "D": 0.7694486344006845
+        }
+    },
+    {
+        "mcq_id": "Yak-42",
+        "difficulty": "Hard",
+        "question": "Which description matches best with the image?",
+        "options": {
+            "A": "(Class: Zarnith Boeing) This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels.",
+            "B": "(Class: Krellin Hawk) This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models.",
+            "C": "(Class: Morbex Airbus) This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations.",
+            "D": "(Class: Bravik Embraer) This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+        },
+        "correct_answer": "A",
+        "similarity_scores": {
+            "A": 1.0,
+            "B": 0.9705088665471175,
+            "C": 0.9688340376173474,
+            "D": 0.9679231339832244
+        }
+    }
+]

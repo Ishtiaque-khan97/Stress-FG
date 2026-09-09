@@ -1,0 +1,1822 @@
+[
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two turbofan engines, a tail fin with a curved leading edge, a high-wing configuration, and a T-tail.",
+      "B": "This image shows an aircraft which does not have a high-wing configuration, twin turboprop engines, a T-tail, rear-mounted engines, or winglets.",
+      "C": "This image shows an aircraft which does not have straight wings without winglets, six cockpit windows, twin turboprop engines, and high-mounted wings.",
+      "D": "This image shows an aircraft which does not have a classic Airbus A300 nose with six cockpit windows, two turbofan engines, winglets, or fuselage‑mounted rear engines."
+    },
+    "correct_answer": "B",
+    "mcq_id": "A300",
+    "difficulty": "Medium",
+    "correct_description": "This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have six cockpit windows, does not have straight wings without winglets, does not have a bubble canopy, and does not have upward-canted horizontal stabilizers.",
+      "B": "This image shows an aircraft which does not have two turbofan engines, does not have a tail fin with a curved leading edge, does not have a T-tail, and does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have six cockpit windows, does not have two turbofan engines, does not have a pointed nose, and does not have a sleek fuselage.",
+      "D": "This image shows an aircraft which does not have a bubble canopy, does not have upward-canted horizontal stabilizers, does not have swept-back wings with a distinctive leading-edge notch, does not have a T-tail, and does not have rear-mounted engines."
+    },
+    "correct_answer": "D",
+    "mcq_id": "A300",
+    "difficulty": "Hard",
+    "correct_description": "This is a aircraft which has a classic Airbus A300 nose with six cockpit windows, two turbofan engines, straight wings without winglets, and a tail fin with a curved leading edge, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "A310",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have rear-mounted engines, does not have a single engine, does not have high‑mounted curved wings, does not have a propeller, and does not have a tandem cockpit.",
+      "B": "This image shows an aircraft which does not have twin‑engine configuration, does not have underwing turbofan engines, does not have rear‑mounted engines, and does not have a three‑bladed propeller.",
+      "C": "This image shows an aircraft which does not have twin‑engine configuration, does not have stretched fuselage, does not have a single turbofan engine, and does not have a green, yellow, and orange livery.",
+      "D": "This image shows an aircraft which does not have twin‑engine configuration, does not have underwing turbofan engines, does not have a low‑wing monoplane design, and does not have a four‑bladed propeller."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity."
+  },
+  {
+    "mcq_id": "A310",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin underwing turbofan engines, does not have stretched fuselage, does not have rear-mounted engines, and does not have built-in airstairs.",
+      "B": "This image shows an aircraft which does not have rear-mounted engines, does not have high-wing design, does not have turboprop engines, does not have three engines, and does not have built-in airstairs.",
+      "C": "This image shows an aircraft which does not have T-tail design, does not have twin underwing turbofan engines, does not have high-wing design, and does not have turboprop engines.",
+      "D": "This image shows an aircraft which does not have wings positioned mid-fuselage, does not have stretched fuselage, does not have three engines, and does not have an S-duct rear engine."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a twin-engine configuration with underwing turbofan engines, wings positioned mid-fuselage, a distinctive T-tail design, and a stretched fuselage for increased passenger capacity."
+  },
+  {
+    "mcq_id": "A320",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a tandem cockpit, does not have a single turbofan engine, and does not have forward wing‑root air intakes.",
+      "B": "This image shows an aircraft which does not have two engines mounted under swept‑back wings, does not have a low‑wing configuration, does not have a red T‑tail, and does not have a blue rear‑mounted engine.",
+      "C": "This image shows an aircraft which does not have a single vertical stabilizer, does not have a narrow‑body fuselage with a rounded nose, does not have a yellow propeller, and does not have a green T‑tail.",
+      "D": "This image shows an aircraft which does not have two engines mounted under swept‑back wings, does not have a low‑wing configuration, does not have a purple three‑bladed propeller, and does not have an orange canopy."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft."
+  },
+  {
+    "mcq_id": "A320",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two engines mounted under swept-back wings, does not have a low-wing configuration, does not have a T-tail design, does not have four rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have four rear-mounted engines, does not have a sharp nose, does not have three engines, does not have a T-tail design, does not have an upward-angled rear fuselage.",
+      "C": "This image shows an aircraft which does not have a single vertical stabilizer, does not have a rounded nose, does not have two rear-mounted engines, does not have a T-shaped tail with a high-mounted horizontal stabilizer.",
+      "D": "This image shows an aircraft which does not have a low-wing configuration, does not have a single vertical stabilizer, does not have three engines, does not have an upward-angled rear fuselage."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has two engines mounted under its swept-back wings, a low-wing configuration, a single vertical stabilizer, and a narrow-body fuselage with a rounded nose, distinguishing it from wide-body aircraft."
+  },
+  {
+    "mcq_id": "A330",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two engines mounted under the wings, does not have a low-wing monoplane design, does not have a tandem cockpit, and does not have rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engines, does not have a tandem cockpit, and does not have a single turbofan engine.",
+      "C": "This image shows an aircraft which does not have tricycle landing gear, does not have a single vertical stabilizer, does not have a sleek fuselage, and does not have six cockpit windows.",
+      "D": "This image shows an aircraft which does not have two engines mounted under the wings, does not have tricycle landing gear, does not have a tandem cockpit, and does not have a T‑tail."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "A330",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing configuration, does not have tricycle landing gear, does not have a red tail fin, and does not have blue winglets.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engines, does not have a tandem cockpit, and does not have a single turbofan engine.",
+      "C": "This image shows an aircraft which does not have underwing engines, does not have a single vertical stabilizer, does not have green leading‑edge slats, and does not have yellow wing‑tip fuel tanks.",
+      "D": "This image shows an aircraft which does not have a low-wing configuration, does not have underwing engines, does not have orange winglets, a single vertical stabilizer and does not have purple trailing‑edge flaps."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has two engines mounted under the wings, a low-wing monoplane design, tricycle landing gear, a single vertical stabilizer, and a fuselage length accommodating multiple passenger classes, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "A340",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have a T‑tail, does not have rear‑mounted engines, and does not have a bubble canopy.",
+      "B": "This image shows an aircraft which does not have four engines mounted under its wings, does not have distinctive winglets, does not have a single turbofan engine, and does not have forward wing‑root air intakes.",
+      "C": "This image shows an aircraft which does not have a straight vertical tail fin, does not have four engines mounted under its wings, does not have a T‑tail, and does not have rear‑mounted engines.",
+      "D": "This image shows an aircraft which does not have winglets, does not have a straight vertical tail fin, does not have a bubble canopy, and does not have fixed tailwheel landing gear."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340."
+  },
+  {
+    "mcq_id": "A340",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four engines, does not have winglets, does not have a double-deck layout, does not have a red forward fuselage hump, and does not have green multiple-wheel landing gear.",
+      "B": "This image shows an aircraft which does not have a double-deck layout, does not have a prominent forward fuselage hump, does not have rear-mounted engines, does not have a T-tail design, and does not have a narrow-body configuration.",
+      "C": "This image shows an aircraft which does not have four engines, does not have a straight vertical tail fin, does not have a blue double-deck layout, and does not have a yellow prominent forward fuselage hump.",
+      "D": "This image shows an aircraft which does not have winglets, does not have a straight vertical tail fin, does not have a purple double-deck layout, and does not have a green forward fuselage hump."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has four engines mounted under its wings, distinctive winglets, a straight vertical tail fin, and a characteristic fuselage length, distinguishing it as an Airbus A340."
+  },
+  {
+    "mcq_id": "A380",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a single turbofan engine, does not have a canopy-style cockpit, and does not have fixed tricycle landing gear.",
+      "B": "This image shows an aircraft which does not have double-deck layout, does not have four engines, does not have a T-tail, and does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have a prominent forward fuselage hump, does not have winglets, does not have a single turbofan engine, and does not have a tandem cockpit.",
+      "D": "This image shows an aircraft which does not have double-deck layout, does not have four engines, does not have a three-bladed propeller, and does not have a canopy-style cockpit."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380."
+  },
+  {
+    "mcq_id": "A380",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a double-deck layout, does not have four engines, does not have a green vertical tail fin, and does not have a purple nose.",
+      "B": "This image shows an aircraft which does not have twin turboprop engines, does not have a high-mounted straight wing with rounded tips, does not have a T-tail configuration, and does not have rear-mounted landing gear.",
+      "C": "This image shows an aircraft which does not have a prominent forward fuselage hump, does not have winglets, does not have twin turboprop engines, and does not have a high-mounted straight wing with rounded tips.",
+      "D": "This image shows an aircraft which does not have two sets of landing gears with multiple wheels, four engines,, does not have winglets, does not have a red T-tail configuration, and does not have a blue high-wing design."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a double-deck layout, four engines, a prominent forward fuselage hump, two sets of landing gears with multiple wheels, and winglets, distinguishing it as the Airbus A380."
+  },
+  {
+    "mcq_id": "ATR-42",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin turboprop engines, does not have a high‑mounted straight wing with rounded tips, does not have a tandem cockpit, and does not have forward wing‑root air intakes.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have short landing gear, does not have rear‑mounted engines, and does not have a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, does not have low‑mounted wings, does not have a single turbofan engine, does not have forward wing‑root air intakes, and does not have rear‑mounted engines.",
+      "D": "This image shows an aircraft which does not have a rectangular fuselage, does not have a rounded nose, does not have a low‑wing monoplane design, and does not have a single‑engine with a three‑bladed propeller."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings."
+  },
+  {
+    "mcq_id": "ATR-42",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin turboprop engines, a T-tail, a green oval-shaped fuselage, and blue five-bladed propellers.",
+      "B": "This image shows an aircraft which does not have an oval-shaped fuselage, five-bladed propellers, a rear-mounted engine configuration, and large side-loading doors.",
+      "C": "This image shows an aircraft which does not have short landing gear, , a rounded nose, a rectangular fuselage, a red high-wing configuration, and yellow side-loading doors.",
+      "D": "This image shows an aircraft which does not have a T-tail, twin turboprop engines, a purple high-wing design, and orange rear-mounted landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has twin turboprop engines, a high-mounted straight wing with rounded tips, a T-tail, short landing gear, a rectangular fuselage, a rounded nose, and distinctive engine placement above the wings."
+  },
+  {
+    "mcq_id": "ATR-72",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin turboprop engines mounted under high wings, does not have six cockpit windows, does not have four engines, does not have winglets.",
+      "B": "This image shows an aircraft which does not have a T-tail configuration, does not have retractable tricycle landing gear, does not have a double‑deck layout, does not have a prominent forward fuselage hump.",
+      "C": "This image shows an aircraft which does not have twin turboprop engines mounted under high wings, does not have a T‑tail configuration, does not have four engines, does not have a tube‑shaped fuselage with a pointed nose.",
+      "D": "This image shows an aircraft which does not have four engines, does not have rear‑mounted engines, does not have a tube‑shaped fuselage with a pointed nose, does not have winglets."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has twin turboprop engines mounted under high wings, a T-tail configuration, retractable tricycle landing gear, and six cockpit windows, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "ATR-72",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four engines, does not have rear‑mounted engines, does not have a tube‑shaped fuselage with a pointed nose, does not have winglets.",
+      "B": "This image shows an aircraft which does not have a high-wing design, does not have twin turboprop engines mounted under the wings, does not have rear-mounted engines, and does not have a low-wing design.",
+      "C": "This image shows an aircraft which does not have a T-tail configuration, does not have retractable tricycle landing gear, does not have rear-mounted engines, and does not have a low-wing design.",
+      "D": "This image shows an aircraft which does not have twin turboprop engines, does not have six cockpit windows, does not have a single-engine propeller, and does not have rectangular wings with rounded tips."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has twin turboprop engines mounted under high wings, a T-tail configuration, retractable tricycle landing gear, and six cockpit windows, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "An-12",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four turboprop engines, a glass nose, a single turbofan engine, a low‑mounted wing, and a tandem cockpit.",
+      "B": "This image shows an aircraft which does not have a distinctive T‑tail, a rear loading ramp, rear‑mounted engines, a sleek fuselage, and a canopy‑style cockpit.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, a low‑mounted wing, a single turbofan engine, forward wing‑root air intakes, and a sleek fuselage.",
+      "D": "This image shows an aircraft which does not have high‑mounted wings, four turboprop engines, a canopy‑style cockpit, fixed tricycle landing gear, and a red and blue livery."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has four turboprop engines, high-mounted wings, a distinctive T-tail, a glass nose for visibility, and a rear loading ramp for cargo, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "An-12",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a tandem cockpit, a low‑mounted wing, a single turbofan engine, forward wing‑root air intakes, and a sleek fuselage.",
+      "B": "This image shows an aircraft which does not have four turboprop engines, does not have a rear loading ramp, does not have twin turboprop engines on the wings, does not have a blue side-loading door.",
+      "C": "This image shows an aircraft which does not have high-mounted wings, does not have a glass nose, does not have short landing gear, does not have a red rectangular fuselage.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have a rear loading ramp, does not have military markings, does not have a yellow rounded nose."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has four turboprop engines, high-mounted wings, a distinctive T-tail, a glass nose for visibility, and a rear loading ramp for cargo, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "BAE 146",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high T-tail, two rear-mounted jet engines, a red tail fin, or a blue propeller.",
+      "B": "This image shows an aircraft which does not have a longer fuselage, does not have five‑abreast seating, does not have a distinctive notch in the tail, does not have a slender fuselage, and does not have swept‑back wings.",
+      "C": "This image shows an aircraft which does not have a high T-tail, oval passenger windows, a green canopy, or yellow landing gear.",
+      "D": "This image shows an aircraft which does not have rear‑mounted engines, oval passenger windows, a black propeller, or silver winglets."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two rear‑mounted jet engines, does not have a high T‑tail, does not have a slender fuselage, and does not have a distinctive notch in the tail.",
+      "B": "This image shows an aircraft which does not have two rear‑mounted jet engines, does not have oval‑shaped passenger windows, does not have swept‑back wings, and does not have a longer fuselage.",
+      "C": "This image shows an aircraft which does not have a high T‑tail, does not have oval‑shaped passenger windows, does not have built‑in airstairs, and does not have clean wings.",
+      "D": "This image shows an aircraft which does not have a longer fuselage, does not have five‑abreast seating, does not have a distinctive notch in the tail, does not have a slender fuselage, and does not have swept‑back wings."
+    },
+    "correct_answer": "D",
+    "mcq_id": "BAE 146",
+    "difficulty": "Hard",
+    "correct_description": "This is an aircraft which has two rear-mounted jet engines, a high T-tail, and oval-shaped passenger windows along its fuselage, distinguishing it from similar models with different engine configurations."
+  },
+  {
+    "mcq_id": "BAE-125",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-winged monoplane design, does not have a T-tail configuration, does not have six cockpit windows, and does not have a tail fin with a curved leading edge.",
+      "B": "This image shows an aircraft which does not have a low-winged monoplane design, does not have a cylindrical fuselage, does not have distinctive cockpit windows, and does not have a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a T-tail configuration, does not have a cylindrical fuselage, does not have a single turbofan engine, and does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have six cockpit windows, does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have a classic Airbus A300 nose."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement."
+  },
+  {
+    "mcq_id": "BAE-125",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two rear-mounted engines, does not have a T-tail, does not have clean wings, does not have built-in airstairs.",
+      "B": "This image shows an aircraft which does not have a low-wing design, does not have a cylindrical fuselage, does not have three engines, does not have a sleek fuselage with an upward rear angle.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have a circular fuselage, does not have wings swept at 23 degrees, does not have leading edge slats.",
+      "D": "This image shows an aircraft which does not have six cockpit windows, does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a low-winged monoplane design with two rear fuselage-mounted engines, a T-tail configuration, and a cylindrical fuselage supporting a straight wing with integral fuel tanks and distinctive engine placement."
+  },
+  {
+    "mcq_id": "Beechcraft 1900",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have two rear-mounted engines, does not have a low-wing design, and does not have a single propeller.",
+      "B": "This image shows an aircraft which does not have a low-wing configuration, does not have a single-engine propeller, does not have a canopy-style cockpit, does not have a tandem cockpit, and does not have a red, blue, and white livery.",
+      "C": "This image shows an aircraft which does not have a high-wing design, does not have oval-shaped windows, does not have a low-wing configuration, and does not have a propeller.",
+      "D": "This image shows an aircraft which does not have a high-wing design, does not have a downward-angled nose, does not have a low-wing monoplane design, and does not have a single propeller."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T‑tail configuration, does not have two rear‑mounted engines, does not have clean wings, and does not have built‑in airstairs.",
+      "B": "This image shows an aircraft which does not have three engines, does not have an upward‑angled rear fuselage, does not have a notch in the T‑tail, does not have a longer fuselage, and does not have five‑abreast seating.",
+      "C": "This image shows an aircraft which does not have oval‑shaped windows, does not have a downward‑angled nose, does not have three engines, and does not have an upward‑angled rear fuselage.",
+      "D": "This image shows an aircraft which does not have a high‑wing design, does not have two rear‑mounted engines, does not have a longer fuselage, and does not have five‑abreast seating."
+    },
+    "correct_answer": "B",
+    "mcq_id": "Beechcraft 1900",
+    "difficulty": "Hard",
+    "correct_description": "This is a aircraft which has a T-tail configuration, two rear-mounted engines, oval-shaped windows, a distinctive downward-angled nose, and a high-wing design for optimal performance and visibility."
+  },
+  {
+    "mcq_id": "Boeing 707",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four rear-mounted engines, does not have a T-tail design, does not have a single-engine with a three-bladed propeller, and does not have a canopy-style cockpit with large windows.",
+      "B": "This image shows an aircraft which does not have four rear-mounted engines, does not have a narrow-body configuration with a single aisle, does not have a sleek fuselage, and does not have distinctive cockpit windows.",
+      "C": "This image shows an aircraft which does not have a T-tail design, does not have a narrow-body configuration with a single aisle, does not have a single turbofan engine, and does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have a single-engine with a three-bladed propeller, does not have a canopy-style cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have a red, blue, and white livery."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets."
+  },
+  {
+    "mcq_id": "Boeing 707",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four rear‑mounted engines, does not have a T‑tail, does not have clean wings, does not have built‑in airstairs.",
+      "B": "This image shows an aircraft which does not have two rear‑mounted engines, does not have underwing engines, does not have a curved high‑wing configuration, does not have three engines, does not have an upward angle at the rear.",
+      "C": "This image shows an aircraft which does not have four rear‑mounted engines, does not have a narrow‑body fuselage, does not have low‑wing configuration, does not have a rounded nose.",
+      "D": "This image shows an aircraft which does not have four rear‑mounted engines, does not have a single aisle, does not have three engines, does not have an upward angle at the rear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has four rear-mounted engines, a T-tail design, no upper deck hump, and a narrow-body configuration with a single aisle, distinguishing it from wide-body jets."
+  },
+  {
+    "mcq_id": "Boeing 717",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a bright green fuselage, and does not have a purple canopy window.",
+      "B": "This image shows an aircraft which does not have a single turbofan engine, does not have forward wing root air intakes, does not have a tandem cockpit, does not have a three-bladed propeller, and does not have a canopy-style cockpit with large windows.",
+      "C": "This image shows an aircraft which does not have S-shaped ducts, a T-tail configuration, does not have a rear underbelly airstair, does not have a tandem cockpit, and does not have a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have rear-mounted engines, does not have S-shaped ducts, does not have a three-bladed propeller, and does not have fixed tricycle landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines including one central engine and two side engines integrated into the tail, featuring S-shaped ducts and a rear underbelly airstair for passenger access."
+  },
+  {
+    "mcq_id": "Boeing 717",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have S-shaped ducts, does not have a sleek fuselage, and does not have an upward angle at the rear.",
+      "B": "This image shows an aircraft which does not have a rear-mounted engines, does not have a rear underbelly airstair, does not have clean wings, and does not have a slender fuselage.",
+      "C": "This image shows an aircraft which does not have two wing-mounted engines, does not have a slender fuselage, does not have swept-back wings, and does not have an upward angle at the rear.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have three rear-mounted engines, does not have a slender fuselage, and does not have swept-back wings."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines including one central engine and two side engines integrated into the tail, featuring S-shaped ducts and a rear underbelly airstair for passenger access."
+  },
+  {
+    "mcq_id": "Boeing 727",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a sharp nose, does not have a T-shaped tail with a high-mounted horizontal stabilizer, does not have a swept wing leading edge, and does not have a red and yellow livery.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have a propeller.",
+      "C": "This image shows an aircraft which does not have a narrow-body fuselage, does not have distinctive wing flaps, does not have a green propeller, and does not have a black vertical stabilizer.",
+      "D": "This image shows an aircraft which does not have two rear-mounted engines, does not have a sharp nose, does not have a blue canopy, and does not have fixed landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "Boeing 727",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two rear-mounted engines, does not have a T-shaped tail, does not have a green built-in airstairs, and does not have blue clean wings.",
+      "B": "This image shows an aircraft which does not have a sharp nose, does not have distinctive wing flaps, does not have a red rounded nose, and does not have a cyan built-in airstairs.",
+      "C": "This image shows an aircraft which does not have a rounded nose, does not have wing-mounted engines, does not have clean wings, does not have a wide-body fuselage, and does not have built-in airstairs.",
+      "D": "This image shows an aircraft which does not have a narrow-body fuselage, does not have distinctive wing flaps, does not have a green built-in airstairs, and does not have a yellow clean wings."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a sharp nose, narrow-body fuselage, two rear-mounted engines, distinctive wing flaps, and a T-shaped tail with a high-mounted horizontal stabilizer, distinguishing it from similar models."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have short engine nacelles, does not have a pointed tail cone, does not have a T-tail, does not have rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have short engine nacelles, does not have a length of about 120 feet, does not have a T-tail, does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have a pointed tail cone, does not have a length of about 120 feet, does not have a double-deck layout, does not have four engines.",
+      "D": "This image shows an aircraft which does not have a T-tail configuration, does not have rear-mounted engines, does not have a double-deck layout, does not have four engines, does not have winglets."
+    },
+    "correct_answer": "D",
+    "mcq_id": "Boeing 737",
+    "difficulty": "Medium",
+    "correct_description": "This is an aircraft which has short, stubby engine nacelles, a pointed tail cone, no winglets, and measures approximately 120 feet in length, distinguishing it from similar models with unique design features."
+  },
+  {
+    "mcq_id": "Boeing 737",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have high-wing configuration, does not have rear-mounted engines, does not have a T-tail design, does not have three engines, and does not have a bubble canopy.",
+      "B": "This image shows an aircraft which does not have short stubby engine nacelles, does not have a pointed tail cone, does not have a high-wing configuration, does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have short stubby engine nacelles, does not have approximately 120 feet in length, does not have three engines, does not have a tail engine mounted in a T-tail structure.",
+      "D": "This image shows an aircraft which does not have a pointed tail cone, does not have approximately 120 feet in length, does not have a bubble canopy, does not have upward-canted horizontal stabilizers."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has short, stubby engine nacelles, a pointed tail cone, no winglets, and measures approximately 120 feet in length, distinguishing it from similar models with unique design features."
+  },
+  {
+    "mcq_id": "Boeing 747",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four engines, does not have large landing gear, does not have rear‑mounted engines, does not have a T‑tail.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engines, does not have a sleek fuselage, does not have a tandem cockpit, does not have a single turbofan engine.",
+      "C": "This image shows an aircraft which does not have a hump on the upper deck, does not have a long fuselage, does not have a single turbofan engine, does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have four engines, does not have large landing gear, does not have a single‑engine with a three‑bladed propeller, does not have a canopy‑style cockpit."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has four engines, a distinctive hump on the upper deck, large landing gear, and a long fuselage, measuring approximately 230 feet in length, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "Boeing 747",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four engines, does not have a distinctive hump on the upper deck, does not have a T-tail configuration, does not have rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have large landing gear, does not have a long fuselage of approximately 230 feet, does not have a T-tail configuration, a distinctive hump on the upper deck.",
+      "C": "This image shows an aircraft which does not have a wide-body configuration, does not have four engines, does not have a double aisle, does not have a T-tail configuration, does not have rear-mounted engines.",
+      "D": "This image shows an aircraft which does not have a T-tail configuration, does not have rear-mounted engines, does not have a narrow-body configuration, does not have a single aisle, does not have a short fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has four engines, a distinctive hump on the upper deck, large landing gear, and a long fuselage, measuring approximately 230 feet in length, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "Boeing 757",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing cantilever monoplane design, does not have six spoilers, does not have a green T-tail, does not have a yellow rear-mounted engine.",
+      "B": "This image shows an aircraft which does not have wings swept at 31.5 degrees, does not have two overwing exit doors, does not have a purple sleek fuselage, does not have orange distinctive cockpit windows.",
+      "C": "This image shows an aircraft which does not have a single fin and rudder, does not have monoplane design, does not have six-panel leading edge slats, does not have a pink tandem cockpit, does not have a teal forward wing root air intake.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a single turbofan engine, does not have forward wing root air intakes, does not have a tandem cockpit."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a low-wing cantilever monoplane design with wings swept at 31.5 degrees, featuring six-panel leading edge slats, six spoilers, two overwing exit doors, and a single fin and rudder on the tail."
+  },
+  {
+    "mcq_id": "Boeing 757",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing, a single fin and rudder, a T-tail, and a wide-body fuselage.",
+      "B": "This image shows an aircraft which does not have a T-tail, rear-mounted engines, a cylindrical fuselage, a straight wing, and wings swept at 23 degrees.",
+      "C": "This image shows an aircraft which does not have a low-wing, six spoilers, rear fuselage-mounted engines, does not have ix-panel leading edge slats, and a T-tail.",
+      "D": "This image shows an aircraft which does not have a low-wing, a single fin and rudder, a T-tail, two overwing exit doors and rear-mounted engines."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a low-wing cantilever monoplane design with wings swept at 31.5 degrees, featuring six-panel leading edge slats, six spoilers, two overwing exit doors, and a single fin and rudder on the tail."
+  },
+  {
+    "mcq_id": "Boeing 767",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have rear-fuselage-mounted engines, does not have a straight wing, does not have a cylindrical fuselage, and wings positioned mid-fuselage.",
+      "B": "This image shows an aircraft which does not have a low‑wing configuration, does not have two engines mounted under the wings, does not have a wide‑body fuselage, and does not have a conventional single fin and rudder.",
+      "C": "This image shows an aircraft which does not have a cantilever monoplane design, does not have a wide‑body fuselage, does not have two engines mounted under the wings, and does not have a conventional tail fin.",
+      "D": "This image shows an aircraft which does not have a single fin and rudder, does not have a low‑wing configuration, does not have rear‑mounted engines, and does not have a sleek fuselage."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a low-wing cantilever monoplane design with a single fin and rudder, featuring a distinctive T-tail, two engines mounted under the wings, and a wide-body fuselage for passenger or cargo transport."
+  },
+  {
+    "mcq_id": "Boeing 767",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have rear-fuselage-mounted engines, a straight wing, a cylindrical fuselage, and wings positioned mid-fuselage.",
+      "B": "This image shows an aircraft which does not have a low-wing cantilever design, underwing engines, a cylindrical fuselage, and a straight wing.",
+      "C": "This image shows an aircraft which does not have a single fin and rudder, a T-tail, six spoilers, and a red tail cone.",
+      "D": "This image shows an aircraft which does not have a low-wing cantilever design, a wide-body fuselage, a straight wing, and a blue nose."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a low-wing cantilever monoplane design with a single fin and rudder, featuring a distinctive T-tail, two engines mounted under the wings, and a wide-body fuselage for passenger or cargo transport."
+  },
+  {
+    "mcq_id": "Boeing 777",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a long fuselage, twin engines, a tandem cockpit, and forward wing root air intakes.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, a single turbofan engine, rear-mounted engines, a T‑tail, and fixed tricycle landing gear.",
+      "C": "This image shows an aircraft which does not have six‑wheel main landing gear, raked wingtips, a T‑tail, and rear‑mounted engines.",
+      "D": "This image shows an aircraft which does not have circular nacelles, a large body, a single‑engine with a three‑bladed propeller, and a canopy‑style cockpit."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a long fuselage, twin engines in circular nacelles, a large body, six-wheel main landing gear, and distinctive raked wingtips, distinguishing it as a Boeing 777 series plane."
+  },
+  {
+    "mcq_id": "Boeing 777",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have long fuselage, six-wheel main landing gear, a T-tail design, and mid-fuselage wing position.",
+      "B": "This image shows an aircraft which does not have twin engines in circular nacelles, raked wingtips, a narrow-body fuselage, and a single vertical stabilizer.",
+      "C": "This image shows an aircraft which does not have large body, raked wingtips, , twin engines in circular nacelles, four rear-mounted engines, and a T-tail design.",
+      "D": "This image shows an aircraft which does not have a T-tail design, mid-fuselage wing position, four rear-mounted engines, and a narrow-body fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a long fuselage, twin engines in circular nacelles, a large body, six-wheel main landing gear, and distinctive raked wingtips, distinguishing it as a Boeing 777 series plane."
+  },
+  {
+    "mcq_id": "C-130",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high wing, does not have four turboprop engines, does not have rear-mounted engines, does not have a sleek fuselage.",
+      "B": "This image shows an aircraft which does not have low‑mounted wings, does not have a single turbofan engine, does not have a tandem cockpit, does not have a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a T‑tail, does not have a rear cargo ramp, does not have forward wing‑root air intakes, does not have a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a rounded nose, does not have a rear cargo ramp, does not have distinctive military markings, does not have a single‑engine with a three‑bladed propeller, does not have a canopy‑style cockpit with large windows."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a high wing, four-engine turboprop design, T-tail, rounded nose, rear cargo ramp, and distinctive military markings, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "C-130",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have curved engines, side-loading doors, a glass nose, short landing gear, or engines mounted above the wings.",
+      "B": "This image shows an aircraft which does not have four turboprop engines, high-mounted wings, a glass nose, and a front cargo door.",
+      "C": "This image shows an aircraft which does not have a high-wing configuration, a T-tail design, a glass nose, and short landing gear.",
+      "D": "This image shows an aircraft which does not have a high-mounted straight wing with rounded tips, four-engine turboprop design, a rounded nose, a glass nose, and side-loading doors."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a high wing, four-engine turboprop design, T-tail, rounded nose, rear cargo ramp, and distinctive military markings, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "C-47",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin engines, does not have a large cargo door, does not have rear-mounted engines, does not have a sleek fuselage.",
+      "B": "This image shows an aircraft which does not have rear-mounted engines, does not have a sleek fuselage, does not have a tandem cockpit, does not have a single turbofan engine, does not have red, blue, and white livery.",
+      "C": "This image shows an aircraft which does not have low-wing, does not have T-tail, does not have forward wing root air intakes, does not have red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have rounded fuselage, does not have a large cargo door, does not have six cockpit windows, does not have straight wings without winglets."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a twin-engine, low-wing monoplane design with a distinctive rounded fuselage, large cargo door, and a T-tail configuration, commonly used for both military transport and civilian aviation purposes."
+  },
+  {
+    "mcq_id": "C-47",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin engines, does not have a rounded fuselage, does not have swept-back wings, does not have circular cabin windows.",
+      "B": "This image shows an aircraft which does not have low-wing monoplane design, does not have a T-tail configuration, does not have rear fuselage-mounted engines, does not have cylindrical fuselage.",
+      "C": "This image shows an aircraft which does not have large cargo door, does not have low-wing monoplane design, does not have tricycle landing gear, does not have a single vertical stabilizer.",
+      "D": "This image shows an aircraft which does not have swept-back wings, does not have circular cabin windows, does not have rear fuselage-mounted engines, does not have cylindrical fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a twin-engine, low-wing monoplane design with a distinctive rounded fuselage, large cargo door, and a T-tail configuration, commonly used for both military transport and civilian aviation purposes."
+  },
+  {
+    "mcq_id": "CRJ-200",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four engines, does not have a double-deck layout, does not have a high-wing design, does not have turboprop engines, and does not have winglets.",
+      "B": "This image shows an aircraft which does not have a short fuselage, does not have T-tail configuration, does not have low wing design, does not have a green wing, and does not have red oval windows.",
+      "C": "This image shows an aircraft which does not have rear-mounted engines, does not have T-tail configuration, does not have blue winglets, and does not have orange cockpit windows.",
+      "D": "This image shows an aircraft which does not have distinctive cockpit window shape, , rear-mounted engines, does not have two emergency exit doors over the wings, does not have silver turboprop engines, and does not have green high-wing."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape."
+  },
+  {
+    "mcq_id": "CRJ-200",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a bubble canopy, does not have upward-canted horizontal stabilizers, does not have six vertical tail fins, does not have a circular cross-section fuselage, and does not have a window line kink near the cockpit.",
+      "B": "This image shows an aircraft which does not have a short fuselage, does not have two emergency exit doors over the wings, does not have a circular cross-section fuselage, and does not have a window line kink near the cockpit.",
+      "C": "This image shows an aircraft which does not have a low wing design, does not have a distinctive cockpit window shape, does not have a bubble canopy, and does not have upward-canted horizontal stabilizers.",
+      "D": "This image shows an aircraft which does not have rear-mounted engines, does not have a T-tail configuration, does not have retractable tricycle landing gear, and does not accommodate 7-10 passengers."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines, short fuselage, low wing design, two emergency exit doors over the wings, and a distinctive cockpit window shape."
+  },
+  {
+    "mcq_id": "CRJ-700",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a double-deck layout, four engines, a high‑wing design, turboprop engines, or winglets.",
+      "B": "This image shows an aircraft which does not have a sleek fuselage, a T‑tail, a forward fuselage hump, or winglets.",
+      "C": "This image shows an aircraft which does not have rear‑mounted engines, a pointed nose, a high‑wing design, or twin turboprop engines.",
+      "D": "This image shows an aircraft which does not have a sleek fuselage, rear‑mounted engines, a straight vertical tail fin, or winglets."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design."
+  },
+  {
+    "mcq_id": "CRJ-700",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a sleek fuselage, does not have rear-mounted engines, does not have a high-wing configuration, does not have a forward‑mounted engine.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have a pointed nose, does not have a bright red nose, does not have a high-wing configuration.",
+      "C": "This image shows an aircraft which does not have a sleek fuselage, does not have a T‑tail, does not have a green wing, does not have a front‑mounted engine.",
+      "D": "This image shows an aircraft which does not have a high-wing configuration, does not have front‑mounted engines, does not have a conventional tail, does not have a rounded nose, does not have a wide-body fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a sleek fuselage, two rear-mounted engines, a distinctive T-tail, and a pointed nose, commonly used for regional flights with a unique curved overhead bin design."
+  },
+  {
+    "mcq_id": "Cessna 172",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing monoplane design, does not have a single-engine propeller, does not have a straight wing, and does not have evenly spaced oval windows.",
+      "B": "This image shows an aircraft which does not have a T-tail configuration, does not have rear-mounted engines, does not have a double-deck layout, does not have four engines, and does not have winglets.",
+      "C": "This image shows an aircraft which does not have rectangular wings with rounded tips, does not have a small vertical tail fin, does not have winglets, and does not have a prominent forward fuselage hump.",
+      "D": "This image shows an aircraft which does not have tricycle landing gear, does not have high-wing monoplane design, does not have a distinctive cockpit and passenger window arrangement, does not have four engines mounted under its wings, and does not have distinctive winglets."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement."
+  },
+  {
+    "mcq_id": "Cessna 172",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing configuration, does not have a T-tail, does not have rear-mounted engines, does not have slightly swept wings, and does not have emergency exit doors over the wings.",
+      "B": "This image shows an aircraft which does not have a high-wing configuration, does not have a single-engine propeller, does not have a T-tail, and does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have rectangular wings with rounded tips, does not have tricycle landing gear, does not have a low-wing design, and does not have emergency exit doors over the wings.",
+      "D": "This image shows an aircraft which does not have a high-wing configuration, does not have a small vertical tail fin, does not have slightly swept wings, and does not have a unique window line kink near the cockpit."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a high-wing monoplane design with a single-engine propeller, tricycle landing gear, rectangular wings with rounded tips, a small vertical tail fin, and a distinctive cockpit and passenger window arrangement."
+  },
+  {
+    "mcq_id": "Cessna 208",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing configuration, does not have multiple passenger doors, does not have a classic nose with six cockpit windows, does not have two turbofan engines.",
+      "B": "This image shows an aircraft which does not have a single engine, does not have high-wing braced cabin monoplane design, does not have a cargo pod, does not have a sleek fuselage, does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have fixed tricycle landing gear, does not have braced wing struts, does not have a tandem cockpit, does not have low‑mounted wings.",
+      "D": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engines, does not have low‑mounted wings, does not have a turbofan engine, does not have a tandem cockpit."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a high-wing braced cabin monoplane design, powered by a single engine, featuring fixed tricycle landing gear, multiple doors for passenger access, and often includes a distinctive cargo pod for enhanced utility."
+  },
+  {
+    "mcq_id": "Cessna 208",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing, a cargo pod, multiple doors for passenger access, two engines, and a low-wing.",
+      "B": "This image shows an aircraft which does not have fixed tricycle landing gear, multiple doors, a T-tail, and rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have a high-wing, fixed tricycle landing gear, low-wing, and a bubble canopy.",
+      "D": "This image shows an aircraft which does not have a low-wing design, a T-tail configuration, rear-mounted engines, swept wings, and leading edge slats."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a high-wing braced cabin monoplane design, powered by a single engine, featuring fixed tricycle landing gear, multiple doors for passenger access, and often includes a distinctive cargo pod for enhanced utility."
+  },
+  {
+    "mcq_id": "Cessna Citation",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing monoplane design, does not have a sleek fuselage, does not have a straight wing, does not have evenly spaced oval windows.",
+      "B": "This image shows an aircraft which does not have two rear-mounted engines, does not have a T-tail, does not have winglets, does not have a double-deck layout.",
+      "C": "This image shows an aircraft which does not have four engines, does not have winglets, does not have a double-deck layout, does not have a forward fuselage hump.",
+      "D": "This image shows an aircraft which does not have retractable tricycle landing gear, does not have low-wing monoplane design, does not have a forward fuselage hump, does not have winglets."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows."
+  },
+  {
+    "mcq_id": "Cessna Citation",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing configuration, does not have a single front‑mounted propeller engine, does not have rectangular wings with rounded tips, does not have a small vertical tail fin, and does not have extra emergency exit doors over the wings.",
+      "B": "This image shows an aircraft which does not have a low‑wing design, does not have rear‑mounted engines, does not have a blue vertical tail fin, and does not have green rectangular wings with rounded tips.",
+      "C": "This image shows an aircraft which does not have a T‑tail, does not have retractable tricycle landing gear, does not have a red circular fuselage cross‑section, and does not have yellow emergency exit doors over the wings.",
+      "D": "This image shows an aircraft which does not have a sleek fuselage, does not have distinctive cockpit windows, does not have a purple slightly swept wing, and does not have an orange window‑line kink near the cockpit."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a low-wing monoplane design, T-tail, two rear-mounted engines, retractable tricycle landing gear, and accommodates 7-10 passengers, with a sleek fuselage and distinctive cockpit windows."
+  },
+  {
+    "mcq_id": "Challenger 600",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin-engine jets, does not have low-wing design, does not have high wings, does not have six cockpit windows.",
+      "B": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have distinctive cockpit windows, does not have a green tail.",
+      "C": "This image shows an aircraft which does not have low-wing design, does not have winglets, does not have forward wing root air intakes, does not have red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have twin turboprop engines, does not have high wings, does not have six cockpit windows, does not have a tandem cockpit."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a twin-engine jet configuration with a T-tail, rear-mounted engines, and a low-wing design, featuring a sleek fuselage and distinctive winglets for enhanced aerodynamics and performance."
+  },
+  {
+    "mcq_id": "Challenger 600",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing design, does not have twin-engine configuration, does not have swept-back wings, does not have circular cabin windows.",
+      "B": "This image shows an aircraft which does not have twin turboprop engines, does not have high wings, does not have six cockpit windows, does not have a tandem cockpit.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have twin-engine configuration, does not have underwing turbofan engines, does not have a blue stretched fuselage.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have low-wing design, does not have turboprop engines, does not have a yellow high-wing design."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a twin-engine jet configuration with a T-tail, rear-mounted engines, and a low-wing design, featuring a sleek fuselage and distinctive winglets for enhanced aerodynamics and performance."
+  },
+  {
+    "mcq_id": "DC-10",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have three engines, does not have a low‑wing configuration, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have a red, blue, and white livery.",
+      "B": "This image shows an aircraft which does not have a tail engine mounted in a T‑tail structure, does not have a wide‑body fuselage, does not have a sleek fuselage, and does not have distinctive cockpit windows.",
+      "C": "This image shows an aircraft which does not have a tail engine mounted in a T‑tail structure, does not have a low‑wing configuration, does not have a straight wing, and does not have evenly spaced oval windows.",
+      "D": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, does not have a sleek pointed nose, and does not have a straight wing."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has three engines, including a distinctive tail engine mounted in a T-tail structure, a low-wing configuration, a wide-body fuselage, and a unique rear-mounted engine design distinguishing it from similar models."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have three engines, does not have a low-wing configuration, does not have a high T-tail, and does not have oval-shaped passenger windows.",
+      "B": "This image shows an aircraft which does not have three engines, does not have a tail engine mounted in a T-tail structure, does not have a high-wing configuration, and does not have a streamlined fuselage.",
+      "C": "This image shows an aircraft which does not have a wide-body fuselage, does not have a low-wing configuration, does not have a slender fuselage, and does not have a red nose cone.",
+      "D": "This image shows an aircraft which does not have a high-wing configuration, does not have a slender fuselage, does not have star-shaped passenger windows, and does not have a down-curved fuselage."
+    },
+    "correct_answer": "D",
+    "mcq_id": "DC-10",
+    "difficulty": "Hard",
+    "correct_description": "This is an aircraft which has three engines, including a distinctive tail engine mounted in a T-tail structure, a low-wing configuration, a wide-body fuselage, and a unique rear-mounted engine design distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "DC-3",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin-engine, low-wing configuration, forward wing root air intakes, and distinctive red, blue, and white livery.",
+      "B": "This image shows an aircraft which does not have propeller-driven design, classic tail section, rear-mounted engines, and sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, a single turbofan engine, a T-tail, rear-mounted engines, or six star-shaped cockpit windows.",
+      "D": "This image shows an aircraft which does not have tricycle landing gear, prominent engine cowlings, six cockpit windows, and two turbofan engines."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a twin-engine, propeller-driven design with a distinctive rounded fuselage, low-wing configuration, and tricycle landing gear, featuring a classic tail section and prominent engine cowlings."
+  },
+  {
+    "mcq_id": "DC-3",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T‑tail configuration, does not have rear‑mounted engines, does not have swept wings, does not have leading edge slats, and does not have three engines.",
+      "B": "This image shows an aircraft which does not have twin engines, does not have a rounded fuselage, does not have leading edge slats, and does not have a yellow nose wheel.",
+      "C": "This image shows an aircraft which does not have a low‑wing configuration, does not have tricycle landing gear, does not have swept wings, and does not have a purple vertical stabilizer.",
+      "D": "This image shows an aircraft which does not have prominent engine cowlings, does not have a classic tail section, does not have three engines, and does not have an upward‑angled rear fuselage."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a twin-engine, propeller-driven design with a distinctive rounded fuselage, low-wing configuration, and tricycle landing gear, featuring a classic tail section and prominent engine cowlings."
+  },
+  {
+    "mcq_id": "DC-6",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four piston engines, does not have a low-wing design, does not have a three-bladed propeller, does not have a canopy-style cockpit with large windows.",
+      "B": "This image shows an aircraft which does not have a single vertical stabilizer, does not have a rounded nose, does not have rear-mounted engines, does not have a T‑tail.",
+      "C": "This image shows an aircraft which does not have oval windows, does not have distinctive tail markings, does not have a tandem cockpit, does not have forward wing‑root air intakes.",
+      "D": "This image shows an aircraft which does not have a single engine, does not have a T‑tail, does not have rear‑mounted engines, does not have a jet turbofan engine, does not have a sleek fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has four piston engines with circular cowlings, a single vertical stabilizer, low-wing design, rounded nose, oval windows, and distinctive tail markings, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "DC-6",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four piston engines, circular cowlings, twin turboprop engines, or a T‑tail.",
+      "B": "This image shows an aircraft which does not have twin turboprop engines, does not have a T‑tail, does not have rear‑mounted engines, does not have a high‑wing design, and does not have circular windows.",
+      "C": "This image shows an aircraft which does not have a single vertical stabilizer, does not have a low‑wing design, does not have rear‑mounted engines, or does not have a T‑tail.",
+      "D": "This image shows an aircraft which does not have four piston engines, does not have circular cowlings, does not have a high‑wing design, or does not have a T‑tail."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has four piston engines with circular cowlings, a single vertical stabilizer, low-wing design, rounded nose, oval windows, and distinctive tail markings, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "DC-8",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have narrow-body fuselage, does not have swept-back wings, does not have a tandem cockpit, and does not have a red, blue, and white livery.",
+      "B": "This image shows an aircraft which does not have a narrow-body double-bubble fuselage, does not have a T-tail, does not have rear-mounted engines, and does not have a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, does not have star-shaped low‑mounted wings, does not have a single turbofan engine, does not have forward wing‑root air intakes, and does not have a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a distinctive nose cone, does not have four rear-mounted jet engines, does not have a three‑bladed propeller, and does not have a low‑wing monoplane design."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has four rear-mounted jet engines, a narrow-body fuselage with a \"double bubble\" cross-section, swept-back wings, a distinctive nose cone, and a T-tail configuration."
+  },
+  {
+    "mcq_id": "DC-8",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have narrow-body fuselage, a double bubble fuselage, a red nose cone, or green winglets.",
+      "B": "This image shows an aircraft which does not have four rear-mounted engines, swept-back wings, a yellow T‑tail, or purple passenger windows.",
+      "C": "This image shows an aircraft which does not have four rear-mounted engines, a distinctive nose cone, a blue slender fuselage, or a black high T‑tail.",
+      "D": "This image shows an aircraft which does not have two front-mounted engines, three engines, a wide-body fuselage, star-shaped passenger windows, or an upward‑angled rear fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has four rear-mounted jet engines, a narrow-body fuselage with a \"double bubble\" cross-section, swept-back wings, a distinctive nose cone, and a T-tail configuration."
+  },
+  {
+    "mcq_id": "DC-9",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have built-in airstairs, does not have a delta wing shape, does not have a bright green nose.",
+      "B": "This image shows an aircraft which does not have a single turbofan engine, does not have forward wing root air intakes, does not have a tandem cockpit, does not have a three-bladed propeller, does not have a distinctive red, blue, and white livery.",
+      "C": "This image shows an aircraft which does not have two rear-mounted engines, does not have clean wings, does not have a single turbofan engine, does not have a bright orange livery.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have two rear-mounted engines, does not have a three-bladed propeller, does not have a canopy-style cockpit."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations."
+  },
+  {
+    "mcq_id": "DC-9",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have does not have four front-mounted engines, does not have wide-body fuselage, does not have an upward angle at the rear.",
+      "B": "This image shows an aircraft which does not have two rear-mounted engines, does not have built-in airstairs, does not have a red tail fin, does not have a blue nose cone.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have a slender fuselage, does not have green winglets, does not have a yellow cockpit window.",
+      "D": "This image shows an aircraft which does not have two rear-mounted engines, does not have a slender fuselage, does not have a purple rear door, does not have orange landing gear."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has two rear-mounted engines, a T-tail, clean wings, built-in airstairs, and a slender fuselage, distinguishing it from similar models with distinct engine placement and tail configurations."
+  },
+  {
+    "mcq_id": "DH-82",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two main wings, does not have taildragger landing gear, does not have a T-tail, and does not have rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have an open tandem cockpit, does not have a de Havilland Gipsy III engine, does not have a straight wing, and does not have oval windows.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a sleek elongated fuselage, does not have tricycle landing gear, and does not have winglets.",
+      "D": "This image shows an aircraft which does not have distinctive roundels and markings, does not have two main wings, does not have winglets, and does not have a low wing with 35° sweep."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a biplane configuration with two main wings, a taildragger landing gear, an open tandem cockpit, a de Havilland Gipsy III engine, and distinctive roundels and markings for identification."
+  },
+  {
+    "mcq_id": "DH-82",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have biplane configuration, does not have taildragger landing gear, does not have a T‑tail configuration, does not have rear‑mounted engines.",
+      "B": "This image shows an aircraft which does not have two main wings, does not have an open tandem cockpit, does not have a high‑wing monoplane design, does not have tricycle landing gear.",
+      "C": "This image shows an aircraft which does not have a de Havilland Gipsy III engine, does not have distinctive roundels and markings, does not have slightly swept wings, does not have a unique window line kink near the cockpit.",
+      "D": "This image shows an aircraft which does not have a T‑tail configuration, does not have rear‑mounted engines, does not have high‑wing monoplane design, does not have tricycle landing gear."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a biplane configuration with two main wings, a taildragger landing gear, an open tandem cockpit, a de Havilland Gipsy III engine, and distinctive roundels and markings for identification."
+  },
+  {
+    "mcq_id": "DHC-1",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low-wing design, does not have a bubble canopy, does not have four engines, and does not have winglets.",
+      "B": "This image shows an aircraft which does not have fixed tailwheel landing gear, does not have distinctive red and white paint scheme, does not have a T-tail, and does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have four engines, does not have winglets, does not have a T-tail, does not have a double-deck layout, and does not have rear-mounted engines.",
+      "D": "This image shows an aircraft which does not have low-wing design, does not have a bubble canopy, does not have a double-deck layout, and does not have winglets."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+  },
+  {
+    "mcq_id": "DHC-1",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing design, does not have a bubble canopy, does not have a single-engine propeller, and does not have tricycle landing gear.",
+      "B": "This image shows an aircraft which does not have a high-wing design, does not have tricycle landing gear, does not have a T-tail, does not have rear-mounted engines, and does not have blue paint.",
+      "C": "This image shows an aircraft which does not have a fixed tailwheel landing gear, does not have red paint, does not have a T-tail, and does not have rear-mounted engines.",
+      "D": "This image shows an aircraft which does not have a low-wing design, does not have a bubble canopy, does not have a single turbofan engine, and does not have forward wing root air intakes."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a low-wing design, tandem two-seat cockpit with a bubble canopy, fixed tailwheel landing gear, and distinctive paint schemes including red and white or military markings."
+  },
+  {
+    "mcq_id": "DHC-6",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have rear-mounted engines, does not have low‑mounted wings, does not have a single turbofan engine, does not have a sleek fuselage, and does not have a classic Airbus A300 nose.",
+      "B": "This image shows an aircraft which does not have high‑wing design, does not have twin turboprop engines, does not have a sleek fuselage, does not have distinctive cockpit windows, and does not have rear‑mounted engines.",
+      "C": "This image shows an aircraft which does not have T‑tail configuration, does not have tricycle landing gear, does not have low‑mounted wings, and does not have a single turbofan engine.",
+      "D": "This image shows an aircraft which does not have twin turboprop engines, does not have high‑wing design, does not have rear‑mounted engines, and does not have a curved leading‑edge tail fin."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance."
+  },
+  {
+    "mcq_id": "DHC-6",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing configuration, does not have rear-mounted engines, does not have dual vertical stabilizers, does not have a rounded fuselage.",
+      "B": "This image shows an aircraft which does not have a high-wing design, does not have a T-tail configuration, does not have four-bladed propellers, and does not have rear-mounted engine placement.",
+      "C": "This image shows an aircraft which does not have a high-wing design, does not have tricycle landing gear, does not have a rounded fuselage, and does not have a classic tail section.",
+      "D": "This image shows an aircraft which does not have a T-tail configuration, does not have tricycle landing gear, does not have a low-wing monoplane design, and does not have a single vertical stabilizer."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a high-wing design, twin turboprop engines, a T-tail configuration, and a distinctive tricycle landing gear setup, distinguishing it from similar models with its robust and versatile appearance."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a turbofan engine, does not have forward wing root air intakes, and does not have a red, blue, and white livery.",
+      "B": "This image shows an aircraft which does not have a straight wing, does not have tandem seating, does not have a T-tail, and does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have a low-wing, does not have a two-blade propeller, does not have forward wing root air intakes, and does not have a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a tricycle undercarriage, does not have a bubble canopy, does not have evenly spaced oval windows, and does not have two rear-mounted engines."
+    },
+    "correct_answer": "A",
+    "mcq_id": "DR-400",
+    "difficulty": "Medium",
+    "correct_description": "This is an aircraft which has a low-wing monoplane design with a straight wing, powered by a single engine driving a two-blade propeller, featuring tandem seating under a bubble canopy, and equipped with a tricycle undercarriage."
+  },
+  {
+    "mcq_id": "DR-400",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing design, a T-tail configuration, rear-mounted engines, multiple passenger doors, or a distinctive cargo pod.",
+      "B": "This image shows an aircraft which does not have a low-wing monoplane design, a single engine, a swept wing, or rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have a straight wing, a two-blade propeller, a T-tail configuration, or a cargo pod.",
+      "D": "This image shows an aircraft which does not have tandem seating under a bubble canopy, a tricycle undercarriage, blue leading edge slats, or a cylindrical fuselage."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a low-wing monoplane design with a straight wing, powered by a single engine driving a two-blade propeller, featuring tandem seating under a bubble canopy, and equipped with a tricycle undercarriage."
+  },
+  {
+    "mcq_id": "Dash 8",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T‑tail, does not have twin turboprop engines, does not have a low‑wing design, and does not have a single‑engine with a three‑bladed propeller.",
+      "B": "This image shows an aircraft which does not have a high‑wing design, does not have rear‑mounted landing gear, does not have rear‑mounted engines, and does not have a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a T‑tail, does not have a high‑wing design, does not have a tandem cockpit, and does not have forward wing‑root air intakes.",
+      "D": "This image shows an aircraft which does not have a low‑wing design, does not have a single engine, does not have a ten‑bladed propeller, does not have a tandem cockpit, and does not have forward wing‑root air intakes."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+  },
+  {
+    "mcq_id": "Dash 8",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing, does not have rear-mounted landing gear, does not have an oval-shaped fuselage, does not have large straight wings, and does not have five‑bladed propellers.",
+      "B": "This image shows an aircraft which does not have a low‑wing design, does not have a single engine, does not have a ten‑bladed propeller, does not have a tandem cockpit, and does not have forward wing‑root air intakes.",
+      "C": "This image shows an aircraft which does not have a T‑tail, does not have twin engines, does not have underwing turbofan engines, does not have a stretched fuselage, and does not have wings positioned mid‑fuselage.",
+      "D": "This image shows an aircraft which does not have a high-wing, does not have twin turboprop engines, does not have large side‑loading doors, does not have a blue tail fin, and does not have a green propeller."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a T-tail configuration, high-wing design, twin turboprop engines, rear-mounted landing gear, and a streamlined fuselage for short-haul regional flights."
+  },
+  {
+    "mcq_id": "Dornier 328",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing configuration, does not have twin turboprop engines mounted on the wings, does not have rear-mounted engines, does not have forward wing root air intakes.",
+      "B": "This image shows an aircraft which does not have a high-wing configuration, does not have large side-loading doors, does not have a tandem cockpit, does not have a red, blue, and white livery.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, does not have low-mounted wings, does not have a single turbofan engine, does not have forward wing root air intakes, does not have a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have twin turboprop engines mounted on the wings, does not have a T-tail design, does not have a single turbofan engine, does not have low‑mounted wings."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "Dornier 328",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing configuration, does not have twin turboprop engines mounted on the wings, does not have rear-mounted landing gear, does not have a green fuselage.",
+      "B": "This image shows an aircraft which does not have a T-tail design, does not have large side-loading doors, does not have engine placement above the wings, does not have rounded wing tips.",
+      "C": "This image shows an aircraft which does not have twin turboprop engines mounted on the wings, does not have large side-loading doors, does not have four turboprop engines, does not have a glass nose.",
+      "D": "This image shows an aircraft which does not have a low-wing configuration, does not have a glass nose, does not have a rear loading ramp, does not have four turboprop engines."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a high-wing configuration, twin turboprop engines mounted on the wings, a T-tail design, and large side-loading doors for passenger access, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "EMB-120",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low-mounted wings, does not have a T-tail, does not have a single turbofan engine, does not have forward wing root air intakes.",
+      "B": "This image shows an aircraft which does not have a T-tail, does not have low-mounted straight wings, does not have rear-mounted engines, does not have distinctive cockpit windows.",
+      "C": "This image shows an aircraft which does not have a single turbofan engine, does not have a tandem cockpit, does not have forward wing root air intakes, does not have rear-mounted engines, does not have a bubble canopy.",
+      "D": "This image shows an aircraft which does not have low-wing design, does not have a T-tail, does not have a bubble canopy, does not have fixed tailwheel landing gear."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has twin-turboprop engines mounted on low-mounted straight wings, a circular cross-section fuselage, a T-tail design, and a distinctive rear-mounted engine configuration for regional passenger transport."
+  },
+  {
+    "mcq_id": "EMB-120",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a single turbofan engine, does not have a tandem cockpit, does not have forward wing root air intakes, does not have rear-mounted engines, does not have a bubble canopy.",
+      "B": "This image shows an aircraft which does not have low-mounted straight wings, does not have a circular cross-section fuselage, does not have an oval-shaped fuselage, and does not have five-bladed propellers.",
+      "C": "This image shows an aircraft which does not have a T-tail configuration, does not have twin turboprop engines, does not have high-wing design, and does not have rear-mounted landing gear.",
+      "D": "This image shows an aircraft which does not have low-mounted straight wings, does not have a circular cross-section fuselage, does not have high-wing configuration, and does not have large side-loading doors."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has twin-turboprop engines mounted on low-mounted straight wings, a circular cross-section fuselage, a T-tail design, and a distinctive rear-mounted engine configuration for regional passenger transport."
+  },
+  {
+    "mcq_id": "Embraer E-Jet",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a slender fuselage, does not have rear-mounted engines, does not have four engines, does not have a double-deck layout.",
+      "B": "This image shows an aircraft which does not have a double-deck layout, does not have four engines, does not have a prominent forward fuselage hump, does not have multiple landing gear sets, and does not have raked wingtips.",
+      "C": "This image shows an aircraft which does not have a slender fuselage, does not have a distinctive cockpit window shape, does not have a straight vertical tail fin, does not have a characteristic fuselage length.",
+      "D": "This image shows an aircraft which does not have rear-mounted engines, does not have a distinctive cockpit window shape, does not have a large body, does not have six-wheel main landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a slender fuselage, T-tail configuration, rear-mounted engines, and a distinctive cockpit window shape, distinguishing it from similar models with its compact design and efficient regional jet features."
+  },
+  {
+    "mcq_id": "Embraer E-Jet",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a circular cross‑section fuselage, does not have slightly swept wings.",
+      "B": "This image shows an aircraft which does not have a T-tail, does not have a distinctive cockpit window shape, does not have a low wing design, does not have two emergency exit doors over the wings.",
+      "C": "This image shows an aircraft which does not have rear‑mounted engines, does not have a distinctive T‑tail, does not have a sleek fuselage, does not have a pointed nose.",
+      "D": "This image shows an aircraft which does not have a double-deck layout, does not have four engines, does not have a prominent forward fuselage hump, does not have multiple landing gear sets, and does not have raked wingtips."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a slender fuselage, T-tail configuration, rear-mounted engines, and a distinctive cockpit window shape, distinguishing it from similar models with its compact design and efficient regional jet features."
+  },
+  {
+    "mcq_id": "Embraer ERJ 145",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail configuration, does not have a straight wing, does not have a bubble canopy, does not have a fixed tailwheel landing gear.",
+      "B": "This image shows an aircraft which does not have two rear-mounted engines, does not have evenly spaced oval windows, does not have forward wing root air intakes, does not have a single turbofan engine.",
+      "C": "This image shows an aircraft which does not have a bubble canopy, does not have a single turbofan engine, does not have a three-bladed propeller, and does not have fixed tailwheel landing gear.",
+      "D": "This image shows an aircraft which does not have a tube-shaped fuselage with a pointed nose, does not have a straight wing, does not have a three-bladed propeller, does not have a canopy-style cockpit with large windows."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet."
+  },
+  {
+    "mcq_id": "Embraer ERJ 145",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have a straight wing, does not have twin turboprop engines, does not have circular windows.",
+      "B": "This image shows an aircraft which does not have two rear-mounted engines, does not have a tube-shaped fuselage, does not have a high T-tail, does not have oval-shaped passenger windows.",
+      "C": "This image shows an aircraft which does not have a bubble canopy, does not have a single turbofan engine, does not have a three-bladed propeller, and does not have fixed tailwheel landing gear.",
+      "D": "This image shows an aircraft which does not have a pointed nose, does not have a straight wing, does not have a longer fuselage, does not have five-abreast seating."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a T-tail configuration, two rear-mounted engines, a straight wing, a tube-shaped fuselage with a pointed nose, and evenly spaced oval windows, distinguishing it as an Embraer ERJ family jet."
+  },
+  {
+    "mcq_id": "Embraer Legacy 600",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have winglets on wingtips, does not have integrated fuel tanks in the tail section, does not have a single engine, does not have a three-bladed propeller.",
+      "B": "This image shows an aircraft which does not have a T-tail configuration, does not have three distinct cabin sections visible through windows, does not have a red nose cone, does not have a green winglet tip.",
+      "C": "This image shows an aircraft which does not have a sleek fuselage design, does not have winglets on wingtips, does not have a tandem cockpit, does not have forward wing root intakes.",
+      "D": "This image shows an aircraft which does not have a single engine, does not have a three-bladed propeller, does not have a canopy‑style cockpit, does not have fixed tricycle landing gear, does not have forward wing root intakes."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has winglets on wingtips, a T-tail configuration, three distinct cabin sections visible through windows, and a sleek fuselage design with integrated fuel tanks in the tail section."
+  },
+  {
+    "mcq_id": "Embraer Legacy 600",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have winglets on wingtips, does not have a T-tail, does not have a bright red nose, does not have green landing gear.",
+      "B": "This image shows an aircraft which does not have winglets on wingtips, does not have three distinct cabin sections visible through windows, does not have a yellow tail cone, does not have orange windows.",
+      "C": "This image shows an aircraft which does not have a single engine, does not have a three-bladed propeller, does not have a canopy‑style cockpit, does not have fixed tricycle landing gear, does not have forward wing root intakes.",
+      "D": "This image shows an aircraft which does not have winglets on wingtips, does not have integrated fuel tanks in the tail section, does not have a purple fuselage stripe, does not have silver engine nacelles."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has winglets on wingtips, a T-tail configuration, three distinct cabin sections visible through windows, and a sleek fuselage design with integrated fuel tanks in the tail section."
+  },
+  {
+    "mcq_id": "Eurofighter Typhoon",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a delta wing, does not have canards, does not have a tandem cockpit, and does not have a single turbofan engine.",
+      "B": "This image shows an aircraft which does not have twin vertical stabilizers, does not have a single rudder, does not have a T‑tail, and does not have rear‑mounted engines.",
+      "C": "This image shows an aircraft which does not have four vertical stabilizers, does not have high‑mounted wings, does not have a single turbofan engine, and does not have a propeller.",
+      "D": "This image shows an aircraft which does not have a chin intake, does not have semi‑recessed weapon mounts, does not have a single‑engine with a three‑bladed propeller, and does not have a single rudder."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a delta wing design with canards, twin vertical stabilizers, a single rudder, a distinctive chin intake, and semi-recessed weapon mounts, distinguishing it visually from similar models."
+  },
+  {
+    "mcq_id": "Eurofighter Typhoon",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a delta wing design, does not have canards, does not have a T‑tail configuration, does not have rear‑mounted engines.",
+      "B": "This image shows an aircraft which does not have twin vertical stabilizers, does not have a single rudder, does not have a T‑shaped tail with a high‑mounted horizontal stabilizer, does not have rear‑mounted engines.",
+      "C": "This image shows an aircraft which does not have a chin intake, does not have semi‑recessed weapon mounts, does not have a low‑wing configuration, does not have a single vertical stabilizer.",
+      "D": "This image shows an aircraft which does not have a T‑tail configuration, does not have rear‑mounted engines, does not have oval‑shaped windows, does not have a high‑wing design, does not have a narrow‑body fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a delta wing design with canards, twin vertical stabilizers, a single rudder, a distinctive chin intake, and semi-recessed weapon mounts, distinguishing it visually from similar models."
+  },
+  {
+    "mcq_id": "F-16",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a bubble canopy, does not have a single-seat configuration, does not have a straight wing, does not have twin rear-mounted engines, and does not have evenly spaced oval windows.",
+      "B": "This image shows an aircraft which does not have a T-tail configuration, does not have twin rear-mounted engines, does not have a double-deck layout, and does not have a high-wing design.",
+      "C": "This image shows an aircraft which does not have upward-canted horizontal stabilizers, does not have a single vertical tail fin, does not have four engines, and does not have a double-deck layout.",
+      "D": "This image shows an aircraft which does not have swept-back wings with a distinctive leading-edge notch, does not have an air intake under the cockpit, does not have twin turboprop engines, and does not have a high-wing design."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch."
+  },
+  {
+    "mcq_id": "F-16",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a single-seat or two-seat configuration, a bubble canopy, a T-tail configuration, and rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have an air intake under the cockpit, upward-canted horizontal stabilizers, a three-bladed propeller, and elliptical wings.",
+      "C": "This image shows an aircraft which does not have a single vertical tail fin, swept-back wings with a distinctive leading-edge notch, low wing design, and two emergency exit doors over the wings.",
+      "D": "This image shows an aircraft which does not have a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, a three-bladed propeller, and elliptical wings."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a single-seat or two-seat configuration, a bubble canopy, air intake under the cockpit, upward-canted horizontal stabilizers, a single vertical tail fin, and swept-back wings with a distinctive leading-edge notch."
+  },
+  {
+    "mcq_id": "F_A_18",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin engines, does not have a mid-wing design, does not have a T-tail, does not have rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have twin engines, does not have canted vertical stabilizers, does not have a T-tail, does not have distinctive cockpit windows.",
+      "C": "This image shows an aircraft which does not have a bubble canopy, does not have a mid-wing design, does not have a single turbofan engine, does not have red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have high-mounted wings, does not have a single turbofan engine, does not have star-shaped canopy"
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a twin-engine configuration with a mid-wing design, featuring distinctive canted vertical stabilizers, a bubble canopy, and a robust landing gear system for carrier operations."
+  },
+  {
+    "mcq_id": "F_A_18",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a mid-wing design, does not have a bubble canopy, does not have a blue tail fin, does not have a yellow landing gear.",
+      "B": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have high-mounted wings, does not have a single turbofan engine, does not have star-shaped canopy.",
+      "C": "This image shows an aircraft which does not have a canted vertical stabilizer, does not have a twin-engine configuration, does not have a red propeller, does not have a green cockpit window.",
+      "D": "This image shows an aircraft which does not have robust landing gear for carrier operations, does not have a twin-engine configuration, does not have a silver nose cone, does not have a purple winglet."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a twin-engine configuration with a mid-wing design, featuring distinctive canted vertical stabilizers, a bubble canopy, and a robust landing gear system for carrier operations."
+  },
+  {
+    "mcq_id": "Falcon 2000",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low wing design, does not have twin‑engine jets, does not have a single turbofan engine, does not have forward wing‑root air intakes, and does not have red, blue, and white livery.",
+      "B": "This image shows an aircraft which does not have T‑tail configuration, does not have circular cabin windows, does not have a sleek fuselage, and does not have an orange nose.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing‑root air intakes, does not have a three‑bladed propeller.",
+      "D": "This image shows an aircraft which does not have twin‑engine jets, does not have swept‑back wings, does not have a three‑bladed propeller, and does not have fixed tricycle landing gear."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics."
+  },
+  {
+    "mcq_id": "Falcon 2000",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low wing design, does not have circular cabin windows, does not have a green narrow-body fuselage with a red rounded nose, and does not have a purple single vertical stabilizer.",
+      "B": "This image shows an aircraft which does not have swept-back wings, does not have twin‑engine jets, does not have silver winglets, and does not have a gold sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a T‑tail, does not have rear‑fuselage engine placement, does not have orange underwing turbofan engines, and does not have a pink stretched fuselage.",
+      "D": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing‑root air intakes, does not have a three‑bladed propeller, and does not have fixed tricycle landing gear.."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a low wing design with swept-back wings, a T-tail configuration, circular cabin windows, twin-engine jets, and distinctive engine placement at the rear fuselage for enhanced aerodynamics."
+  },
+  {
+    "mcq_id": "Falcon 900",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have two rear-mounted engines, does not have a tandem cockpit, and does not have forward wing root air intakes.",
+      "B": "This image shows an aircraft which does not have swept-back wings, does not have a rounded nose, does not have a single turbofan engine, and does not have forward wing root air intakes.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, does not have high‑mounted wings, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a four‑part windshield, does not have a Falcon logo, does not have a single‑engine with three‑bladed propeller, and does not have a low‑wing monoplane design."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has two rear-mounted engines with a T-tail configuration, featuring swept-back wings, a rounded nose, a four-part windshield, and often displays a \"Falcon\" logo on its tail or fuselage."
+  },
+  {
+    "mcq_id": "Falcon 900",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two rear-mounted engines, does not have a T-tail, does not have oval-shaped passenger windows, does not have a blue wingtip stripe.",
+      "B": "This image shows an aircraft which does not have swept-back wings, does not have a rounded nose, does not have a slender fuselage, does not have green engine nacelles.",
+      "C": "This image shows an aircraft which does not have a tandem cockpit, does not have high‑mounted wings, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have two rear-mounted engines, does not have swept-back wings, does not have three engines, does not have an upward‑angled rear fuselage."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has two rear-mounted engines with a T-tail configuration, featuring swept-back wings, a rounded nose, a four-part windshield, and often displays a \"Falcon\" logo on its tail or fuselage."
+  },
+  {
+    "mcq_id": "Fokker 100",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail configuration, does not have rear-mounted engines, does not have four engines mounted under its wings, and does not have winglets.",
+      "B": "This image shows an aircraft which does not have slightly swept wings, does not have a unique window line kink near the cockpit, does not have a double-deck layout, and does not have four engines.",
+      "C": "This image shows an aircraft which does not have four engines mounted under its wings, does not have winglets, does not have a double-deck layout, does not have a front-mounted engines, and does not have a prominent forward fuselage hump.",
+      "D": "This image shows an aircraft which does not have a T-tail configuration, does not have rear-mounted engines, does not have a straight wing, and does not have a tube-shaped fuselage with a pointed nose."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have rear-mounted engines, does not have slightly swept wings, does not have a high-wing design, and does not have a single-engine propeller.",
+      "B": "This image shows an aircraft which does not have T-tail configuration, does not have short fuselage, does not have a high-wing design, and does not have a bubble canopy.",
+      "C": "This image shows an aircraft which does not have T-tail configuration, does not have a window line kink near the cockpit, does not have a bubble canopy, and does not have a single-seat configuration.",
+      "D": "This image shows an aircraft which does not have a high-wing design, does not have a single-engine propeller, does not have a bubble canopy, does not have a single-seat configuration, and does not have upward-canted horizontal stabilizers."
+    },
+    "correct_answer": "D",
+    "mcq_id": "Fokker 100",
+    "difficulty": "Hard",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines, a short fuselage with a circular cross-section, slightly swept wings, and a unique window line kink near the cockpit for enhanced visibility."
+  },
+  {
+    "mcq_id": "Fokker 50",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engine placement, does not have a green winglet, does not have a red cockpit window.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have low‑mounted wings, does not have a single turbofan engine, does not have forward wing‑root air intakes.",
+      "C": "This image shows an aircraft which does not have twin turboprop engines, does not have four‑bladed propellers, does not have a sleek fuselage, does not have a yellow tail.",
+      "D": "This image shows an aircraft which does not have small passenger windows, does not have high‑mounted wings, does not have a blue tail fin, does not have orange landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a tandem cockpit, does not have low‑mounted wings, does not have a single turbofan engine, does not have forward wing‑root air intakes.",
+      "B": "This image shows an aircraft which does not have twin turboprop engines, does not have high-mounted wings, does not have a red nose gear, and does not have green winglets.",
+      "C": "This image shows an aircraft which does not have four-bladed propellers, does not have small passenger windows, does not have a purple oval fuselage, and does not have yellow straight wings.",
+      "D": "This image shows an aircraft which does not have twin turboprop engines, does not have T-tail configuration, does not have a silver tricycle landing gear, and does not have a black tail fin."
+    },
+    "correct_answer": "A",
+    "mcq_id": "Fokker 50",
+    "difficulty": "Hard",
+    "correct_description": "This is an aircraft which has twin turboprop engines with four-bladed propellers, high-mounted wings, a T-tail configuration, small passenger windows, and a distinctive rear-mounted engine placement for optimal performance and efficiency."
+  },
+  {
+    "mcq_id": "Fokker 70",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a propeller, does not have a canopy-style cockpit.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, does not have a propeller, and does not have a canopy-style cockpit.",
+      "C": "This image shows an aircraft which does not have rear-mounted engines, does not have a dorsal fin, does not have a single turbofan engine, does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have a dorsal fin, does not have five cabin windows ahead of the wing on each side, does not have a three‑bladed propeller, does not have a canopy-style cockpit."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines, swept wings, a dorsal fin, five cabin windows ahead of the wing on each side, and a distinctive design featuring airline logos and color schemes."
+  },
+  {
+    "mcq_id": "Fokker 70",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a high-wing configuration, does not have oval-shaped windows.",
+      "B": "This image shows an aircraft which does not have a T-tail, does not have a dorsal fin, does not have winglets on the wingtips, does not have three distinct cabin sections.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have swept wings, does not have a rounded nose, does not have turboprop engines.",
+      "D": "This image shows an aircraft which does not have star-shaped windows, does not have wide winglets, does not have a large rounded nose, does not have three distinct cabin sections, does not have turboprop engines."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a T-tail configuration, rear-mounted engines, swept wings, a dorsal fin, five cabin windows ahead of the wing on each side, and a distinctive design featuring airline logos and color schemes."
+  },
+  {
+    "mcq_id": "Global Express",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have winglets, a T‑tail, a tandem cockpit, or forward wing root air intakes.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, a single turbofan engine, forward wing root air intakes, a bubble canopy, or fixed tailwheel landing gear.",
+      "C": "This image shows an aircraft which does not have a low wing configuration with 35° sweep, winglets, distinctive cockpit windows, or a green tail fin.",
+      "D": "This image shows an aircraft which does not have fuselage‑mounted rear engines, a T‑tail, a bubble canopy, or fixed tailwheel landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a low wing configuration with 35° sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations."
+  },
+  {
+    "mcq_id": "Global Express",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing configuration, does not have turboprop engines, does not have propeller-driven engines, does not have a V-tail.",
+      "B": "This image shows an aircraft which does not have a low wing configuration, does not have winglets, does not have a red nose cone, and does not have a blue vertical stabilizer.",
+      "C": "This image shows an aircraft which does not have a low wing configuration, does not have a T‑tail, does not have green winglets, and does not have a yellow fuselage stripe.",
+      "D": "This image shows an aircraft which does not have a T‑tail, does not have tricycle landing gear, does not have orange propellers, and does not have a high‑mounted wing."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a low wing configuration with 35° sweep and winglets, fuselage-mounted rear engines, a distinctive T-tail, tricycle landing gear, and a sleek, elongated fuselage for business jet operations."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing design, does not have twin-engine jet configuration, does not have rear-mounted engines, does not have a sleek fuselage.",
+      "B": "This image shows an aircraft which does not have front-mounted engines, does not have a tandem cockpit, does not have a single propeller, does not have a canopy-style cockpit, and does not have a three-bladed propeller.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have five cabin windows per side, does not have a single turbofan engine, does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have a pointed nose, does not have swept-back wings, does not have a single-engine propeller, does not have fixed tricycle landing gear."
+    },
+    "correct_answer": "B",
+    "mcq_id": "Gulfstream",
+    "difficulty": "Medium",
+    "correct_description": "This is a aircraft which has a low-wing design, twin-engine jet configuration, T-tail, five cabin windows per side, pointed nose, swept-back wings, and often features distinct livery or national insignia on its fuselage or tail."
+  },
+  {
+    "mcq_id": "Gulfstream",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low-wing design, twin-engine jet configuration, a large tail fin with twin tailplanes, and side air intakes.",
+      "B": "This image shows an aircraft which does not have T-tail, five cabin windows per side, engines mounted at the rear fuselage, and circular cabin windows.",
+      "C": "This image shows an aircraft which does not have swept-back wings, pointed nose, single vertical stabilizer, and side air intakes.",
+      "D": "This image shows an aircraft which does not have star-shaped cabin windows, engines mounted at the front, a large tail fin with V-tail design, and a rounded nose."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a low-wing design, twin-engine jet configuration, T-tail, five cabin windows per side, pointed nose, swept-back wings, and often features distinct livery or national insignia on its fuselage or tail."
+  },
+  {
+    "mcq_id": "Hawk T1",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low-mounted wings, does not have a single turbofan engine, does not have winglets, does not have a T-tail.",
+      "B": "This image shows an aircraft which does not have tandem cockpit, does not have forward wing root air intakes, does not have a pointed nose, does not have oval windows.",
+      "C": "This image shows an aircraft which does not have winglets, does not have rear-mounted engines, does not have a T-tail, does not have a double-deck layout.",
+      "D": "This image shows an aircraft which does not have single turbofan engine, does not have tandem cockpit, does not have a forward fuselage hump, does not have winglets."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes."
+  },
+  {
+    "mcq_id": "Hawk T1",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have winglets, does not have rear-mounted engines, does not have a T-tail, does not have a double-deck layout.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have low-mounted wings, does not have a bubble canopy, does not have fixed tailwheel landing gear.",
+      "C": "This image shows an aircraft which does not have a single turbofan engine, does not have forward wing root air intakes, does not have a T-tail configuration, does not have rear-mounted engines.",
+      "D": "This image shows an aircraft which does not have a tandem cockpit, does not have low-mounted wings, does not have a short fuselage with a circular cross-section, does not have slightly swept wings."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a tandem cockpit, low-mounted wings, a single turbofan engine, forward wing root air intakes, and is painted in distinctive red, blue, and white livery for display purposes."
+  },
+  {
+    "mcq_id": "Il-76",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high T-tail, does not have four rear-mounted turbofan engines, does not have a sleek fuselage, and does not have distinctive cockpit windows.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, does not have a canopy-style cockpit with large windows, and does not have a single-engine three-bladed propeller.",
+      "C": "This image shows an aircraft which does not have four rear-mounted turbofan engines, does not have a high T-tail, does not have a tandem cockpit, and does not have low-mounted wings.",
+      "D": "This image shows an aircraft which does not have four rear-mounted turbofan engines, does not have a high T-tail, does not have a single-engine three-bladed propeller, and does not have a canopy-style cockpit."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has four rear-mounted turbofan engines, a distinctive high T-tail, swept-back wings, a glazed nose, and large rear cargo doors for versatile transport capabilities."
+  },
+  {
+    "mcq_id": "Il-76",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four rear-mounted turbofan engines, does not have a glazed nose, does not have a high-wing design, and does not have twin turboprop engines.",
+      "B": "This image shows an aircraft which does not have four rear-mounted turbofan engines, does not have large rear cargo doors, does not have a propeller, and does not have a nose wheel landing gear.",
+      "C": "This image shows an aircraft which does not have swept-back wings, does not have a glazed nose, does not have a narrow-body configuration, and does not have an upper deck hump.",
+      "D": "This image shows an aircraft which does not have front-mounted turbofan engines, does not have twin turboprop engines, does not have rear-mounted landing gear, and does not have a streamlined fuselage for short-haul regional flights."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has four rear-mounted turbofan engines, a distinctive high T-tail, swept-back wings, a glazed nose, and large rear cargo doors for versatile transport capabilities."
+  },
+  {
+    "mcq_id": "King Air",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have rear-mounted engines, does not have a single turbofan engine, does not have a bubble canopy, does not have a fixed tailwheel landing gear, and does not have a V-tail.",
+      "B": "This image shows an aircraft which does not have a low-wing design, does not have twin turboprop engines, does not have rear-mounted engines, and does not have a glossy silver fuselage.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have a rounded nose, does not have a single turbofan engine, and does not have a bright green livery.",
+      "D": "This image shows an aircraft which does not have a low-wing design, does not have a row of circular windows along the fuselage, does not have a bubble canopy, and does not have a fixed tailwheel landing gear."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "King Air",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have four piston engines, does not have rectangular cowlings, does not have a high V-tail, does not have star windows, and does not have circular wings.",
+      "B": "This image shows an aircraft which does not have twin turboprop engines, does not have low-wing design, does not have a glass nose cone, and does not have rear-mounted engines.",
+      "C": "This image shows an aircraft which does not have rounded nose, does not have circular windows, does not have four piston engines, and does not have circular cowlings.",
+      "D": "This image shows an aircraft which does not have T-tail, does not have low-wing design, does not have five-bladed propellers, and does not have oval-shaped fuselage."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a low-wing monoplane design, twin turboprop engines, a T-tail, a rounded nose, and a distinctive row of circular windows along its fuselage, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "L-1011",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have a sleek fuselage, does not have a green propeller, and does not have a low-wing monoplane design.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, does not have a single-engine with a three-bladed propeller, and does not have a canopy-style cockpit with large windows.",
+      "C": "This image shows an aircraft which does not have three engines, does not have a rear-mounted engine fed by an S-duct, does not have a tandem cockpit, and does not have a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have three engines, does not have a single-engine with a three-bladed propeller, and does not have fixed tricycle landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+  },
+  {
+    "mcq_id": "L-1011",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have three engines, does not have a T-tail, does not have a high-wing design, does not have oval-shaped windows.",
+      "B": "This image shows an aircraft which does not have an S-duct rear engine, does not have an upward angle at the rear, does not have built-in airstairs, does not have a slender fuselage.",
+      "C": "This image shows an aircraft which does not have three engines, does not have a T-tail, does not have four rear-mounted engines, does not have a narrow-body configuration.",
+      "D": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes or a single-engine with a three-bladed propeller."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has three engines, including a distinctive rear-mounted engine fed by an S-duct, a T-tail configuration, and a sleek fuselage design with a noticeable upward angle at the rear."
+  },
+  {
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a stretched fuselage, a third engine at the tail, a single-engine configuration, a three-bladed propeller, and a canopy-style cockpit.",
+      "B": "This image shows an aircraft which does not have two underwing engines, a T-tail, rear-mounted engines, distinctive cockpit windows, and a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a third engine at the tail, two underwing engines, a tandem cockpit, forward wing root air intakes, and a red, blue, and white livery.",
+      "D": "This image shows an aircraft which does not have a propeller, a canopy-style cockpit, fixed tricycle landing gear, a red, blue, and white livery, and a single-engine configuration."
+    },
+    "correct_answer": "D",
+    "mcq_id": "MD-11",
+    "difficulty": "Medium",
+    "correct_description": "This is a aircraft which has two underwing engines, a third engine at the tail, no winglets, a stretched fuselage, and a distinctive T-tail configuration."
+  },
+  {
+    "mcq_id": "MD-11",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a propeller, a canopy-style cockpit, fixed tricycle landing gear, a red, blue, and white livery, and a single-engine configuration.",
+      "B": "This image shows an aircraft which does not have two underwing engines, does not have a stretched fuselage, does not have a slender fuselage, does not have a blue winglet.",
+      "C": "This image shows an aircraft which does not have a third engine at the tail, does not have a distinctive T-tail design, does not have mid-fuselage wing placement, does not have a twin-engine configuration.",
+      "D": "This image shows an aircraft which does not have two underwing engines, does not have a third engine at the tail, does not have a red S-duct, does not have blue winglets."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has two underwing engines, a third engine at the tail, no winglets, a stretched fuselage, and a distinctive T-tail configuration."
+  },
+  {
+    "mcq_id": "MD-80",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin turboprop engines, does not have high-mounted wings, does not have a large cargo door, and does not have four-bladed propellers.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engines, does not have twin turboprop engines, and does not have four‑bladed propellers.",
+      "C": "This image shows an aircraft which does not have a T‑tail, does not have a sleek fuselage, does not have a high‑wing design, and does not have twin turboprop engines.",
+      "D": "This image shows an aircraft which does not have rear‑mounted engines, does not have distinctive cockpit windows, does not have a rounded fuselage, and does not have a large cargo door."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet."
+  },
+  {
+    "mcq_id": "MD-80",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a classic Airbus A300 nose with six cockpit windows.",
+      "B": "This image shows an aircraft which does not have a sleek fuselage, does not have distinctive cockpit windows, does not have a slender fuselage, and does not have a blue tail.",
+      "C": "This image shows an aircraft which does not have twin turboprop engines, does not have high-mounted wings, does not have a large cargo door, and does not have four-bladed propellers.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a pointed nose, and does not have a silver fuselage."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is a aircraft which has a T-tail, rear-mounted engines, a sleek fuselage, and distinctive cockpit windows, distinguishing it as a McDonnell Douglas MD-80 series jet."
+  },
+  {
+    "mcq_id": "MD-90",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T‑tail, does not have two rear‑mounted engines, does not have a pointed nose, and does not have a blue stripe on the fuselage.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have high‑mounted wings, does not have a single turbofan engine, does not have forward wing‑root air intakes, and does not have a single propeller.",
+      "C": "This image shows an aircraft which does not have a longer fuselage, does not have five‑abreast seating visible through windows, does not have a green tail, and does not have a yellow stripe on the wing.",
+      "D": "This image shows an aircraft which does not have a longer fuselage, does not have two rear‑mounted engines, does not have a red propeller, and does not have a white canopy."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "MD-90",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a longer fuselage, does not have five-abreast seating, does not have a high T-tail, and does not have oval-shaped windows.",
+      "B": "This image shows an aircraft which does not have two rear‑mounted engines, does not have a T‑tail with a distinctive notch, does not have a slender fuselage, and does not have swept‑back wings.",
+      "C": "This image shows an aircraft which does not have star-shaped windows, does not have a high V‑tail, does not have a short fuselage, does not have circular wings, and does not have a high‑wing design.",
+      "D": "This image shows an aircraft which does not have a longer fuselage, does not have two rear‑mounted engines, does not have oval-shaped windows, and does not have a high‑wing design."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a longer fuselage with two rear-mounted engines, a T-tail with a distinctive notch, and a five-abreast seating configuration visible through its windows, distinguishing it from similar models."
+  },
+  {
+    "mcq_id": "Metroliner",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low‑mounted wings, a single turbofan engine, forward wing‑root air intakes, a red, blue, and white livery, or a tandem cockpit.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engines, does not have a green cockpit window, and does not have a yellow pointed nose.",
+      "C": "This image shows an aircraft which does not have a high‑wing configuration, does not have rear‑mounted engines, does not have a blue tandem cockpit, and does not have orange forward wing‑root air intakes.",
+      "D": "This image shows an aircraft which does not have a T‑tail configuration, does not have two rear‑mounted engines, does not have a purple straight wing, and does not have green evenly spaced oval windows."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement."
+  },
+  {
+    "mcq_id": "Metroliner",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low‑mounted wings, a single turbofan engine, forward wing‑root air intakes, a red, blue, and white livery, or a tandem cockpit.",
+      "B": "This image shows an aircraft which does not have high-wing configuration, does not have rear-mounted engines, does not have three engines, and does not have a red wide-body fuselage.",
+      "C": "This image shows an aircraft which does not have streamlined fuselage, does not have T-tail design, does not have swept-back wings, and does not have a green low-wing configuration.",
+      "D": "This image shows an aircraft which does not have high-wing configuration, does not have T-tail design, does not have star-shaped passenger windows, and does not have a purple low-wing configuration."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a streamlined fuselage, high-wing configuration, rear-mounted engines, and a T-tail design, distinguishing it from similar models with its unique aerodynamic features and landing gear placement."
+  },
+  {
+    "mcq_id": "PA-28",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing configuration, does not have a single-engine propeller, does not have a classic Airbus A300 nose, does not have six cockpit windows.",
+      "B": "This image shows an aircraft which does not have a straight wing, does not have a T-tail, does not have rear-mounted engines, does not have a sleek fuselage.",
+      "C": "This image shows an aircraft which does not have a tricycle landing gear, does not have a straight wing, does not have a tandem cockpit, does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have a classic Airbus A300 nose, does not have six cockpit windows, does not have two turbofan engines, does not have rear-mounted engines, does not have circular winglets."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a low-wing monoplane configuration with a straight wing, tricycle landing gear, single-engine propeller, and a distinctive T-tail in some variants like the PA-28R-201."
+  },
+  {
+    "mcq_id": "PA-28",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail configuration, does not have a low-wing monoplane design, does not have a circular fuselage, does not have wings swept at 23 degrees.",
+      "B": "This image shows an aircraft which does not have a low-wing monoplane design, does not have a T-tail configuration, does not have a blue cylindrical fuselage, does not have red rear fuselage‑mounted engines.",
+      "C": "This image shows an aircraft which does not have a low-wing monoplane design, does not have tricycle landing gear, does not have twin wing‑mounted engines, does not have a green fuselage accommodating multiple passenger classes.",
+      "D": "This image shows an aircraft which does not have two rear‑mounted engines, does not have wings swept at 23 degrees, does not have leading edge slats, does not have four main wheels, does not have a star-shaped fuselage."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is an aircraft which has a low-wing monoplane configuration with a straight wing, tricycle landing gear, single-engine propeller, and a distinctive T-tail in some variants like the PA-28R-201."
+  },
+  {
+    "mcq_id": "SR-20",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have low-wing, does not have single-engine, does not have a double-deck layout, does not have winglets.",
+      "B": "This image shows an aircraft which does not have monoplane, does not have three-bladed propeller, does not have rear-mounted engines, does not have oval windows.",
+      "C": "This image shows an aircraft which does not have a double-deck layout, does not have four engines, does not have winglets, does not have twin engines.",
+      "D": "This image shows an aircraft which does not have canopy cockpit with large windows, does not have fixed tricycle landing gear, does not have twin engines, does not have raked wingtips."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+  },
+  {
+    "mcq_id": "SR-20",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a high-wing configuration, does not have two rear-mounted engines, does not have retractable landing gear, does not have a small vertical tail fin, and does not have a V-Tail.",
+      "B": "This image shows an aircraft which does not have a low-wing design, does not have a three-bladed propeller, does not have rectangular wings with rounded tips, and does not have a small vertical tail fin.",
+      "C": "This image shows an aircraft which does not have a single engine, does not have fixed tricycle landing gear, does not have rear-mounted engines, and does not have a bubble canopy.",
+      "D": "This image shows an aircraft which does not have a canopy-style cockpit with large windows, does not have a T-tail, does not have elliptical wings with green tips, and does not have retractable landing gear."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a low-wing monoplane design, powered by a single-engine with a three-bladed propeller, featuring a distinctive 'T' tail, a canopy-style cockpit with large windows, and fixed tricycle landing gear, commonly identified as a Cirrus SR20 or SR22."
+  },
+  {
+    "mcq_id": "Saab 2000",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin turboprop engines, does not have five-bladed propellers, does not have sleek fuselage, does not have distinctive cockpit windows.",
+      "B": "This image shows an aircraft which does not have a single turbofan engine, does not have a tandem cockpit, does not have a bubble canopy, does not have fixed tailwheel landing gear.",
+      "C": "This image shows an aircraft which does not have oval-shaped fuselage, does not have a high T-tail, does not have a single turbofan engine, does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have large straight wings, does not have rear-mounted engine configuration, does not have a bubble canopy, does not have fixed tailwheel landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights."
+  },
+  {
+    "mcq_id": "Saab 2000",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have twin turboprop engines, does not have a circular fuselage, does not have a blue swept wing, and does not have green landing gear.",
+      "B": "This image shows an aircraft which does not have a T‑tail, does not have rear‑mounted engine configuration, does not have a yellow high wing, and does not have purple landing gear.",
+      "C": "This image shows an aircraft which does not have low‑mounted wings, does not have a T‑tail, does not have a red rectangular fuselage, and does not have orange engine nacelles.",
+      "D": "This image shows an aircraft which does not have a single turbofan engine, does not have a tandem cockpit, does not have a bubble canopy, does not have fixed tailwheel landing gear.."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has an oval-shaped fuselage, large straight wings, a high T-tail, twin turboprop engines with distinctive five-bladed propellers, and a rear-mounted engine configuration for regional flights."
+  },
+  {
+    "mcq_id": "Saab 340",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a low-wing design, does not have two rear-mounted turboprop engines, does not have a single-engine, does not have a three-bladed propeller.",
+      "B": "This image shows an aircraft which does not have a T-tail, does not have a rounded nose, does not have a pointed nose, does not have a high-mounted wing.",
+      "C": "This image shows an aircraft which does not have a large dorsal fin, does not have a T-tail, does not have a single turbofan engine, does not have forward wing root air intakes.",
+      "D": "This image shows an aircraft which does not have a single engine, does not have a turbofan engine, does not have forward wing root air intakes, does not have a tandem cockpit, does not have a high-wing design."
+    },
+    "correct_answer": "D",
+    "correct_description": "This is a aircraft which has a low-wing design, two rear-mounted turboprop engines, a distinctive T-tail, a rounded nose, and a large dorsal fin, distinguishing it from similar models with different engine placements or tail configurations."
+  },
+  {
+    "mcq_id": "Saab 340",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a single engine, does not have a turbofan engine, does not have forward wing root air intakes, does not have a tandem cockpit.",
+      "B": "This image shows an aircraft which does not have a low-wing design, does not have a V-Tail, does not have a blue swept-back wing, and does not have a green built-in airstair.",
+      "C": "This image shows an aircraft which does not have rear-mounted turboprop engines, does not have a T-tail, does not have a purple low-wing, and does not have an orange dorsal fin.",
+      "D": "This image shows an aircraft which does not have a low-wing design, does not have a rounded nose, does not have a yellow high-mounted wing, and does not have a black dorsal fin."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has a low-wing design, two rear-mounted turboprop engines, a distinctive T-tail, a rounded nose, and a large dorsal fin, distinguishing it from similar models with different engine placements or tail configurations."
+  },
+  {
+    "mcq_id": "Spitfire",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have an elliptical wing, does not have a bubble canopy, does not have rear‑mounted engines, does not have oval windows.",
+      "B": "This image shows an aircraft which does not have a T‑tail configuration, does not have four engines, does not have winglets, does not have a double‑deck layout, does not have a prominent forward fuselage hump.",
+      "C": "This image shows an aircraft which does not have a three‑bladed propeller, does not have a sleek fuselage, does not have four engines, does not have winglets.",
+      "D": "This image shows an aircraft which does not have a retractable undercarriage with exposed wheels, does not have elliptical wings, does not have a double‑deck layout, does not have a prominent forward fuselage hump."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has an enclosed cockpit with a bubble canopy, distinctive elliptical wings, a powerful three-bladed propeller, and a sleek fuselage with a retractable undercarriage featuring exposed wheels in flight."
+  },
+  {
+    "mcq_id": "Spitfire",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a bubble canopy, does not have elliptical wings, does not have a T‑tail configuration, and does not have rear‑mounted engines.",
+      "B": "This image shows an aircraft which does not have a three‑bladed propeller, does not have a retractable undercarriage, does not have upward‑canted horizontal stabilizers, and does not have a single vertical tail fin.",
+      "C": "This image shows an aircraft which does not have a T‑tail configuration, does not have rear‑mounted engines, does not have a high‑wing design, does not have rectangular wings, and does not have tricycle landing gear.",
+      "D": "This image shows an aircraft which does not have a bubble canopy, does not have a sleek fuselage, does not have a high‑wing monoplane design, and does not have tricycle landing gear."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has an enclosed cockpit with a bubble canopy, distinctive elliptical wings, a powerful three-bladed propeller, and a sleek fuselage with a retractable undercarriage featuring exposed wheels in flight."
+  },
+  {
+    "mcq_id": "Tornado",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have fixed-sweep wings, twin-engine configuration, a long fuselage, a T-tail, rear-mounted engines.",
+      "B": "This image shows an aircraft which does not have a T-tail, rear-mounted engines, a short fuselage, a four-engine circular wing design.",
+      "C": "This image shows an aircraft which does not have large tail fin with twin tailplanes, side air intakes, a tandem cockpit, low-mounted wings.",
+      "D": "This image shows an aircraft which does not have long fuselage, distinctive markings, low-wing monoplane design, single-engine with three-bladed propeller."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is a aircraft which has fixed-sweep wings, twin-engine configuration, a large tail fin with twin tailplanes, a long fuselage, side air intakes, and distinctive markings for identification."
+  },
+  {
+    "mcq_id": "Tornado",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have circular high-wing design, does not have T-tail, does not have rear-mounted engines, does not have narrow-body fuselage, and does not have rounded nose.",
+      "B": "This image shows an aircraft which does not have twin-engine configuration, does not have large tail fin with twin tailplanes, does not have T-tail, and does not have five cabin windows per side.",
+      "C": "This image shows an aircraft which does not have fixed-sweep wings, does not have side air intakes, does not have rear-mounted engines, and does not have distinctive wing flaps.",
+      "D": "This image shows an aircraft which does not have long fuselage, does not have distinctive markings, does not have single vertical stabilizer, and does not have low-wing configuration."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is a aircraft which has fixed-sweep wings, twin-engine configuration, a large tail fin with twin tailplanes, a long fuselage, side air intakes, and distinctive markings for identification."
+  },
+  {
+    "mcq_id": "Tu-134",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have a three-bladed propeller, and does not have a green canopy.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have circular high-mounted wings, does not have a single turbofan engine, does not have forward wing root air intakes, and does not have a propeller.",
+      "C": "This image shows an aircraft which does not have a sleek fuselage, does not have circular windows, does not have a black propeller, and does not have a yellow nose cone.",
+      "D": "This image shows an aircraft which does not have a T-tail, does not have circular windows, does not have a red livery, and does not have a blue landing gear."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a distinctive T-tail, rear-mounted engines, and a sleek fuselage with circular windows, distinguishing it from similar models despite lacking a glass nose cone."
+  },
+  {
+    "mcq_id": "Tu-134",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have rear-mounted engines, does not have winglets, does not have a green vertical stabilizer.",
+      "B": "This image shows an aircraft which does not have twin turboprop engines, does not have a high-wing design, does not have a glass nose cone, does not have a notch in the T-tail, and does not have five-abreast seating visible.",
+      "C": "This image shows an aircraft which does not have a T-tail, does not have circular windows, does not have a purple nose gear door, does not have a yellow tail cone.",
+      "D": "This image shows an aircraft which does not have rear-mounted engines, does not have circular windows, does not have a silver winglet, does not have a black propeller."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a distinctive T-tail, rear-mounted engines, and a sleek fuselage with circular windows, distinguishing it from similar models despite lacking a glass nose cone."
+  },
+  {
+    "mcq_id": "Tu-154",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a single engine, does not have a circular high‑mounted wing, does not have a tandem cockpit, does not have forward wing‑root air intakes, and does not have a three‑bladed propeller.",
+      "B": "This image shows an aircraft which does not have rear‑mounted engines, does not have a T‑tail, does not have a three‑bladed propeller, and does not have forward wing‑root air intakes.",
+      "C": "This image shows an aircraft which does not have a slender fuselage, does not have swept‑back wings, does not have a propeller, and does not have a canopy‑style cockpit.",
+      "D": "This image shows an aircraft which does not have a T‑tail, does not have two rear‑mounted engines, does not have a propeller, and does not have a canopy‑style cockpit."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements."
+  },
+  {
+    "mcq_id": "Tu-154",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have two rear-mounted engines, a distinctive T-tail configuration, a longer fuselage, and five-abreast seating visible through its windows.",
+      "B": "This image shows an aircraft which does not have a slender fuselage, swept-back wings, clean wings, and built-in airstairs.",
+      "C": "This image shows an aircraft which does not have a longer fuselage, five-abreast seating visible through its windows, built-in airstairs, star-shaped passenger windows, and a distinctive notch on the T-tail.",
+      "D": "This image shows an aircraft which does not have two rear-mounted engines, a slender fuselage, a high T-tail, and oval-shaped passenger windows."
+    },
+    "correct_answer": "C",
+    "correct_description": "This is an aircraft which has two rear-mounted engines, a distinctive T-tail configuration, a slender fuselage, and swept-back wings, distinguishing it from similar models with different engine placements."
+  },
+  {
+    "mcq_id": "Yak-42",
+    "difficulty": "Medium",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have a T-tail, does not have two rear-mounted engines, does not have a V-tail, does not have a nose with four windows.",
+      "B": "This image shows an aircraft which does not have a tandem cockpit, does not have a single turbofan engine, does not have forward wing root air intakes, does not have straight wings, does not have a curved leading edge tail fin.",
+      "C": "This image shows an aircraft which does not have low-winged design, does not have leading edge slats, does not have winglets, does not have a green tail.",
+      "D": "This image shows an aircraft which does not have circular fuselage, does not have tricycle landing gear with four main wheels, does not have a red tail, does not have a winglet."
+    },
+    "correct_answer": "B",
+    "correct_description": "This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels."
+  },
+  {
+    "mcq_id": "Yak-42",
+    "difficulty": "Hard",
+    "question": "Which description does not contradict with the image?",
+    "options": {
+      "A": "This image shows an aircraft which does not have engines mounted under the wings, does not have four front engines, does not have built-in airstairs, and does not have an star shaped windows",
+      "B": "This image shows an aircraft which does not have a T-tail configuration, does not have two rear-mounted engines, does not have a single vertical stabilizer, and does not have green winglets.",
+      "C": "This image shows an aircraft which does not have leading edge slats, does not have slotted trailing edge flaps, does not have a purple canopy, and does not have orange landing gear.",
+      "D": "This image shows an aircraft which does not have a circular fuselage, does not have wings swept at 23 degrees, does not have yellow propellers, and does not have black tail lights."
+    },
+    "correct_answer": "A",
+    "correct_description": "This is an aircraft which has a T-tail configuration, two rear-mounted engines, low-winged design, circular fuselage, wings swept at 23 degrees, leading edge slats, slotted trailing edge flaps, and a tricycle landing gear with four main wheels."
+  }
+]
